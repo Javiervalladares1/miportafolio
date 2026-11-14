@@ -33,7 +33,19 @@ npx remotion render bono14-aguinaldo out/bono14-aguinaldo.mp4
 
 Sin el paso 1 el video igual se genera, pero en silencio y con tiempos estimados (sirve para previsualizar).
 
-Voces: `es-GT-AndresNeural` (hombre) o `es-GT-MartaNeural` (mujer). Cambiala en el JSON (`"voz"`)
+**Opción sin internet (Piper).** El video de ejemplo ya trae su voz hecha así, en `public/voz/`:
+
+```bash
+pip install piper-tts onnx
+# bajá y descomprimí voice-es-mls_10246-low.tar.gz de
+# https://github.com/rhasspy/piper/releases/tag/v0.0.2
+python3 scripts/voz_piper.py videos/bono14-aguinaldo.json --modelo es-mls_10246-low.onnx
+```
+
+Piper suena más robótico que edge-tts, pero es gratis y no depende de nadie. El script usa acento
+latinoamericano, acorta pausas largas y repite las tomas en las que la voz "se traba".
+
+Voces de edge-tts: `es-GT-AndresNeural` (hombre) o `es-GT-MartaNeural` (mujer). Cambiala en el JSON (`"voz"`)
 o con `--voz`. El ritmo se ajusta con `--velocidad +12%`.
 
 ## Crear un video nuevo
