@@ -1,751 +1,751 @@
 {
- "voz": "es-mls_10246-low",
+ "voz": "kokoro/em_alex",
  "escenas": [
   {
    "audio": "voz/bono14-aguinaldo/escena-01.mp3",
-   "duracionMs": 3584,
+   "duracionMs": 4330,
    "palabras": [
     {
      "texto": "¿Sabías",
-     "inicioMs": 80,
-     "finMs": 464
+     "inicioMs": 200,
+     "finMs": 600
     },
     {
      "texto": "que",
-     "inicioMs": 496,
-     "finMs": 560
+     "inicioMs": 625,
+     "finMs": 675
     },
     {
      "texto": "en",
-     "inicioMs": 592,
-     "finMs": 656
+     "inicioMs": 700,
+     "finMs": 750
     },
     {
      "texto": "Guatemala",
-     "inicioMs": 688,
-     "finMs": 1136
+     "inicioMs": 775,
+     "finMs": 1250
     },
     {
      "texto": "te",
-     "inicioMs": 1168,
-     "finMs": 1248
+     "inicioMs": 1275,
+     "finMs": 1375
     },
     {
      "texto": "pagan",
-     "inicioMs": 1280,
-     "finMs": 1520
+     "inicioMs": 1425,
+     "finMs": 1700
     },
     {
      "texto": "catorce",
-     "inicioMs": 1568,
-     "finMs": 1920
+     "inicioMs": 1750,
+     "finMs": 2200
     },
     {
      "texto": "salarios",
-     "inicioMs": 2000,
-     "finMs": 2336
+     "inicioMs": 2250,
+     "finMs": 2700
     },
     {
      "texto": "al",
-     "inicioMs": 2384,
-     "finMs": 2464
+     "inicioMs": 2750,
+     "finMs": 2825
     },
     {
      "texto": "año,",
-     "inicioMs": 2528,
-     "finMs": 2784
+     "inicioMs": 2850,
+     "finMs": 3275
     },
     {
      "texto": "y",
-     "inicioMs": 2976,
-     "finMs": 3008
+     "inicioMs": 3400,
+     "finMs": 3450
     },
     {
      "texto": "no",
-     "inicioMs": 3040,
-     "finMs": 3136
+     "inicioMs": 3500,
+     "finMs": 3625
     },
     {
      "texto": "doce?",
-     "inicioMs": 3168,
-     "finMs": 3440
+     "inicioMs": 3675,
+     "finMs": 4100
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-02.mp3",
-   "duracionMs": 4220,
+   "duracionMs": 5380,
    "palabras": [
     {
      "texto": "Además",
-     "inicioMs": 32,
-     "finMs": 384
+     "inicioMs": 175,
+     "finMs": 500
     },
     {
      "texto": "de",
-     "inicioMs": 416,
-     "finMs": 496
+     "inicioMs": 525,
+     "finMs": 575
     },
     {
      "texto": "tus",
-     "inicioMs": 528,
-     "finMs": 640
+     "inicioMs": 625,
+     "finMs": 750
     },
     {
      "texto": "doce",
-     "inicioMs": 672,
-     "finMs": 864
+     "inicioMs": 775,
+     "finMs": 1025
     },
     {
      "texto": "sueldos,",
-     "inicioMs": 896,
-     "finMs": 1200
+     "inicioMs": 1075,
+     "finMs": 1625
     },
     {
      "texto": "la",
-     "inicioMs": 1264,
-     "finMs": 1328
+     "inicioMs": 1700,
+     "finMs": 1775
     },
     {
      "texto": "ley",
-     "inicioMs": 1360,
-     "finMs": 1488
+     "inicioMs": 1800,
+     "finMs": 1950
     },
     {
      "texto": "te",
-     "inicioMs": 1536,
-     "finMs": 1600
+     "inicioMs": 1975,
+     "finMs": 2050
     },
     {
      "texto": "da",
-     "inicioMs": 1632,
-     "finMs": 1728
+     "inicioMs": 2075,
+     "finMs": 2175
     },
     {
      "texto": "dos",
-     "inicioMs": 1760,
-     "finMs": 1936
+     "inicioMs": 2200,
+     "finMs": 2375
     },
     {
      "texto": "pagos",
-     "inicioMs": 1968,
-     "finMs": 2272
+     "inicioMs": 2425,
+     "finMs": 2725
     },
     {
      "texto": "extra:",
-     "inicioMs": 2336,
-     "finMs": 2608
+     "inicioMs": 2775,
+     "finMs": 3350
     },
     {
      "texto": "el",
-     "inicioMs": 2672,
-     "finMs": 2736
+     "inicioMs": 3450,
+     "finMs": 3525
     },
     {
      "texto": "aguinaldo",
-     "inicioMs": 2768,
-     "finMs": 3168
+     "inicioMs": 3550,
+     "finMs": 4125
     },
     {
      "texto": "y",
-     "inicioMs": 3200,
-     "finMs": 3264
+     "inicioMs": 4175,
+     "finMs": 4200
     },
     {
      "texto": "el",
-     "inicioMs": 3296,
-     "finMs": 3376
+     "inicioMs": 4225,
+     "finMs": 4300
     },
     {
      "texto": "Bono",
-     "inicioMs": 3408,
-     "finMs": 3568
+     "inicioMs": 4350,
+     "finMs": 4575
     },
     {
      "texto": "Catorce.",
-     "inicioMs": 3616,
-     "finMs": 4080
+     "inicioMs": 4625,
+     "finMs": 5150
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-03.mp3",
-   "duracionMs": 4614,
+   "duracionMs": 5830,
    "palabras": [
     {
      "texto": "El",
-     "inicioMs": 40,
-     "finMs": 168
+     "inicioMs": 200,
+     "finMs": 275
     },
     {
      "texto": "Bono",
-     "inicioMs": 200,
-     "finMs": 408
+     "inicioMs": 325,
+     "finMs": 550
     },
     {
      "texto": "Catorce",
-     "inicioMs": 472,
-     "finMs": 824
+     "inicioMs": 600,
+     "finMs": 1100
     },
     {
      "texto": "es",
-     "inicioMs": 888,
-     "finMs": 984
+     "inicioMs": 1125,
+     "finMs": 1250
     },
     {
      "texto": "un",
-     "inicioMs": 1016,
-     "finMs": 1128
+     "inicioMs": 1275,
+     "finMs": 1400
     },
     {
      "texto": "salario",
-     "inicioMs": 1160,
-     "finMs": 1448
+     "inicioMs": 1450,
+     "finMs": 1850
     },
     {
      "texto": "completo,",
-     "inicioMs": 1512,
-     "finMs": 1960
+     "inicioMs": 1900,
+     "finMs": 2650
     },
     {
      "texto": "y",
-     "inicioMs": 2248,
-     "finMs": 2296
+     "inicioMs": 2775,
+     "finMs": 2825
     },
     {
      "texto": "te",
-     "inicioMs": 2360,
-     "finMs": 2424
+     "inicioMs": 2875,
+     "finMs": 2950
     },
     {
      "texto": "lo",
-     "inicioMs": 2456,
-     "finMs": 2520
+     "inicioMs": 2975,
+     "finMs": 3075
     },
     {
      "texto": "tienen",
-     "inicioMs": 2568,
-     "finMs": 2808
+     "inicioMs": 3125,
+     "finMs": 3425
     },
     {
      "texto": "que",
-     "inicioMs": 2840,
-     "finMs": 2920
+     "inicioMs": 3475,
+     "finMs": 3550
     },
     {
      "texto": "pagar",
-     "inicioMs": 2968,
-     "finMs": 3176
+     "inicioMs": 3600,
+     "finMs": 3925
     },
     {
      "texto": "en",
-     "inicioMs": 3208,
-     "finMs": 3272
+     "inicioMs": 3950,
+     "finMs": 4000
     },
     {
      "texto": "la",
-     "inicioMs": 3304,
-     "finMs": 3368
+     "inicioMs": 4025,
+     "finMs": 4125
     },
     {
      "texto": "primera",
-     "inicioMs": 3400,
-     "finMs": 3656
+     "inicioMs": 4175,
+     "finMs": 4575
     },
     {
      "texto": "quincena",
-     "inicioMs": 3736,
-     "finMs": 4072
+     "inicioMs": 4625,
+     "finMs": 5050
     },
     {
      "texto": "de",
-     "inicioMs": 4104,
-     "finMs": 4184
+     "inicioMs": 5075,
+     "finMs": 5150
     },
     {
      "texto": "julio.",
-     "inicioMs": 4232,
-     "finMs": 4470
+     "inicioMs": 5200,
+     "finMs": 5600
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-04.mp3",
-   "duracionMs": 6340,
+   "duracionMs": 6430,
    "palabras": [
     {
      "texto": "El",
-     "inicioMs": 36,
-     "finMs": 132
+     "inicioMs": 200,
+     "finMs": 275
     },
     {
      "texto": "aguinaldo",
-     "inicioMs": 180,
-     "finMs": 612
+     "inicioMs": 300,
+     "finMs": 800
     },
     {
      "texto": "es",
-     "inicioMs": 644,
-     "finMs": 740
+     "inicioMs": 825,
+     "finMs": 950
     },
     {
      "texto": "otro",
-     "inicioMs": 772,
-     "finMs": 948
+     "inicioMs": 975,
+     "finMs": 1200
     },
     {
      "texto": "salario",
-     "inicioMs": 996,
-     "finMs": 1364
+     "inicioMs": 1250,
+     "finMs": 1650
     },
     {
      "texto": "completo.",
-     "inicioMs": 1428,
-     "finMs": 2164
+     "inicioMs": 1700,
+     "finMs": 2475
     },
     {
      "texto": "Se",
-     "inicioMs": 2804,
-     "finMs": 2884
+     "inicioMs": 2625,
+     "finMs": 2725
     },
     {
      "texto": "paga",
-     "inicioMs": 2964,
-     "finMs": 3140
+     "inicioMs": 2775,
+     "finMs": 2975
     },
     {
      "texto": "en",
-     "inicioMs": 3172,
-     "finMs": 3236
+     "inicioMs": 3000,
+     "finMs": 3050
     },
     {
      "texto": "diciembre,",
-     "inicioMs": 3268,
-     "finMs": 3796
+     "inicioMs": 3075,
+     "finMs": 3700
     },
     {
      "texto": "o",
-     "inicioMs": 3908,
-     "finMs": 3940
+     "inicioMs": 3800,
+     "finMs": 3850
     },
     {
      "texto": "la",
-     "inicioMs": 3988,
-     "finMs": 4052
+     "inicioMs": 3875,
+     "finMs": 3950
     },
     {
      "texto": "mitad",
-     "inicioMs": 4084,
-     "finMs": 4324
+     "inicioMs": 3975,
+     "finMs": 4275
     },
     {
      "texto": "en",
-     "inicioMs": 4356,
-     "finMs": 4420
+     "inicioMs": 4300,
+     "finMs": 4350
     },
     {
      "texto": "diciembre",
-     "inicioMs": 4452,
-     "finMs": 4996
+     "inicioMs": 4375,
+     "finMs": 4950
     },
     {
      "texto": "y",
-     "inicioMs": 5060,
-     "finMs": 5108
+     "inicioMs": 5000,
+     "finMs": 5025
     },
     {
      "texto": "la",
-     "inicioMs": 5156,
-     "finMs": 5252
+     "inicioMs": 5050,
+     "finMs": 5125
     },
     {
      "texto": "otra",
-     "inicioMs": 5284,
-     "finMs": 5476
+     "inicioMs": 5150,
+     "finMs": 5350
     },
     {
      "texto": "mitad",
-     "inicioMs": 5524,
-     "finMs": 5748
+     "inicioMs": 5375,
+     "finMs": 5700
     },
     {
      "texto": "en",
-     "inicioMs": 5780,
-     "finMs": 5844
+     "inicioMs": 5750,
+     "finMs": 5825
     },
     {
      "texto": "enero.",
-     "inicioMs": 5892,
+     "inicioMs": 5850,
      "finMs": 6200
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-05.mp3",
-   "duracionMs": 5462,
+   "duracionMs": 6155,
    "palabras": [
     {
      "texto": "Si",
-     "inicioMs": 22,
-     "finMs": 134
+     "inicioMs": 200,
+     "finMs": 275
     },
     {
      "texto": "ganás",
-     "inicioMs": 166,
-     "finMs": 390
+     "inicioMs": 300,
+     "finMs": 600
     },
     {
      "texto": "cuatro",
-     "inicioMs": 422,
-     "finMs": 662
+     "inicioMs": 625,
+     "finMs": 850
     },
     {
      "texto": "mil",
-     "inicioMs": 694,
-     "finMs": 822
+     "inicioMs": 875,
+     "finMs": 1000
     },
     {
      "texto": "quetzales",
-     "inicioMs": 870,
-     "finMs": 1238
+     "inicioMs": 1050,
+     "finMs": 1525
     },
     {
      "texto": "al",
-     "inicioMs": 1270,
-     "finMs": 1334
+     "inicioMs": 1575,
+     "finMs": 1650
     },
     {
      "texto": "mes,",
-     "inicioMs": 1366,
-     "finMs": 1494
+     "inicioMs": 1700,
+     "finMs": 2150
     },
     {
      "texto": "al",
-     "inicioMs": 1558,
-     "finMs": 1654
+     "inicioMs": 2275,
+     "finMs": 2350
     },
     {
      "texto": "año",
-     "inicioMs": 1686,
-     "finMs": 2022
+     "inicioMs": 2375,
+     "finMs": 2575
     },
     {
      "texto": "no",
-     "inicioMs": 2118,
-     "finMs": 2278
+     "inicioMs": 2625,
+     "finMs": 2700
     },
     {
      "texto": "recibís",
-     "inicioMs": 2310,
-     "finMs": 2806
+     "inicioMs": 2725,
+     "finMs": 3150
     },
     {
      "texto": "cuarenta",
-     "inicioMs": 2854,
-     "finMs": 3158
+     "inicioMs": 3200,
+     "finMs": 3675
     },
     {
      "texto": "y",
-     "inicioMs": 3190,
-     "finMs": 3254
-    },
-    {
-     "texto": "ocho",
-     "inicioMs": 3286,
-     "finMs": 3446
-    },
-    {
-     "texto": "mil,",
-     "inicioMs": 3494,
+     "inicioMs": 3725,
      "finMs": 3750
     },
     {
+     "texto": "ocho",
+     "inicioMs": 3775,
+     "finMs": 4050
+    },
+    {
+     "texto": "mil,",
+     "inicioMs": 4100,
+     "finMs": 4400
+    },
+    {
      "texto": "sino",
-     "inicioMs": 4076,
-     "finMs": 4316
+     "inicioMs": 4500,
+     "finMs": 4675
     },
     {
      "texto": "cincuenta",
-     "inicioMs": 4348,
-     "finMs": 4780
+     "inicioMs": 4725,
+     "finMs": 5225
     },
     {
      "texto": "y",
-     "inicioMs": 4812,
-     "finMs": 4844
+     "inicioMs": 5275,
+     "finMs": 5325
     },
     {
      "texto": "seis",
-     "inicioMs": 4876,
-     "finMs": 5036
+     "inicioMs": 5375,
+     "finMs": 5625
     },
     {
      "texto": "mil.",
-     "inicioMs": 5084,
-     "finMs": 5320
+     "inicioMs": 5675,
+     "finMs": 5925
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-06.mp3",
-   "duracionMs": 3888,
+   "duracionMs": 4780,
    "palabras": [
     {
      "texto": "Y",
-     "inicioMs": 32,
-     "finMs": 112
+     "inicioMs": 200,
+     "finMs": 250
     },
     {
      "texto": "si",
-     "inicioMs": 192,
-     "finMs": 288
+     "inicioMs": 300,
+     "finMs": 400
     },
     {
      "texto": "llevás",
-     "inicioMs": 336,
-     "finMs": 576
+     "inicioMs": 450,
+     "finMs": 775
     },
     {
      "texto": "menos",
-     "inicioMs": 608,
-     "finMs": 800
+     "inicioMs": 825,
+     "finMs": 1100
     },
     {
      "texto": "de",
-     "inicioMs": 832,
-     "finMs": 896
+     "inicioMs": 1125,
+     "finMs": 1175
     },
     {
      "texto": "un",
-     "inicioMs": 928,
-     "finMs": 1024
+     "inicioMs": 1200,
+     "finMs": 1300
     },
     {
      "texto": "año",
-     "inicioMs": 1056,
-     "finMs": 1184
+     "inicioMs": 1325,
+     "finMs": 1575
     },
     {
      "texto": "en",
-     "inicioMs": 1216,
-     "finMs": 1280
+     "inicioMs": 1600,
+     "finMs": 1675
     },
     {
      "texto": "tu",
-     "inicioMs": 1312,
-     "finMs": 1376
+     "inicioMs": 1725,
+     "finMs": 1825
     },
     {
      "texto": "trabajo,",
-     "inicioMs": 1408,
-     "finMs": 1856
+     "inicioMs": 1875,
+     "finMs": 2500
     },
     {
      "texto": "igual",
-     "inicioMs": 2176,
-     "finMs": 2416
+     "inicioMs": 2625,
+     "finMs": 2925
     },
     {
      "texto": "te",
-     "inicioMs": 2464,
-     "finMs": 2544
+     "inicioMs": 2975,
+     "finMs": 3075
     },
     {
      "texto": "toca",
-     "inicioMs": 2592,
-     "finMs": 2784
+     "inicioMs": 3150,
+     "finMs": 3375
     },
     {
      "texto": "la",
-     "inicioMs": 2816,
-     "finMs": 2912
+     "inicioMs": 3400,
+     "finMs": 3500
     },
     {
      "texto": "parte",
-     "inicioMs": 2944,
-     "finMs": 3184
+     "inicioMs": 3550,
+     "finMs": 3800
     },
     {
      "texto": "proporcional.",
-     "inicioMs": 3216,
-     "finMs": 3740
+     "inicioMs": 3850,
+     "finMs": 4550
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-07.mp3",
-   "duracionMs": 7658,
+   "duracionMs": 7230,
    "palabras": [
     {
      "texto": "El",
-     "inicioMs": 38,
-     "finMs": 166
+     "inicioMs": 200,
+     "finMs": 275
     },
     {
      "texto": "truco:",
-     "inicioMs": 230,
-     "finMs": 454
+     "inicioMs": 325,
+     "finMs": 675
     },
     {
      "texto": "antes",
-     "inicioMs": 566,
-     "finMs": 982
+     "inicioMs": 750,
+     "finMs": 1050
     },
     {
      "texto": "de",
-     "inicioMs": 1174,
-     "finMs": 1238
+     "inicioMs": 1075,
+     "finMs": 1125
     },
     {
      "texto": "que",
-     "inicioMs": 1270,
-     "finMs": 1350
+     "inicioMs": 1150,
+     "finMs": 1200
     },
     {
      "texto": "te",
-     "inicioMs": 1398,
-     "finMs": 1462
+     "inicioMs": 1225,
+     "finMs": 1325
     },
     {
      "texto": "caigan,",
-     "inicioMs": 1510,
-     "finMs": 1766
+     "inicioMs": 1375,
+     "finMs": 1800
     },
     {
      "texto": "decidí",
-     "inicioMs": 1830,
-     "finMs": 2134
+     "inicioMs": 1875,
+     "finMs": 2275
     },
     {
      "texto": "a",
-     "inicioMs": 2166,
-     "finMs": 2198
+     "inicioMs": 2325,
+     "finMs": 2350
     },
     {
      "texto": "dónde",
-     "inicioMs": 2230,
-     "finMs": 2454
+     "inicioMs": 2400,
+     "finMs": 2650
     },
     {
      "texto": "va",
-     "inicioMs": 2486,
-     "finMs": 2678
+     "inicioMs": 2675,
+     "finMs": 2800
     },
     {
      "texto": "cada",
-     "inicioMs": 2726,
-     "finMs": 2918
+     "inicioMs": 2850,
+     "finMs": 3075
     },
     {
      "texto": "quetzal.",
-     "inicioMs": 2950,
-     "finMs": 3350
+     "inicioMs": 3125,
+     "finMs": 3800
     },
     {
      "texto": "Una",
-     "inicioMs": 3964,
-     "finMs": 4156
+     "inicioMs": 3925,
+     "finMs": 4075
     },
     {
      "texto": "parte",
-     "inicioMs": 4204,
-     "finMs": 4428
+     "inicioMs": 4125,
+     "finMs": 4375
     },
     {
      "texto": "al",
-     "inicioMs": 4460,
-     "finMs": 4524
+     "inicioMs": 4400,
+     "finMs": 4475
     },
     {
      "texto": "ahorro,",
-     "inicioMs": 4556,
-     "finMs": 4924
+     "inicioMs": 4525,
+     "finMs": 4875
     },
     {
      "texto": "otra",
-     "inicioMs": 5226,
-     "finMs": 5418
+     "inicioMs": 4925,
+     "finMs": 5150
     },
     {
      "texto": "a",
-     "inicioMs": 5450,
-     "finMs": 5482
+     "inicioMs": 5175,
+     "finMs": 5200
     },
     {
      "texto": "tus",
-     "inicioMs": 5514,
-     "finMs": 5626
+     "inicioMs": 5225,
+     "finMs": 5350
     },
     {
      "texto": "deudas,",
-     "inicioMs": 5658,
-     "finMs": 5978
+     "inicioMs": 5400,
+     "finMs": 5850
     },
     {
      "texto": "y",
-     "inicioMs": 6042,
-     "finMs": 6106
+     "inicioMs": 5950,
+     "finMs": 6000
     },
     {
      "texto": "otra",
-     "inicioMs": 6170,
-     "finMs": 6346
+     "inicioMs": 6025,
+     "finMs": 6250
     },
     {
      "texto": "para",
-     "inicioMs": 6378,
-     "finMs": 6538
+     "inicioMs": 6275,
+     "finMs": 6400
     },
     {
      "texto": "disfrutar.",
-     "inicioMs": 6570,
-     "finMs": 7162
+     "inicioMs": 6425,
+     "finMs": 7000
     }
    ]
   },
   {
    "audio": "voz/bono14-aguinaldo/escena-08.mp3",
-   "duracionMs": 3098,
+   "duracionMs": 3155,
    "palabras": [
     {
      "texto": "Seguime",
-     "inicioMs": 128,
-     "finMs": 480
+     "inicioMs": 200,
+     "finMs": 550
     },
     {
      "texto": "para",
-     "inicioMs": 528,
-     "finMs": 688
+     "inicioMs": 600,
+     "finMs": 775
     },
     {
      "texto": "más",
-     "inicioMs": 736,
-     "finMs": 1040
+     "inicioMs": 825,
+     "finMs": 1075
     },
     {
      "texto": "datos",
-     "inicioMs": 1184,
-     "finMs": 1456
+     "inicioMs": 1125,
+     "finMs": 1475
     },
     {
      "texto": "de",
-     "inicioMs": 1488,
-     "finMs": 1568
+     "inicioMs": 1500,
+     "finMs": 1550
     },
     {
      "texto": "finanzas",
      "inicioMs": 1600,
-     "finMs": 1968
+     "finMs": 2175
     },
     {
      "texto": "en",
-     "inicioMs": 2000,
-     "finMs": 2064
+     "inicioMs": 2225,
+     "finMs": 2300
     },
     {
      "texto": "Guatemala.",
-     "inicioMs": 2096,
-     "finMs": 2736
+     "inicioMs": 2325,
+     "finMs": 2925
     }
    ]
   }

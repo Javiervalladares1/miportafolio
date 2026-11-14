@@ -33,7 +33,16 @@ npx remotion render bono14-aguinaldo out/bono14-aguinaldo.mp4
 
 Sin el paso 1 el video igual se genera, pero en silencio y con tiempos estimados (sirve para previsualizar).
 
-**Opción sin internet (Piper).** El video de ejemplo ya trae su voz hecha así, en `public/voz/`:
+**Opción recomendada sin internet: Kokoro** (voz neuronal natural, gratis). El video de ejemplo ya trae su voz hecha así, en `public/voz/`:
+
+```bash
+pip install kokoro-onnx onnx soundfile
+# bajá kokoro-v1.0.onnx y voices-v1.0.bin de
+# https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0  ->  carpeta modelos/
+python3 scripts/voz_kokoro.py videos/bono14-aguinaldo.json --voz em_alex   # o ef_dora (mujer), em_santa
+```
+
+**Opción básica sin internet: Piper** (suena más robótico):
 
 ```bash
 pip install piper-tts onnx
