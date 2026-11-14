@@ -99,8 +99,9 @@ def escena(k: Kokoro, ses: ort.InferenceSession, texto: str, voz: str, vel: floa
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("guion")
-    ap.add_argument("--voz", default="em_alex", help="em_alex, em_santa o ef_dora")
-    ap.add_argument("--velocidad", type=float, default=1.1, help="1.0 normal; 1.1–1.2 ritmo TikTok")
+    ap.add_argument("guiones_extra", nargs="*", help="más JSON para procesar en lote")
+    ap.add_argument("--voz", help="em_alex, em_santa o ef_dora (por defecto, la del JSON o em_alex)")
+    ap.add_argument("--velocidad", type=float, help="1.0 normal; 1.1–1.2 ritmo TikTok (por defecto, la del JSON o 1.1)")
     ap.add_argument("--acento", default="es-419", help="es-419 = latinoamericano")
     ap.add_argument("--modelos", default=str(RAIZ / "modelos"), help="carpeta con kokoro-v1.0.onnx y voices-v1.0.bin")
     args = ap.parse_args()
@@ -109,7 +110,16 @@ def main() -> None:
     k = Kokoro(str(modelos / "kokoro-v1.0.onnx"), str(modelos / "voices-v1.0.bin"))
     ses = sesion_con_duraciones(modelos / "kokoro-v1.0.onnx")
 
-    video = json.loads(Path(args.guion).read_text(encoding="utf-8"))
+    for ruta in [args.guion, *args.guiones_extra]:
+        procesar(Path(ruta), k, ses, args)
+
+
+def procesar(ruta: Path, k: Kokoro, ses: ort.InferenceSession, args) -> None:
+    video = json.loads(ruta.read_text(encoding="utf-8"))
+    voz_json = video.get("voz", "")
+    voz = args.voz or (voz_json if voz_json[:3] in ("em_", "ef_") else "em_alex")
+    vel = args.velocidad or video.get("velocidad", 1.1)
+    print(f"== {video['id']} ({voz}, velocidad {vel})")
     carpeta = RAIZ / "public" / "voz" / video["id"]
     carpeta.mkdir(parents=True, exist_ok=True)
     for viejo in carpeta.glob("escena-*.mp3"):
@@ -118,7 +128,7 @@ def main() -> None:
     escenas = []
     for i, e in enumerate(video["escenas"], 1):
         print(f"[{i}/{len(video['escenas'])}] {e['texto'][:60]}…")
-        audio, palabras = escena(k, ses, e["texto"], args.voz, args.velocidad, args.acento)
+        audio, palabras = escena(k, ses, e["texto"], voz, vel, args.acento)
         nombre = f"escena-{i:02d}.mp3"
         with tempfile.NamedTemporaryFile(suffix=".wav") as tmp:
             sf.write(tmp.name, audio, SR)
@@ -135,10 +145,10 @@ def main() -> None:
         })
 
     (carpeta / "tiempos.json").write_text(
-        json.dumps({"voz": f"kokoro/{args.voz}", "escenas": escenas}, ensure_ascii=False, indent=1),
+        json.dumps({"voz": f"kokoro/{voz}", "escenas": escenas}, ensure_ascii=False, indent=1),
         encoding="utf-8",
     )
-    print(f"Listo: {sum(e['duracionMs'] for e in escenas) / 1000:.0f} s de voz ({args.voz})")
+    print(f"Listo: {sum(e['duracionMs'] for e in escenas) / 1000:.0f} s de voz ({voz})")
 
 
 if __name__ == "__main__":

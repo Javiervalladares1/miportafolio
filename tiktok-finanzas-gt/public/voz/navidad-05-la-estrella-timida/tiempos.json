@@ -1,0 +1,849 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-01.mp3",
+   "duracionMs": 5955,
+   "palabras": [
+    {
+     "texto": "Hola,",
+     "inicioMs": 250,
+     "finMs": 525
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 600,
+     "finMs": 1375
+    },
+    {
+     "texto": "¿Ya",
+     "inicioMs": 1500,
+     "finMs": 1600
+    },
+    {
+     "texto": "están",
+     "inicioMs": 1625,
+     "finMs": 1925
+    },
+    {
+     "texto": "en",
+     "inicioMs": 1950,
+     "finMs": 2000
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2025,
+     "finMs": 2125
+    },
+    {
+     "texto": "cama,",
+     "inicioMs": 2175,
+     "finMs": 2475
+    },
+    {
+     "texto": "bien",
+     "inicioMs": 2550,
+     "finMs": 2750
+    },
+    {
+     "texto": "tapaditos?",
+     "inicioMs": 2800,
+     "finMs": 3625
+    },
+    {
+     "texto": "Hoy",
+     "inicioMs": 3750,
+     "finMs": 3875
+    },
+    {
+     "texto": "les",
+     "inicioMs": 3900,
+     "finMs": 4050
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 4100,
+     "finMs": 4400
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4425,
+     "finMs": 4550
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 4600,
+     "finMs": 4950
+    },
+    {
+     "texto": "para",
+     "inicioMs": 5000,
+     "finMs": 5175
+    },
+    {
+     "texto": "dormir.",
+     "inicioMs": 5200,
+     "finMs": 5725
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-02.mp3",
+   "duracionMs": 8305,
+   "palabras": [
+    {
+     "texto": "En",
+     "inicioMs": 250,
+     "finMs": 325
+    },
+    {
+     "texto": "el",
+     "inicioMs": 375,
+     "finMs": 475
+    },
+    {
+     "texto": "cielo",
+     "inicioMs": 550,
+     "finMs": 900
+    },
+    {
+     "texto": "había",
+     "inicioMs": 975,
+     "finMs": 1250
+    },
+    {
+     "texto": "una",
+     "inicioMs": 1275,
+     "finMs": 1425
+    },
+    {
+     "texto": "estrella",
+     "inicioMs": 1450,
+     "finMs": 1925
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 1975,
+     "finMs": 2150
+    },
+    {
+     "texto": "pequeña.",
+     "inicioMs": 2200,
+     "finMs": 3150
+    },
+    {
+     "texto": "Las",
+     "inicioMs": 3300,
+     "finMs": 3450
+    },
+    {
+     "texto": "otras",
+     "inicioMs": 3475,
+     "finMs": 3775
+    },
+    {
+     "texto": "estrellas",
+     "inicioMs": 3825,
+     "finMs": 4425
+    },
+    {
+     "texto": "brillaban",
+     "inicioMs": 4475,
+     "finMs": 5000
+    },
+    {
+     "texto": "fuerte,",
+     "inicioMs": 5075,
+     "finMs": 5625
+    },
+    {
+     "texto": "pero",
+     "inicioMs": 5725,
+     "finMs": 5925
+    },
+    {
+     "texto": "ella",
+     "inicioMs": 5975,
+     "finMs": 6275
+    },
+    {
+     "texto": "se",
+     "inicioMs": 6325,
+     "finMs": 6375
+    },
+    {
+     "texto": "escondía",
+     "inicioMs": 6400,
+     "finMs": 6950
+    },
+    {
+     "texto": "detrás",
+     "inicioMs": 6975,
+     "finMs": 7400
+    },
+    {
+     "texto": "de",
+     "inicioMs": 7425,
+     "finMs": 7475
+    },
+    {
+     "texto": "una",
+     "inicioMs": 7500,
+     "finMs": 7675
+    },
+    {
+     "texto": "nube.",
+     "inicioMs": 7725,
+     "finMs": 8075
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-03.mp3",
+   "duracionMs": 3805,
+   "palabras": [
+    {
+     "texto": "Mi",
+     "inicioMs": 250,
+     "finMs": 350
+    },
+    {
+     "texto": "luz",
+     "inicioMs": 400,
+     "finMs": 575
+    },
+    {
+     "texto": "es",
+     "inicioMs": 600,
+     "finMs": 725
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 775,
+     "finMs": 925
+    },
+    {
+     "texto": "chiquita,",
+     "inicioMs": 950,
+     "finMs": 1475
+    },
+    {
+     "texto": "pensaba.",
+     "inicioMs": 1550,
+     "finMs": 2250
+    },
+    {
+     "texto": "Nadie",
+     "inicioMs": 2400,
+     "finMs": 2700
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2725,
+     "finMs": 2825
+    },
+    {
+     "texto": "va",
+     "inicioMs": 2850,
+     "finMs": 2975
+    },
+    {
+     "texto": "a",
+     "inicioMs": 3000,
+     "finMs": 3025
+    },
+    {
+     "texto": "notar.",
+     "inicioMs": 3050,
+     "finMs": 3575
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-04.mp3",
+   "duracionMs": 7280,
+   "palabras": [
+    {
+     "texto": "Una",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "noche,",
+     "inicioMs": 425,
+     "finMs": 775
+    },
+    {
+     "texto": "en",
+     "inicioMs": 825,
+     "finMs": 875
+    },
+    {
+     "texto": "el",
+     "inicioMs": 900,
+     "finMs": 975
+    },
+    {
+     "texto": "bosque,",
+     "inicioMs": 1025,
+     "finMs": 1475
+    },
+    {
+     "texto": "un",
+     "inicioMs": 1525,
+     "finMs": 1625
+    },
+    {
+     "texto": "niño",
+     "inicioMs": 1675,
+     "finMs": 1950
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2000,
+     "finMs": 2100
+    },
+    {
+     "texto": "perdió",
+     "inicioMs": 2150,
+     "finMs": 2450
+    },
+    {
+     "texto": "buscando",
+     "inicioMs": 2475,
+     "finMs": 2975
+    },
+    {
+     "texto": "leña.",
+     "inicioMs": 3025,
+     "finMs": 3750
+    },
+    {
+     "texto": "Estaba",
+     "inicioMs": 3900,
+     "finMs": 4250
+    },
+    {
+     "texto": "oscuro,",
+     "inicioMs": 4275,
+     "finMs": 4850
+    },
+    {
+     "texto": "tenía",
+     "inicioMs": 4925,
+     "finMs": 5250
+    },
+    {
+     "texto": "frío,",
+     "inicioMs": 5325,
+     "finMs": 5700
+    },
+    {
+     "texto": "y",
+     "inicioMs": 5800,
+     "finMs": 5850
+    },
+    {
+     "texto": "un",
+     "inicioMs": 5875,
+     "finMs": 6000
+    },
+    {
+     "texto": "poquito",
+     "inicioMs": 6050,
+     "finMs": 6475
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6500,
+     "finMs": 6600
+    },
+    {
+     "texto": "miedo.",
+     "inicioMs": 6650,
+     "finMs": 7050
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-05.mp3",
+   "duracionMs": 7455,
+   "palabras": [
+    {
+     "texto": "Las",
+     "inicioMs": 250,
+     "finMs": 400
+    },
+    {
+     "texto": "estrellas",
+     "inicioMs": 450,
+     "finMs": 925
+    },
+    {
+     "texto": "grandes",
+     "inicioMs": 975,
+     "finMs": 1425
+    },
+    {
+     "texto": "estaban",
+     "inicioMs": 1475,
+     "finMs": 1925
+    },
+    {
+     "texto": "lejos,",
+     "inicioMs": 1975,
+     "finMs": 2550
+    },
+    {
+     "texto": "detrás",
+     "inicioMs": 2650,
+     "finMs": 3000
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3025,
+     "finMs": 3075
+    },
+    {
+     "texto": "las",
+     "inicioMs": 3100,
+     "finMs": 3250
+    },
+    {
+     "texto": "montañas.",
+     "inicioMs": 3300,
+     "finMs": 4275
+    },
+    {
+     "texto": "Solo",
+     "inicioMs": 4450,
+     "finMs": 4675
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4700,
+     "finMs": 4750
+    },
+    {
+     "texto": "estrellita",
+     "inicioMs": 4775,
+     "finMs": 5300
+    },
+    {
+     "texto": "estaba",
+     "inicioMs": 5325,
+     "finMs": 5725
+    },
+    {
+     "texto": "justo",
+     "inicioMs": 5800,
+     "finMs": 6150
+    },
+    {
+     "texto": "encima",
+     "inicioMs": 6200,
+     "finMs": 6625
+    },
+    {
+     "texto": "del",
+     "inicioMs": 6650,
+     "finMs": 6775
+    },
+    {
+     "texto": "niño.",
+     "inicioMs": 6825,
+     "finMs": 7225
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-06.mp3",
+   "duracionMs": 5630,
+   "palabras": [
+    {
+     "texto": "Entonces",
+     "inicioMs": 250,
+     "finMs": 750
+    },
+    {
+     "texto": "respiró",
+     "inicioMs": 800,
+     "finMs": 1200
+    },
+    {
+     "texto": "profundo,",
+     "inicioMs": 1250,
+     "finMs": 1950
+    },
+    {
+     "texto": "salió",
+     "inicioMs": 2050,
+     "finMs": 2300
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2325,
+     "finMs": 2400
+    },
+    {
+     "texto": "su",
+     "inicioMs": 2450,
+     "finMs": 2575
+    },
+    {
+     "texto": "nube,",
+     "inicioMs": 2625,
+     "finMs": 2975
+    },
+    {
+     "texto": "y",
+     "inicioMs": 3050,
+     "finMs": 3100
+    },
+    {
+     "texto": "brilló.",
+     "inicioMs": 3150,
+     "finMs": 3650
+    },
+    {
+     "texto": "Brilló",
+     "inicioMs": 3825,
+     "finMs": 4200
+    },
+    {
+     "texto": "con",
+     "inicioMs": 4250,
+     "finMs": 4400
+    },
+    {
+     "texto": "toda",
+     "inicioMs": 4450,
+     "finMs": 4675
+    },
+    {
+     "texto": "su",
+     "inicioMs": 4725,
+     "finMs": 4825
+    },
+    {
+     "texto": "fuerza.",
+     "inicioMs": 4875,
+     "finMs": 5400
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-07.mp3",
+   "duracionMs": 6580,
+   "palabras": [
+    {
+     "texto": "Su",
+     "inicioMs": 250,
+     "finMs": 350
+    },
+    {
+     "texto": "luz",
+     "inicioMs": 400,
+     "finMs": 575
+    },
+    {
+     "texto": "chiquita",
+     "inicioMs": 600,
+     "finMs": 1025
+    },
+    {
+     "texto": "alumbró",
+     "inicioMs": 1050,
+     "finMs": 1425
+    },
+    {
+     "texto": "el",
+     "inicioMs": 1450,
+     "finMs": 1550
+    },
+    {
+     "texto": "camino",
+     "inicioMs": 1600,
+     "finMs": 2000
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2050,
+     "finMs": 2150
+    },
+    {
+     "texto": "nieve.",
+     "inicioMs": 2200,
+     "finMs": 2825
+    },
+    {
+     "texto": "El",
+     "inicioMs": 2975,
+     "finMs": 3050
+    },
+    {
+     "texto": "niño",
+     "inicioMs": 3100,
+     "finMs": 3375
+    },
+    {
+     "texto": "la",
+     "inicioMs": 3400,
+     "finMs": 3500
+    },
+    {
+     "texto": "siguió,",
+     "inicioMs": 3550,
+     "finMs": 3975
+    },
+    {
+     "texto": "paso",
+     "inicioMs": 4050,
+     "finMs": 4350
+    },
+    {
+     "texto": "a",
+     "inicioMs": 4400,
+     "finMs": 4450
+    },
+    {
+     "texto": "paso,",
+     "inicioMs": 4500,
+     "finMs": 4950
+    },
+    {
+     "texto": "hasta",
+     "inicioMs": 5050,
+     "finMs": 5275
+    },
+    {
+     "texto": "llegar",
+     "inicioMs": 5325,
+     "finMs": 5625
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5650,
+     "finMs": 5700
+    },
+    {
+     "texto": "su",
+     "inicioMs": 5750,
+     "finMs": 5850
+    },
+    {
+     "texto": "casa.",
+     "inicioMs": 5900,
+     "finMs": 6350
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-08.mp3",
+   "duracionMs": 7380,
+   "palabras": [
+    {
+     "texto": "Desde",
+     "inicioMs": 250,
+     "finMs": 500
+    },
+    {
+     "texto": "esa",
+     "inicioMs": 525,
+     "finMs": 725
+    },
+    {
+     "texto": "noche,",
+     "inicioMs": 775,
+     "finMs": 1300
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1400,
+     "finMs": 1450
+    },
+    {
+     "texto": "estrellita",
+     "inicioMs": 1475,
+     "finMs": 2050
+    },
+    {
+     "texto": "ya",
+     "inicioMs": 2100,
+     "finMs": 2250
+    },
+    {
+     "texto": "no",
+     "inicioMs": 2300,
+     "finMs": 2425
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2475,
+     "finMs": 2550
+    },
+    {
+     "texto": "esconde.",
+     "inicioMs": 2575,
+     "finMs": 3475
+    },
+    {
+     "texto": "Porque",
+     "inicioMs": 3600,
+     "finMs": 3825
+    },
+    {
+     "texto": "aprendió",
+     "inicioMs": 3850,
+     "finMs": 4325
+    },
+    {
+     "texto": "que",
+     "inicioMs": 4375,
+     "finMs": 4425
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4450,
+     "finMs": 4600
+    },
+    {
+     "texto": "luz",
+     "inicioMs": 4650,
+     "finMs": 4850
+    },
+    {
+     "texto": "pequeña",
+     "inicioMs": 4900,
+     "finMs": 5375
+    },
+    {
+     "texto": "también",
+     "inicioMs": 5425,
+     "finMs": 5825
+    },
+    {
+     "texto": "puede",
+     "inicioMs": 5900,
+     "finMs": 6150
+    },
+    {
+     "texto": "ayudar",
+     "inicioMs": 6175,
+     "finMs": 6600
+    },
+    {
+     "texto": "mucho.",
+     "inicioMs": 6650,
+     "finMs": 7150
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-05-la-estrella-timida/escena-09.mp3",
+   "duracionMs": 7980,
+   "palabras": [
+    {
+     "texto": "Ahora",
+     "inicioMs": 250,
+     "finMs": 525
+    },
+    {
+     "texto": "cierren",
+     "inicioMs": 575,
+     "finMs": 875
+    },
+    {
+     "texto": "los",
+     "inicioMs": 900,
+     "finMs": 1050
+    },
+    {
+     "texto": "ojitos,",
+     "inicioMs": 1100,
+     "finMs": 1650
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1725,
+     "finMs": 2650
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 2800,
+     "finMs": 3150
+    },
+    {
+     "texto": "les",
+     "inicioMs": 3175,
+     "finMs": 3325
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 3375,
+     "finMs": 3700
+    },
+    {
+     "texto": "sobre",
+     "inicioMs": 3750,
+     "finMs": 3950
+    },
+    {
+     "texto": "la",
+     "inicioMs": 3975,
+     "finMs": 4075
+    },
+    {
+     "texto": "carta",
+     "inicioMs": 4125,
+     "finMs": 4425
+    },
+    {
+     "texto": "más",
+     "inicioMs": 4475,
+     "finMs": 4650
+    },
+    {
+     "texto": "pequeña",
+     "inicioMs": 4700,
+     "finMs": 5125
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5175,
+     "finMs": 5275
+    },
+    {
+     "texto": "llegó",
+     "inicioMs": 5325,
+     "finMs": 5550
+    },
+    {
+     "texto": "al",
+     "inicioMs": 5600,
+     "finMs": 5700
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 5750,
+     "finMs": 5975
+    },
+    {
+     "texto": "Norte.",
+     "inicioMs": 6025,
+     "finMs": 6600
+    },
+    {
+     "texto": "Buenas",
+     "inicioMs": 6750,
+     "finMs": 7150
+    },
+    {
+     "texto": "noches.",
+     "inicioMs": 7200,
+     "finMs": 7750
+    }
+   ]
+  }
+ ]
+}

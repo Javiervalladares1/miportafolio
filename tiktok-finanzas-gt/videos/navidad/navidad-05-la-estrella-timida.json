@@ -1,0 +1,153 @@
+{
+  "formato": "cuento",
+  "id": "navidad-05-la-estrella-timida",
+  "numero": 5,
+  "serie": "Cuento para dormir",
+  "titulo": "La estrella tímida",
+  "proximo": "La carta más pequeña",
+  "velocidad": 0.88,
+  "musica": "cuna",
+  "voz": "em_santa",
+  "escenas": [
+    {
+      "texto": "Hola, pequeños. ¿Ya están en la cama, bien tapaditos? Hoy les cuento un cuento para dormir.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro"
+        }
+      ]
+    },
+    {
+      "texto": "En el cielo había una estrella muy pequeña. Las otras estrellas brillaban fuerte, pero ella se escondía detrás de una nube.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "⭐",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 1.1
+        },
+        {
+          "p": "☁️",
+          "pos": "arriba-centro",
+          "accion": "quieto",
+          "tam": 1.5
+        },
+        {
+          "p": "🌟",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        }
+      ]
+    },
+    {
+      "texto": "Mi luz es muy chiquita, pensaba. Nadie la va a notar.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "estrella",
+          "pos": "arriba-centro",
+          "accion": "tiembla",
+          "tam": 0.8
+        }
+      ]
+    },
+    {
+      "texto": "Una noche, en el bosque, un niño se perdió buscando leña. Estaba oscuro, tenía frío, y un poquito de miedo.",
+      "escenario": "bosque",
+      "elementos": [
+        {
+          "p": "nino",
+          "pos": "centro",
+          "accion": "tiembla"
+        }
+      ]
+    },
+    {
+      "texto": "Las estrellas grandes estaban lejos, detrás de las montañas. Solo la estrellita estaba justo encima del niño.",
+      "escenario": "bosque",
+      "elementos": [
+        {
+          "p": "estrella",
+          "pos": "arriba-centro",
+          "accion": "quieto",
+          "tam": 0.7
+        },
+        {
+          "p": "nino",
+          "pos": "centro"
+        }
+      ]
+    },
+    {
+      "texto": "Entonces respiró profundo, salió de su nube, y brilló. Brilló con toda su fuerza.",
+      "escenario": "bosque",
+      "elementos": [
+        {
+          "p": "estrella",
+          "pos": "arriba-centro",
+          "accion": "brilla",
+          "tam": 1.3
+        },
+        {
+          "p": "nino",
+          "pos": "centro"
+        }
+      ]
+    },
+    {
+      "texto": "Su luz chiquita alumbró el camino de nieve. El niño la siguió, paso a paso, hasta llegar a su casa.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "estrella",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        },
+        {
+          "p": "nino",
+          "pos": "centro",
+          "accion": "camina"
+        }
+      ]
+    },
+    {
+      "texto": "Desde esa noche, la estrellita ya no se esconde. Porque aprendió que una luz pequeña también puede ayudar mucho.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "estrella",
+          "pos": "arriba-centro",
+          "accion": "brilla",
+          "tam": 1.2
+        },
+        {
+          "p": "luna",
+          "pos": "arriba-der",
+          "accion": "quieto",
+          "tam": 0.7
+        }
+      ],
+      "rotulo": "Tu luz también importa"
+    },
+    {
+      "texto": "Ahora cierren los ojitos, pequeños. Mañana les cuento sobre la carta más pequeña que llegó al Polo Norte. Buenas noches.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "duerme"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "formato": "cuento",
+  "id": "navidad-04-boton-quiere-ver-el-sol",
+  "numero": 4,
+  "serie": "Botón",
+  "titulo": "Botón quiere ver el sol",
+  "proximo": "La estrella tímida",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. ¿Se acuerdan de Botón, el muñeco de nieve de la plaza? Hoy les cuento su gran deseo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "boton",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Botón había escuchado que, lejos de aquí, existe el verano: días largos y calientes, con un sol enorme en el cielo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "centro"
+        },
+        {
+          "p": "☀️",
+          "pos": "arriba-centro",
+          "accion": "brilla",
+          "tam": 1.3
+        }
+      ]
+    },
+    {
+      "texto": "Una noche le preguntó a la Luna: Luna, ¿cómo es el sol? Yo quiero conocerlo.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq"
+        },
+        {
+          "p": "luna",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        }
+      ]
+    },
+    {
+      "texto": "La Luna sonrió: El sol es muy bonito, Botón. Pero es tan caliente, que un muñeco de nieve se derretiría como un helado.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq",
+          "accion": "tiembla"
+        },
+        {
+          "p": "luna",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        },
+        {
+          "p": "🍦",
+          "pos": "medio-centro",
+          "accion": "brilla",
+          "tam": 0.8
+        }
+      ]
+    },
+    {
+      "texto": "Botón se puso triste. Entonces, ¿yo nunca voy a tener nada especial?",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "centro",
+          "accion": "tiembla"
+        }
+      ]
+    },
+    {
+      "texto": "¡Claro que sí!, dijo la Luna. Mira a tu alrededor: tú puedes ver las estrellas, la nieve que brilla, y las luces de colores en el cielo.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq"
+        },
+        {
+          "p": "luna",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    },
+    {
+      "texto": "Esa noche, el cielo se llenó de luces verdes y moradas que bailaban. Botón nunca había visto algo tan hermoso.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "centro",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "Desde entonces, Botón disfruta su invierno. Y cuando los niños juegan con él, dice que es el muñeco más feliz del mundo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "nino",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "boton",
+          "pos": "der",
+          "accion": "saluda"
+        }
+      ],
+      "rotulo": "Cada lugar tiene su magia"
+    },
+    {
+      "texto": "Cada uno es especial tal como es, pequeños. Mañana les cuento la historia de una estrellita muy tímida. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

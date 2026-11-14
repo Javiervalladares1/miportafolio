@@ -1,0 +1,894 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-01.mp3",
+   "duracionMs": 6580,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 425,
+     "finMs": 550
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 625,
+     "finMs": 775
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 850,
+     "finMs": 1025
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1100,
+     "finMs": 1850
+    },
+    {
+     "texto": "Un",
+     "inicioMs": 1950,
+     "finMs": 2100
+    },
+    {
+     "texto": "día,",
+     "inicioMs": 2150,
+     "finMs": 2350
+    },
+    {
+     "texto": "mientras",
+     "inicioMs": 2400,
+     "finMs": 2725
+    },
+    {
+     "texto": "revisaba",
+     "inicioMs": 2775,
+     "finMs": 3225
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 3250,
+     "finMs": 3350
+    },
+    {
+     "texto": "trineo,",
+     "inicioMs": 3400,
+     "finMs": 3825
+    },
+    {
+     "texto": "escuché",
+     "inicioMs": 3875,
+     "finMs": 4250
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4275,
+     "finMs": 4350
+    },
+    {
+     "texto": "ruido",
+     "inicioMs": 4375,
+     "finMs": 4675
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 4725,
+     "finMs": 4900
+    },
+    {
+     "texto": "raro:",
+     "inicioMs": 4950,
+     "finMs": 5275
+    },
+    {
+     "texto": "¡pío,",
+     "inicioMs": 5350,
+     "finMs": 5625
+    },
+    {
+     "texto": "pío,",
+     "inicioMs": 5700,
+     "finMs": 5925
+    },
+    {
+     "texto": "pío!",
+     "inicioMs": 6000,
+     "finMs": 6350
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-02.mp3",
+   "duracionMs": 3605,
+   "palabras": [
+    {
+     "texto": "¡El",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "trineo",
+     "inicioMs": 350,
+     "finMs": 675
+    },
+    {
+     "texto": "está",
+     "inicioMs": 700,
+     "finMs": 925
+    },
+    {
+     "texto": "roto!,",
+     "inicioMs": 975,
+     "finMs": 1350
+    },
+    {
+     "texto": "gritó",
+     "inicioMs": 1450,
+     "finMs": 1775
+    },
+    {
+     "texto": "Pino.",
+     "inicioMs": 1825,
+     "finMs": 2200
+    },
+    {
+     "texto": "¡Hay",
+     "inicioMs": 2325,
+     "finMs": 2475
+    },
+    {
+     "texto": "que",
+     "inicioMs": 2525,
+     "finMs": 2600
+    },
+    {
+     "texto": "desarmarlo!",
+     "inicioMs": 2625,
+     "finMs": 3375
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-03.mp3",
+   "duracionMs": 7205,
+   "palabras": [
+    {
+     "texto": "Pino",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "trajo",
+     "inicioMs": 500,
+     "finMs": 850
+    },
+    {
+     "texto": "su",
+     "inicioMs": 900,
+     "finMs": 1000
+    },
+    {
+     "texto": "caja",
+     "inicioMs": 1050,
+     "finMs": 1300
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1325,
+     "finMs": 1375
+    },
+    {
+     "texto": "herramientas.",
+     "inicioMs": 1400,
+     "finMs": 2175
+    },
+    {
+     "texto": "Pero",
+     "inicioMs": 2250,
+     "finMs": 2425
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 2475,
+     "finMs": 2825
+    },
+    {
+     "texto": "dijo:",
+     "inicioMs": 2850,
+     "finMs": 3200
+    },
+    {
+     "texto": "Espera.",
+     "inicioMs": 3275,
+     "finMs": 3900
+    },
+    {
+     "texto": "Ese",
+     "inicioMs": 4000,
+     "finMs": 4225
+    },
+    {
+     "texto": "ruido",
+     "inicioMs": 4250,
+     "finMs": 4550
+    },
+    {
+     "texto": "no",
+     "inicioMs": 4600,
+     "finMs": 4725
+    },
+    {
+     "texto": "suena",
+     "inicioMs": 4775,
+     "finMs": 5050
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5075,
+     "finMs": 5100
+    },
+    {
+     "texto": "tornillo.",
+     "inicioMs": 5150,
+     "finMs": 5800
+    },
+    {
+     "texto": "Suena",
+     "inicioMs": 5925,
+     "finMs": 6200
+    },
+    {
+     "texto": "a",
+     "inicioMs": 6225,
+     "finMs": 6250
+    },
+    {
+     "texto": "pajaritos.",
+     "inicioMs": 6300,
+     "finMs": 6975
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-04.mp3",
+   "duracionMs": 7455,
+   "palabras": [
+    {
+     "texto": "Nos",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "asomamos",
+     "inicioMs": 375,
+     "finMs": 875
+    },
+    {
+     "texto": "debajo",
+     "inicioMs": 925,
+     "finMs": 1275
+    },
+    {
+     "texto": "del",
+     "inicioMs": 1300,
+     "finMs": 1400
+    },
+    {
+     "texto": "asiento,",
+     "inicioMs": 1450,
+     "finMs": 2050
+    },
+    {
+     "texto": "y",
+     "inicioMs": 2150,
+     "finMs": 2200
+    },
+    {
+     "texto": "ahí",
+     "inicioMs": 2250,
+     "finMs": 2425
+    },
+    {
+     "texto": "estaba:",
+     "inicioMs": 2450,
+     "finMs": 3175
+    },
+    {
+     "texto": "un",
+     "inicioMs": 3300,
+     "finMs": 3425
+    },
+    {
+     "texto": "nido",
+     "inicioMs": 3475,
+     "finMs": 3700
+    },
+    {
+     "texto": "con",
+     "inicioMs": 3750,
+     "finMs": 3900
+    },
+    {
+     "texto": "tres",
+     "inicioMs": 3950,
+     "finMs": 4175
+    },
+    {
+     "texto": "pajaritos",
+     "inicioMs": 4225,
+     "finMs": 4750
+    },
+    {
+     "texto": "recién",
+     "inicioMs": 4800,
+     "finMs": 5150
+    },
+    {
+     "texto": "nacidos,",
+     "inicioMs": 5200,
+     "finMs": 5800
+    },
+    {
+     "texto": "con",
+     "inicioMs": 5875,
+     "finMs": 6000
+    },
+    {
+     "texto": "la",
+     "inicioMs": 6025,
+     "finMs": 6100
+    },
+    {
+     "texto": "boca",
+     "inicioMs": 6125,
+     "finMs": 6400
+    },
+    {
+     "texto": "bien",
+     "inicioMs": 6425,
+     "finMs": 6650
+    },
+    {
+     "texto": "abierta.",
+     "inicioMs": 6700,
+     "finMs": 7225
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-05.mp3",
+   "duracionMs": 5380,
+   "palabras": [
+    {
+     "texto": "Su",
+     "inicioMs": 225,
+     "finMs": 325
+    },
+    {
+     "texto": "mamá",
+     "inicioMs": 375,
+     "finMs": 650
+    },
+    {
+     "texto": "había",
+     "inicioMs": 700,
+     "finMs": 1000
+    },
+    {
+     "texto": "encontrado",
+     "inicioMs": 1025,
+     "finMs": 1625
+    },
+    {
+     "texto": "un",
+     "inicioMs": 1650,
+     "finMs": 1725
+    },
+    {
+     "texto": "lugar",
+     "inicioMs": 1750,
+     "finMs": 2050
+    },
+    {
+     "texto": "calientito,",
+     "inicioMs": 2100,
+     "finMs": 2950
+    },
+    {
+     "texto": "protegido",
+     "inicioMs": 3050,
+     "finMs": 3575
+    },
+    {
+     "texto": "del",
+     "inicioMs": 3600,
+     "finMs": 3725
+    },
+    {
+     "texto": "viento,",
+     "inicioMs": 3775,
+     "finMs": 4200
+    },
+    {
+     "texto": "para",
+     "inicioMs": 4275,
+     "finMs": 4450
+    },
+    {
+     "texto": "cuidarlos.",
+     "inicioMs": 4500,
+     "finMs": 5150
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-06.mp3",
+   "duracionMs": 8080,
+   "palabras": [
+    {
+     "texto": "Pero",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "Santa,",
+     "inicioMs": 475,
+     "finMs": 850
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 925,
+     "finMs": 1200
+    },
+    {
+     "texto": "Pino,",
+     "inicioMs": 1250,
+     "finMs": 1550
+    },
+    {
+     "texto": "¡necesitamos",
+     "inicioMs": 1625,
+     "finMs": 2325
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2375,
+     "finMs": 2450
+    },
+    {
+     "texto": "trineo",
+     "inicioMs": 2500,
+     "finMs": 2875
+    },
+    {
+     "texto": "para",
+     "inicioMs": 2925,
+     "finMs": 3050
+    },
+    {
+     "texto": "Navidad!",
+     "inicioMs": 3075,
+     "finMs": 3800
+    },
+    {
+     "texto": "Tienes",
+     "inicioMs": 3975,
+     "finMs": 4275
+    },
+    {
+     "texto": "razón,",
+     "inicioMs": 4325,
+     "finMs": 4775
+    },
+    {
+     "texto": "le",
+     "inicioMs": 4850,
+     "finMs": 4950
+    },
+    {
+     "texto": "dije,",
+     "inicioMs": 5000,
+     "finMs": 5400
+    },
+    {
+     "texto": "pero",
+     "inicioMs": 5500,
+     "finMs": 5700
+    },
+    {
+     "texto": "ellos",
+     "inicioMs": 5750,
+     "finMs": 6025
+    },
+    {
+     "texto": "lo",
+     "inicioMs": 6075,
+     "finMs": 6150
+    },
+    {
+     "texto": "necesitan",
+     "inicioMs": 6175,
+     "finMs": 6800
+    },
+    {
+     "texto": "más",
+     "inicioMs": 6850,
+     "finMs": 7050
+    },
+    {
+     "texto": "ahora",
+     "inicioMs": 7100,
+     "finMs": 7350
+    },
+    {
+     "texto": "mismo.",
+     "inicioMs": 7400,
+     "finMs": 7850
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-07.mp3",
+   "duracionMs": 6580,
+   "palabras": [
+    {
+     "texto": "Así",
+     "inicioMs": 225,
+     "finMs": 500
+    },
+    {
+     "texto": "que",
+     "inicioMs": 550,
+     "finMs": 600
+    },
+    {
+     "texto": "esperamos.",
+     "inicioMs": 625,
+     "finMs": 1500
+    },
+    {
+     "texto": "Todos",
+     "inicioMs": 1625,
+     "finMs": 1875
+    },
+    {
+     "texto": "los",
+     "inicioMs": 1925,
+     "finMs": 2050
+    },
+    {
+     "texto": "días",
+     "inicioMs": 2100,
+     "finMs": 2400
+    },
+    {
+     "texto": "les",
+     "inicioMs": 2450,
+     "finMs": 2575
+    },
+    {
+     "texto": "llevábamos",
+     "inicioMs": 2625,
+     "finMs": 3125
+    },
+    {
+     "texto": "migajas",
+     "inicioMs": 3175,
+     "finMs": 3600
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3625,
+     "finMs": 3725
+    },
+    {
+     "texto": "pan,",
+     "inicioMs": 3775,
+     "finMs": 4225
+    },
+    {
+     "texto": "y",
+     "inicioMs": 4350,
+     "finMs": 4400
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 4450,
+     "finMs": 4675
+    },
+    {
+     "texto": "les",
+     "inicioMs": 4700,
+     "finMs": 4850
+    },
+    {
+     "texto": "hizo",
+     "inicioMs": 4900,
+     "finMs": 5100
+    },
+    {
+     "texto": "un",
+     "inicioMs": 5125,
+     "finMs": 5225
+    },
+    {
+     "texto": "techito",
+     "inicioMs": 5275,
+     "finMs": 5750
+    },
+    {
+     "texto": "para",
+     "inicioMs": 5800,
+     "finMs": 5925
+    },
+    {
+     "texto": "el",
+     "inicioMs": 5950,
+     "finMs": 6000
+    },
+    {
+     "texto": "nido.",
+     "inicioMs": 6050,
+     "finMs": 6350
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-08.mp3",
+   "duracionMs": 7780,
+   "palabras": [
+    {
+     "texto": "Una",
+     "inicioMs": 225,
+     "finMs": 400
+    },
+    {
+     "texto": "semana",
+     "inicioMs": 450,
+     "finMs": 800
+    },
+    {
+     "texto": "después,",
+     "inicioMs": 825,
+     "finMs": 1475
+    },
+    {
+     "texto": "los",
+     "inicioMs": 1550,
+     "finMs": 1700
+    },
+    {
+     "texto": "pajaritos",
+     "inicioMs": 1750,
+     "finMs": 2300
+    },
+    {
+     "texto": "aprendieron",
+     "inicioMs": 2325,
+     "finMs": 2875
+    },
+    {
+     "texto": "a",
+     "inicioMs": 2925,
+     "finMs": 2950
+    },
+    {
+     "texto": "volar,",
+     "inicioMs": 2975,
+     "finMs": 3425
+    },
+    {
+     "texto": "¡igual",
+     "inicioMs": 3525,
+     "finMs": 3875
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3925,
+     "finMs": 4025
+    },
+    {
+     "texto": "Copito!",
+     "inicioMs": 4075,
+     "finMs": 4875
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 5025,
+     "finMs": 5075
+    },
+    {
+     "texto": "se",
+     "inicioMs": 5125,
+     "finMs": 5200
+    },
+    {
+     "texto": "despidieron",
+     "inicioMs": 5225,
+     "finMs": 5875
+    },
+    {
+     "texto": "dando",
+     "inicioMs": 5925,
+     "finMs": 6225
+    },
+    {
+     "texto": "vueltas",
+     "inicioMs": 6275,
+     "finMs": 6700
+    },
+    {
+     "texto": "sobre",
+     "inicioMs": 6750,
+     "finMs": 6950
+    },
+    {
+     "texto": "el",
+     "inicioMs": 6975,
+     "finMs": 7050
+    },
+    {
+     "texto": "taller.",
+     "inicioMs": 7100,
+     "finMs": 7550
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-09-el-trineo-que-chillaba/escena-09.mp3",
+   "duracionMs": 9030,
+   "palabras": [
+    {
+     "texto": "Los",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "animales",
+     "inicioMs": 375,
+     "finMs": 875
+    },
+    {
+     "texto": "también",
+     "inicioMs": 925,
+     "finMs": 1250
+    },
+    {
+     "texto": "son",
+     "inicioMs": 1300,
+     "finMs": 1450
+    },
+    {
+     "texto": "parte",
+     "inicioMs": 1500,
+     "finMs": 1800
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1825,
+     "finMs": 1875
+    },
+    {
+     "texto": "nuestro",
+     "inicioMs": 1900,
+     "finMs": 2200
+    },
+    {
+     "texto": "hogar,",
+     "inicioMs": 2250,
+     "finMs": 2550
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 2625,
+     "finMs": 3450
+    },
+    {
+     "texto": "Mañana,",
+     "inicioMs": 3550,
+     "finMs": 4025
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 4100,
+     "finMs": 4275
+    },
+    {
+     "texto": "Plumas",
+     "inicioMs": 4325,
+     "finMs": 4650
+    },
+    {
+     "texto": "nos",
+     "inicioMs": 4700,
+     "finMs": 4825
+    },
+    {
+     "texto": "va",
+     "inicioMs": 4875,
+     "finMs": 4975
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5000,
+     "finMs": 5025
+    },
+    {
+     "texto": "contar",
+     "inicioMs": 5075,
+     "finMs": 5475
+    },
+    {
+     "texto": "por",
+     "inicioMs": 5525,
+     "finMs": 5675
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 5725,
+     "finMs": 5800
+    },
+    {
+     "texto": "en",
+     "inicioMs": 5825,
+     "finMs": 5875
+    },
+    {
+     "texto": "el",
+     "inicioMs": 5900,
+     "finMs": 6000
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 6050,
+     "finMs": 6275
+    },
+    {
+     "texto": "Norte",
+     "inicioMs": 6325,
+     "finMs": 6600
+    },
+    {
+     "texto": "la",
+     "inicioMs": 6625,
+     "finMs": 6700
+    },
+    {
+     "texto": "noche",
+     "inicioMs": 6725,
+     "finMs": 7025
+    },
+    {
+     "texto": "dura",
+     "inicioMs": 7050,
+     "finMs": 7275
+    },
+    {
+     "texto": "meses.",
+     "inicioMs": 7325,
+     "finMs": 7950
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 8075,
+     "finMs": 8225
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 8300,
+     "finMs": 8450
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 8525,
+     "finMs": 8800
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+  "formato": "cuento",
+  "id": "navidad-08-copito-no-quiere-sopa",
+  "numero": 8,
+  "serie": "Copito",
+  "titulo": "Copito no quiere sopa",
+  "proximo": "El trineo que chillaba",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. Copito seguía practicando para volar. Pero tenía una costumbre: solo quería comer zanahorias.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "copito",
+          "pos": "der"
+        },
+        {
+          "p": "🥕",
+          "pos": "medio-der",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    },
+    {
+      "texto": "Zanahorias en el desayuno, zanahorias en el almuerzo, ¡y zanahorias en la cena!",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "🥕",
+          "pos": "medio-izq",
+          "accion": "salta"
+        },
+        {
+          "p": "copito",
+          "pos": "centro"
+        },
+        {
+          "p": "🥕",
+          "pos": "medio-der",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "Un día, Mamá Noela preparó una sopa calientita de verduras. Copito, pruébala. Te va a dar fuerza para volar.",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "izq"
+        },
+        {
+          "p": "🍲",
+          "pos": "medio-centro",
+          "accion": "brilla"
+        },
+        {
+          "p": "noela",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "¡No, no y no!, dijo Copito, moviendo la cabeza. Esa sopa es verde. ¡Seguro sabe feo!",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "izq",
+          "accion": "gira"
+        },
+        {
+          "p": "🍲",
+          "pos": "medio-centro"
+        }
+      ]
+    },
+    {
+      "texto": "Esa tarde, en la práctica, Copito se cansó muy rápido. Las patitas le temblaban, y no pudo despegar.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "tiembla"
+        }
+      ]
+    },
+    {
+      "texto": "Mamá Noela le dijo con cariño: No tienes que comerte toda la sopa. Solo prueba una cucharada. Si no te gusta, está bien.",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "izq"
+        },
+        {
+          "p": "🥄",
+          "pos": "medio-centro",
+          "accion": "brilla"
+        },
+        {
+          "p": "noela",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Copito cerró los ojos, probó una cucharada, y abrió los ojos muy grandes. ¡Está deliciosa! ¡Sabe a bosque y a abrazo!",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "salta"
+        },
+        {
+          "p": "🍲",
+          "pos": "medio-der"
+        }
+      ]
+    },
+    {
+      "texto": "Al día siguiente, con la pancita llena de sopa, Copito voló un poquito más alto que nunca.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "medio-centro",
+          "accion": "vuela"
+        }
+      ],
+      "rotulo": "Atrévete a probar cosas nuevas"
+    },
+    {
+      "texto": "Probar cosas nuevas da un poco de miedo, pero puede ser una sorpresa muy rica. Mañana les cuento por qué mi trineo hacía un ruido muy raro. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "formato": "cuento",
+  "id": "navidad-02-copito-primer-vuelo",
+  "numero": 2,
+  "serie": "Copito",
+  "titulo": "Copito y el primer vuelo",
+  "proximo": "La máquina envuelve-todo",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. Hoy les voy a contar qué le pasó a Copito, mi reno más pequeño, el día de su primer vuelo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "copito",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Todos los renos grandes ya sabían volar. Copito los miraba desde abajo, con las patitas temblando de emoción.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "reno",
+          "pos": "arriba-izq",
+          "accion": "vuela",
+          "tam": 0.8
+        },
+        {
+          "p": "reno",
+          "pos": "arriba-der",
+          "accion": "vuela",
+          "tam": 0.8
+        },
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "tiembla"
+        }
+      ]
+    },
+    {
+      "texto": "¡Hoy me toca a mí!, dijo Copito. Corrió, corrió muy rápido, y saltó lo más alto que pudo…",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "…y ¡plof! Cayó de cabeza en un montón de nieve.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "cae"
+        }
+      ]
+    },
+    {
+      "texto": "Algunos renos se rieron. Copito se sintió muy triste, y una lagrimita le rodó por la nariz.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "reno",
+          "pos": "izq-lejos",
+          "accion": "gira",
+          "voltear": true
+        },
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "tiembla"
+        },
+        {
+          "p": "reno",
+          "pos": "der-lejos",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Entonces me acerqué y le dije: Copito, ¿sabes cuántas veces me caí yo cuando aprendí a manejar el trineo? ¡Muchísimas!",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq"
+        },
+        {
+          "p": "copito",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Copito se sacudió la nieve, respiró hondo y lo intentó otra vez. Y otra. Y otra más.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "Al final del día, sus patitas se despegaron del suelo. ¡Solo un poquito! Pero voló.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "copito",
+          "pos": "medio-centro",
+          "accion": "vuela"
+        }
+      ]
+    },
+    {
+      "texto": "Recuerden, pequeños: equivocarse es parte de aprender. Lo importante es volver a intentarlo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "copito",
+          "pos": "der",
+          "accion": "salta"
+        }
+      ],
+      "rotulo": "Equivocarse es parte de aprender"
+    },
+    {
+      "texto": "Mañana les cuento qué pasó cuando Pino inventó una máquina para envolver regalos. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

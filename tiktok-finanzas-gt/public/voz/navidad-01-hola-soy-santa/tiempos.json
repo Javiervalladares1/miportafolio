@@ -1,0 +1,1004 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-01.mp3",
+   "duracionMs": 6855,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 425,
+     "finMs": 550
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 625,
+     "finMs": 800
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 900,
+     "finMs": 1100
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1175,
+     "finMs": 1950
+    },
+    {
+     "texto": "Soy",
+     "inicioMs": 2075,
+     "finMs": 2250
+    },
+    {
+     "texto": "Santa,",
+     "inicioMs": 2300,
+     "finMs": 2675
+    },
+    {
+     "texto": "y",
+     "inicioMs": 2725,
+     "finMs": 2750
+    },
+    {
+     "texto": "vivo",
+     "inicioMs": 2800,
+     "finMs": 3025
+    },
+    {
+     "texto": "muy,",
+     "inicioMs": 3075,
+     "finMs": 3275
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 3350,
+     "finMs": 3500
+    },
+    {
+     "texto": "lejos,",
+     "inicioMs": 3550,
+     "finMs": 3925
+    },
+    {
+     "texto": "en",
+     "inicioMs": 3975,
+     "finMs": 4025
+    },
+    {
+     "texto": "el",
+     "inicioMs": 4050,
+     "finMs": 4150
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 4200,
+     "finMs": 4425
+    },
+    {
+     "texto": "Norte,",
+     "inicioMs": 4475,
+     "finMs": 4850
+    },
+    {
+     "texto": "donde",
+     "inicioMs": 4900,
+     "finMs": 5125
+    },
+    {
+     "texto": "todo",
+     "inicioMs": 5175,
+     "finMs": 5350
+    },
+    {
+     "texto": "está",
+     "inicioMs": 5375,
+     "finMs": 5625
+    },
+    {
+     "texto": "cubierto",
+     "inicioMs": 5675,
+     "finMs": 6125
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6150,
+     "finMs": 6250
+    },
+    {
+     "texto": "nieve.",
+     "inicioMs": 6275,
+     "finMs": 6625
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-02.mp3",
+   "duracionMs": 6905,
+   "palabras": [
+    {
+     "texto": "Aquí",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "vivo",
+     "inicioMs": 475,
+     "finMs": 750
+    },
+    {
+     "texto": "con",
+     "inicioMs": 800,
+     "finMs": 925
+    },
+    {
+     "texto": "Mamá",
+     "inicioMs": 950,
+     "finMs": 1175
+    },
+    {
+     "texto": "Noela,",
+     "inicioMs": 1225,
+     "finMs": 1675
+    },
+    {
+     "texto": "que",
+     "inicioMs": 1775,
+     "finMs": 1850
+    },
+    {
+     "texto": "hace",
+     "inicioMs": 1875,
+     "finMs": 2075
+    },
+    {
+     "texto": "las",
+     "inicioMs": 2100,
+     "finMs": 2225
+    },
+    {
+     "texto": "galletas",
+     "inicioMs": 2275,
+     "finMs": 2700
+    },
+    {
+     "texto": "más",
+     "inicioMs": 2750,
+     "finMs": 2950
+    },
+    {
+     "texto": "ricas",
+     "inicioMs": 3000,
+     "finMs": 3325
+    },
+    {
+     "texto": "del",
+     "inicioMs": 3350,
+     "finMs": 3475
+    },
+    {
+     "texto": "mundo.",
+     "inicioMs": 3525,
+     "finMs": 4175
+    },
+    {
+     "texto": "¡Mmm,",
+     "inicioMs": 4300,
+     "finMs": 4925
+    },
+    {
+     "texto": "huelen",
+     "inicioMs": 5000,
+     "finMs": 5275
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5300,
+     "finMs": 5325
+    },
+    {
+     "texto": "canela",
+     "inicioMs": 5375,
+     "finMs": 5800
+    },
+    {
+     "texto": "y",
+     "inicioMs": 5850,
+     "finMs": 5875
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5925,
+     "finMs": 5950
+    },
+    {
+     "texto": "chocolate!",
+     "inicioMs": 6000,
+     "finMs": 6675
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-03.mp3",
+   "duracionMs": 8380,
+   "palabras": [
+    {
+     "texto": "En",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 325,
+     "finMs": 425
+    },
+    {
+     "texto": "taller",
+     "inicioMs": 475,
+     "finMs": 875
+    },
+    {
+     "texto": "trabajan",
+     "inicioMs": 925,
+     "finMs": 1400
+    },
+    {
+     "texto": "los",
+     "inicioMs": 1425,
+     "finMs": 1550
+    },
+    {
+     "texto": "duendes.",
+     "inicioMs": 1600,
+     "finMs": 2300
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 2425,
+     "finMs": 2650
+    },
+    {
+     "texto": "es",
+     "inicioMs": 2675,
+     "finMs": 2800
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2850,
+     "finMs": 2925
+    },
+    {
+     "texto": "inventor:",
+     "inicioMs": 2950,
+     "finMs": 3700
+    },
+    {
+     "texto": "siempre",
+     "inicioMs": 3825,
+     "finMs": 4150
+    },
+    {
+     "texto": "tiene",
+     "inicioMs": 4200,
+     "finMs": 4425
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4450,
+     "finMs": 4575
+    },
+    {
+     "texto": "idea",
+     "inicioMs": 4625,
+     "finMs": 4900
+    },
+    {
+     "texto": "nueva,",
+     "inicioMs": 4950,
+     "finMs": 5450
+    },
+    {
+     "texto": "aunque",
+     "inicioMs": 5550,
+     "finMs": 5775
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5825,
+     "finMs": 5850
+    },
+    {
+     "texto": "veces",
+     "inicioMs": 5875,
+     "finMs": 6150
+    },
+    {
+     "texto": "sus",
+     "inicioMs": 6200,
+     "finMs": 6350
+    },
+    {
+     "texto": "ideas",
+     "inicioMs": 6400,
+     "finMs": 6725
+    },
+    {
+     "texto": "salen",
+     "inicioMs": 6800,
+     "finMs": 7075
+    },
+    {
+     "texto": "un",
+     "inicioMs": 7100,
+     "finMs": 7175
+    },
+    {
+     "texto": "poquito",
+     "inicioMs": 7225,
+     "finMs": 7600
+    },
+    {
+     "texto": "al",
+     "inicioMs": 7625,
+     "finMs": 7700
+    },
+    {
+     "texto": "revés.",
+     "inicioMs": 7750,
+     "finMs": 8150
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-04.mp3",
+   "duracionMs": 5955,
+   "palabras": [
+    {
+     "texto": "Y",
+     "inicioMs": 250,
+     "finMs": 300
+    },
+    {
+     "texto": "su",
+     "inicioMs": 350,
+     "finMs": 450
+    },
+    {
+     "texto": "hermana",
+     "inicioMs": 475,
+     "finMs": 850
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 900,
+     "finMs": 1350
+    },
+    {
+     "texto": "es",
+     "inicioMs": 1400,
+     "finMs": 1525
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1575,
+     "finMs": 1675
+    },
+    {
+     "texto": "más",
+     "inicioMs": 1725,
+     "finMs": 1900
+    },
+    {
+     "texto": "ordenada",
+     "inicioMs": 1925,
+     "finMs": 2375
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2400,
+     "finMs": 2500
+    },
+    {
+     "texto": "todas.",
+     "inicioMs": 2550,
+     "finMs": 3225
+    },
+    {
+     "texto": "Sin",
+     "inicioMs": 3350,
+     "finMs": 3550
+    },
+    {
+     "texto": "ella,",
+     "inicioMs": 3600,
+     "finMs": 3950
+    },
+    {
+     "texto": "¡el",
+     "inicioMs": 4025,
+     "finMs": 4125
+    },
+    {
+     "texto": "taller",
+     "inicioMs": 4175,
+     "finMs": 4550
+    },
+    {
+     "texto": "sería",
+     "inicioMs": 4600,
+     "finMs": 4925
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4950,
+     "finMs": 5050
+    },
+    {
+     "texto": "desastre!",
+     "inicioMs": 5075,
+     "finMs": 5725
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-05.mp3",
+   "duracionMs": 6855,
+   "palabras": [
+    {
+     "texto": "También",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "tengo",
+     "inicioMs": 625,
+     "finMs": 900
+    },
+    {
+     "texto": "renos.",
+     "inicioMs": 950,
+     "finMs": 1475
+    },
+    {
+     "texto": "El",
+     "inicioMs": 1575,
+     "finMs": 1650
+    },
+    {
+     "texto": "más",
+     "inicioMs": 1700,
+     "finMs": 1875
+    },
+    {
+     "texto": "pequeño",
+     "inicioMs": 1925,
+     "finMs": 2350
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2400,
+     "finMs": 2500
+    },
+    {
+     "texto": "llama",
+     "inicioMs": 2550,
+     "finMs": 2800
+    },
+    {
+     "texto": "Copito.",
+     "inicioMs": 2850,
+     "finMs": 3500
+    },
+    {
+     "texto": "Todavía",
+     "inicioMs": 3600,
+     "finMs": 4025
+    },
+    {
+     "texto": "no",
+     "inicioMs": 4075,
+     "finMs": 4200
+    },
+    {
+     "texto": "sabe",
+     "inicioMs": 4250,
+     "finMs": 4500
+    },
+    {
+     "texto": "volar,",
+     "inicioMs": 4550,
+     "finMs": 4950
+    },
+    {
+     "texto": "pero",
+     "inicioMs": 5025,
+     "finMs": 5200
+    },
+    {
+     "texto": "tiene",
+     "inicioMs": 5250,
+     "finMs": 5500
+    },
+    {
+     "texto": "un",
+     "inicioMs": 5525,
+     "finMs": 5600
+    },
+    {
+     "texto": "corazón",
+     "inicioMs": 5650,
+     "finMs": 6100
+    },
+    {
+     "texto": "enorme.",
+     "inicioMs": 6150,
+     "finMs": 6625
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-06.mp3",
+   "duracionMs": 5180,
+   "palabras": [
+    {
+     "texto": "En",
+     "inicioMs": 225,
+     "finMs": 275
+    },
+    {
+     "texto": "la",
+     "inicioMs": 300,
+     "finMs": 400
+    },
+    {
+     "texto": "plaza",
+     "inicioMs": 450,
+     "finMs": 750
+    },
+    {
+     "texto": "vive",
+     "inicioMs": 775,
+     "finMs": 1000
+    },
+    {
+     "texto": "Botón,",
+     "inicioMs": 1025,
+     "finMs": 1525
+    },
+    {
+     "texto": "un",
+     "inicioMs": 1625,
+     "finMs": 1725
+    },
+    {
+     "texto": "muñeco",
+     "inicioMs": 1775,
+     "finMs": 2250
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2275,
+     "finMs": 2325
+    },
+    {
+     "texto": "nieve",
+     "inicioMs": 2350,
+     "finMs": 2600
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 2650,
+     "finMs": 2825
+    },
+    {
+     "texto": "curioso,",
+     "inicioMs": 2875,
+     "finMs": 3525
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3625,
+     "finMs": 3725
+    },
+    {
+     "texto": "quiere",
+     "inicioMs": 3775,
+     "finMs": 4050
+    },
+    {
+     "texto": "saberlo",
+     "inicioMs": 4100,
+     "finMs": 4550
+    },
+    {
+     "texto": "todo.",
+     "inicioMs": 4600,
+     "finMs": 4950
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-07.mp3",
+   "duracionMs": 5530,
+   "palabras": [
+    {
+     "texto": "Y",
+     "inicioMs": 250,
+     "finMs": 300
+    },
+    {
+     "texto": "en",
+     "inicioMs": 325,
+     "finMs": 375
+    },
+    {
+     "texto": "el",
+     "inicioMs": 400,
+     "finMs": 475
+    },
+    {
+     "texto": "bosque",
+     "inicioMs": 525,
+     "finMs": 850
+    },
+    {
+     "texto": "vive",
+     "inicioMs": 900,
+     "finMs": 1150
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 1200,
+     "finMs": 1400
+    },
+    {
+     "texto": "Plumas,",
+     "inicioMs": 1475,
+     "finMs": 2150
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2275,
+     "finMs": 2425
+    },
+    {
+     "texto": "búho",
+     "inicioMs": 2475,
+     "finMs": 2675
+    },
+    {
+     "texto": "sabio",
+     "inicioMs": 2725,
+     "finMs": 3050
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3100,
+     "finMs": 3200
+    },
+    {
+     "texto": "conoce",
+     "inicioMs": 3250,
+     "finMs": 3625
+    },
+    {
+     "texto": "todos",
+     "inicioMs": 3700,
+     "finMs": 3975
+    },
+    {
+     "texto": "los",
+     "inicioMs": 4025,
+     "finMs": 4150
+    },
+    {
+     "texto": "secretos",
+     "inicioMs": 4200,
+     "finMs": 4675
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4700,
+     "finMs": 4750
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4775,
+     "finMs": 4850
+    },
+    {
+     "texto": "noche.",
+     "inicioMs": 4875,
+     "finMs": 5300
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-08.mp3",
+   "duracionMs": 8180,
+   "palabras": [
+    {
+     "texto": "Desde",
+     "inicioMs": 225,
+     "finMs": 500
+    },
+    {
+     "texto": "hoy",
+     "inicioMs": 550,
+     "finMs": 825
+    },
+    {
+     "texto": "y",
+     "inicioMs": 875,
+     "finMs": 900
+    },
+    {
+     "texto": "hasta",
+     "inicioMs": 925,
+     "finMs": 1125
+    },
+    {
+     "texto": "el",
+     "inicioMs": 1150,
+     "finMs": 1200
+    },
+    {
+     "texto": "Día",
+     "inicioMs": 1225,
+     "finMs": 1375
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1400,
+     "finMs": 1475
+    },
+    {
+     "texto": "Reyes,",
+     "inicioMs": 1525,
+     "finMs": 2025
+    },
+    {
+     "texto": "voy",
+     "inicioMs": 2150,
+     "finMs": 2325
+    },
+    {
+     "texto": "a",
+     "inicioMs": 2350,
+     "finMs": 2375
+    },
+    {
+     "texto": "contarles",
+     "inicioMs": 2425,
+     "finMs": 2950
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2975,
+     "finMs": 3100
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 3150,
+     "finMs": 3475
+    },
+    {
+     "texto": "cada",
+     "inicioMs": 3525,
+     "finMs": 3800
+    },
+    {
+     "texto": "día.",
+     "inicioMs": 3850,
+     "finMs": 4400
+    },
+    {
+     "texto": "Cuentos",
+     "inicioMs": 4525,
+     "finMs": 4850
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4875,
+     "finMs": 4925
+    },
+    {
+     "texto": "mis",
+     "inicioMs": 4950,
+     "finMs": 5100
+    },
+    {
+     "texto": "amigos,",
+     "inicioMs": 5150,
+     "finMs": 5625
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5675,
+     "finMs": 5725
+    },
+    {
+     "texto": "la",
+     "inicioMs": 5750,
+     "finMs": 5825
+    },
+    {
+     "texto": "Navidad,",
+     "inicioMs": 5850,
+     "finMs": 6400
+    },
+    {
+     "texto": "y",
+     "inicioMs": 6500,
+     "finMs": 6525
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6575,
+     "finMs": 6675
+    },
+    {
+     "texto": "niños",
+     "inicioMs": 6725,
+     "finMs": 7075
+    },
+    {
+     "texto": "de",
+     "inicioMs": 7100,
+     "finMs": 7175
+    },
+    {
+     "texto": "todo",
+     "inicioMs": 7225,
+     "finMs": 7425
+    },
+    {
+     "texto": "el",
+     "inicioMs": 7450,
+     "finMs": 7525
+    },
+    {
+     "texto": "mundo.",
+     "inicioMs": 7575,
+     "finMs": 7950
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-01-hola-soy-santa/escena-09.mp3",
+   "duracionMs": 7905,
+   "palabras": [
+    {
+     "texto": "Así",
+     "inicioMs": 225,
+     "finMs": 475
+    },
+    {
+     "texto": "que,",
+     "inicioMs": 525,
+     "finMs": 600
+    },
+    {
+     "texto": "búsquenme",
+     "inicioMs": 675,
+     "finMs": 1100
+    },
+    {
+     "texto": "aquí",
+     "inicioMs": 1125,
+     "finMs": 1325
+    },
+    {
+     "texto": "todos",
+     "inicioMs": 1375,
+     "finMs": 1625
+    },
+    {
+     "texto": "los",
+     "inicioMs": 1675,
+     "finMs": 1800
+    },
+    {
+     "texto": "días.",
+     "inicioMs": 1850,
+     "finMs": 2450
+    },
+    {
+     "texto": "¿Me",
+     "inicioMs": 2550,
+     "finMs": 2625
+    },
+    {
+     "texto": "lo",
+     "inicioMs": 2650,
+     "finMs": 2750
+    },
+    {
+     "texto": "prometen?",
+     "inicioMs": 2800,
+     "finMs": 3325
+    },
+    {
+     "texto": "¡Muy",
+     "inicioMs": 3400,
+     "finMs": 3550
+    },
+    {
+     "texto": "bien!",
+     "inicioMs": 3600,
+     "finMs": 3975
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 4075,
+     "finMs": 4400
+    },
+    {
+     "texto": "les",
+     "inicioMs": 4425,
+     "finMs": 4550
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 4600,
+     "finMs": 4875
+    },
+    {
+     "texto": "cómo",
+     "inicioMs": 4925,
+     "finMs": 5125
+    },
+    {
+     "texto": "fue",
+     "inicioMs": 5175,
+     "finMs": 5300
+    },
+    {
+     "texto": "el",
+     "inicioMs": 5325,
+     "finMs": 5400
+    },
+    {
+     "texto": "primer",
+     "inicioMs": 5450,
+     "finMs": 5800
+    },
+    {
+     "texto": "vuelo",
+     "inicioMs": 5850,
+     "finMs": 6075
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6100,
+     "finMs": 6150
+    },
+    {
+     "texto": "Copito.",
+     "inicioMs": 6200,
+     "finMs": 6850
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 7000,
+     "finMs": 7150
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 7225,
+     "finMs": 7350
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 7425,
+     "finMs": 7675
+    }
+   ]
+  }
+ ]
+}

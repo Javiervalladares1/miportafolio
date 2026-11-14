@@ -1,0 +1,153 @@
+{
+  "formato": "cuento",
+  "id": "navidad-01-hola-soy-santa",
+  "numero": 1,
+  "serie": "Especial",
+  "titulo": "¡Hola, soy Santa!",
+  "proximo": "Copito y el primer vuelo",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. Soy Santa, y vivo muy, muy lejos, en el Polo Norte, donde todo está cubierto de nieve.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        }
+      ]
+    },
+    {
+      "texto": "Aquí vivo con Mamá Noela, que hace las galletas más ricas del mundo. ¡Mmm, huelen a canela y a chocolate!",
+      "escenario": "cocina",
+      "elementos": [
+        {
+          "p": "noela",
+          "pos": "centro",
+          "accion": "entra"
+        },
+        {
+          "p": "🍪",
+          "pos": "medio-der",
+          "accion": "brilla"
+        },
+        {
+          "p": "🥛",
+          "pos": "medio-izq",
+          "accion": "brilla",
+          "tam": 0.8
+        }
+      ]
+    },
+    {
+      "texto": "En mi taller trabajan los duendes. Pino es el inventor: siempre tiene una idea nueva, aunque a veces sus ideas salen un poquito al revés.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "🔧",
+          "pos": "medio-der",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Y su hermana Canela es la más ordenada de todas. Sin ella, ¡el taller sería un desastre!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq"
+        },
+        {
+          "p": "canela",
+          "pos": "der",
+          "accion": "entra"
+        }
+      ]
+    },
+    {
+      "texto": "También tengo renos. El más pequeño se llama Copito. Todavía no sabe volar, pero tiene un corazón enorme.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "reno",
+          "pos": "izq-lejos",
+          "voltear": true
+        },
+        {
+          "p": "copito",
+          "pos": "centro",
+          "accion": "salta"
+        },
+        {
+          "p": "reno",
+          "pos": "der-lejos"
+        }
+      ]
+    },
+    {
+      "texto": "En la plaza vive Botón, un muñeco de nieve muy curioso, que quiere saberlo todo.",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "centro",
+          "accion": "saluda"
+        }
+      ]
+    },
+    {
+      "texto": "Y en el bosque vive Don Plumas, un búho sabio que conoce todos los secretos de la noche.",
+      "escenario": "bosque",
+      "elementos": [
+        {
+          "p": "plumas",
+          "pos": "medio-der",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Desde hoy y hasta el Día de Reyes, voy a contarles un cuento cada día. Cuentos de mis amigos, de la Navidad, y de niños de todo el mundo.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "arriba-centro",
+          "accion": "vuela"
+        },
+        {
+          "p": "reno",
+          "pos": "arriba-der",
+          "accion": "vuela",
+          "tam": 0.7
+        }
+      ]
+    },
+    {
+      "texto": "Así que, búsquenme aquí todos los días. ¿Me lo prometen? ¡Muy bien! Mañana les cuento cómo fue el primer vuelo de Copito. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

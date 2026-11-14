@@ -1,0 +1,934 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-01.mp3",
+   "duracionMs": 8505,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 425,
+     "finMs": 550
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 625,
+     "finMs": 775
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 850,
+     "finMs": 1050
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1125,
+     "finMs": 1850
+    },
+    {
+     "texto": "¿Saben",
+     "inicioMs": 1975,
+     "finMs": 2250
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 2300,
+     "finMs": 2375
+    },
+    {
+     "texto": "es",
+     "inicioMs": 2400,
+     "finMs": 2475
+    },
+    {
+     "texto": "lo",
+     "inicioMs": 2525,
+     "finMs": 2600
+    },
+    {
+     "texto": "más",
+     "inicioMs": 2625,
+     "finMs": 2800
+    },
+    {
+     "texto": "importante",
+     "inicioMs": 2825,
+     "finMs": 3450
+    },
+    {
+     "texto": "del",
+     "inicioMs": 3475,
+     "finMs": 3600
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 3650,
+     "finMs": 3875
+    },
+    {
+     "texto": "Norte?",
+     "inicioMs": 3925,
+     "finMs": 4375
+    },
+    {
+     "texto": "¡Mi",
+     "inicioMs": 4475,
+     "finMs": 4575
+    },
+    {
+     "texto": "lista!",
+     "inicioMs": 4625,
+     "finMs": 5225
+    },
+    {
+     "texto": "Ahí",
+     "inicioMs": 5375,
+     "finMs": 5500
+    },
+    {
+     "texto": "están",
+     "inicioMs": 5525,
+     "finMs": 5800
+    },
+    {
+     "texto": "los",
+     "inicioMs": 5825,
+     "finMs": 5950
+    },
+    {
+     "texto": "nombres",
+     "inicioMs": 6000,
+     "finMs": 6350
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6375,
+     "finMs": 6450
+    },
+    {
+     "texto": "todos",
+     "inicioMs": 6500,
+     "finMs": 6750
+    },
+    {
+     "texto": "los",
+     "inicioMs": 6800,
+     "finMs": 6950
+    },
+    {
+     "texto": "niños,",
+     "inicioMs": 7000,
+     "finMs": 7375
+    },
+    {
+     "texto": "y",
+     "inicioMs": 7450,
+     "finMs": 7500
+    },
+    {
+     "texto": "sus",
+     "inicioMs": 7550,
+     "finMs": 7700
+    },
+    {
+     "texto": "deseos.",
+     "inicioMs": 7725,
+     "finMs": 8275
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-02.mp3",
+   "duracionMs": 5980,
+   "palabras": [
+    {
+     "texto": "Una",
+     "inicioMs": 225,
+     "finMs": 400
+    },
+    {
+     "texto": "noche,",
+     "inicioMs": 425,
+     "finMs": 775
+    },
+    {
+     "texto": "mientras",
+     "inicioMs": 825,
+     "finMs": 1150
+    },
+    {
+     "texto": "leía",
+     "inicioMs": 1200,
+     "finMs": 1425
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1450,
+     "finMs": 1550
+    },
+    {
+     "texto": "lista,",
+     "inicioMs": 1575,
+     "finMs": 1950
+    },
+    {
+     "texto": "tomé",
+     "inicioMs": 2025,
+     "finMs": 2275
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 2300,
+     "finMs": 2400
+    },
+    {
+     "texto": "chocolate",
+     "inicioMs": 2450,
+     "finMs": 2975
+    },
+    {
+     "texto": "caliente,",
+     "inicioMs": 3025,
+     "finMs": 3575
+    },
+    {
+     "texto": "y",
+     "inicioMs": 3700,
+     "finMs": 3750
+    },
+    {
+     "texto": "¡ups!",
+     "inicioMs": 3800,
+     "finMs": 4325
+    },
+    {
+     "texto": "Se",
+     "inicioMs": 4475,
+     "finMs": 4550
+    },
+    {
+     "texto": "me",
+     "inicioMs": 4575,
+     "finMs": 4675
+    },
+    {
+     "texto": "resbaló",
+     "inicioMs": 4725,
+     "finMs": 5150
+    },
+    {
+     "texto": "la",
+     "inicioMs": 5175,
+     "finMs": 5275
+    },
+    {
+     "texto": "taza.",
+     "inicioMs": 5325,
+     "finMs": 5750
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-03.mp3",
+   "duracionMs": 6380,
+   "palabras": [
+    {
+     "texto": "El",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "chocolate",
+     "inicioMs": 350,
+     "finMs": 925
+    },
+    {
+     "texto": "cayó",
+     "inicioMs": 975,
+     "finMs": 1250
+    },
+    {
+     "texto": "sobre",
+     "inicioMs": 1300,
+     "finMs": 1525
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1550,
+     "finMs": 1625
+    },
+    {
+     "texto": "lista.",
+     "inicioMs": 1650,
+     "finMs": 2300
+    },
+    {
+     "texto": "Las",
+     "inicioMs": 2400,
+     "finMs": 2525
+    },
+    {
+     "texto": "letras",
+     "inicioMs": 2575,
+     "finMs": 2875
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2925,
+     "finMs": 3000
+    },
+    {
+     "texto": "mezclaron",
+     "inicioMs": 3050,
+     "finMs": 3700
+    },
+    {
+     "texto": "y",
+     "inicioMs": 3750,
+     "finMs": 3800
+    },
+    {
+     "texto": "se",
+     "inicioMs": 3850,
+     "finMs": 3950
+    },
+    {
+     "texto": "borraron.",
+     "inicioMs": 4000,
+     "finMs": 4650
+    },
+    {
+     "texto": "¡No",
+     "inicioMs": 4775,
+     "finMs": 4900
+    },
+    {
+     "texto": "se",
+     "inicioMs": 4950,
+     "finMs": 5050
+    },
+    {
+     "texto": "podía",
+     "inicioMs": 5100,
+     "finMs": 5450
+    },
+    {
+     "texto": "leer",
+     "inicioMs": 5475,
+     "finMs": 5725
+    },
+    {
+     "texto": "nada!",
+     "inicioMs": 5775,
+     "finMs": 6150
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-04.mp3",
+   "duracionMs": 6255,
+   "palabras": [
+    {
+     "texto": "Yo",
+     "inicioMs": 250,
+     "finMs": 400
+    },
+    {
+     "texto": "me",
+     "inicioMs": 425,
+     "finMs": 525
+    },
+    {
+     "texto": "puse",
+     "inicioMs": 575,
+     "finMs": 850
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 900,
+     "finMs": 1050
+    },
+    {
+     "texto": "nervioso.",
+     "inicioMs": 1075,
+     "finMs": 1900
+    },
+    {
+     "texto": "Mamá",
+     "inicioMs": 2025,
+     "finMs": 2250
+    },
+    {
+     "texto": "Noela",
+     "inicioMs": 2275,
+     "finMs": 2550
+    },
+    {
+     "texto": "me",
+     "inicioMs": 2575,
+     "finMs": 2675
+    },
+    {
+     "texto": "dio",
+     "inicioMs": 2700,
+     "finMs": 2825
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2850,
+     "finMs": 2925
+    },
+    {
+     "texto": "abrazo",
+     "inicioMs": 2950,
+     "finMs": 3350
+    },
+    {
+     "texto": "y",
+     "inicioMs": 3400,
+     "finMs": 3450
+    },
+    {
+     "texto": "dijo:",
+     "inicioMs": 3500,
+     "finMs": 3825
+    },
+    {
+     "texto": "Tranquilo.",
+     "inicioMs": 3900,
+     "finMs": 4625
+    },
+    {
+     "texto": "Vamos",
+     "inicioMs": 4750,
+     "finMs": 5075
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5125,
+     "finMs": 5150
+    },
+    {
+     "texto": "pedir",
+     "inicioMs": 5200,
+     "finMs": 5500
+    },
+    {
+     "texto": "ayuda.",
+     "inicioMs": 5550,
+     "finMs": 6025
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-05.mp3",
+   "duracionMs": 5230,
+   "palabras": [
+    {
+     "texto": "Canela",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "levantó",
+     "inicioMs": 600,
+     "finMs": 1000
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1025,
+     "finMs": 1125
+    },
+    {
+     "texto": "mano:",
+     "inicioMs": 1175,
+     "finMs": 1675
+    },
+    {
+     "texto": "¡Yo",
+     "inicioMs": 1825,
+     "finMs": 1925
+    },
+    {
+     "texto": "leí",
+     "inicioMs": 1950,
+     "finMs": 2150
+    },
+    {
+     "texto": "todas",
+     "inicioMs": 2200,
+     "finMs": 2475
+    },
+    {
+     "texto": "las",
+     "inicioMs": 2525,
+     "finMs": 2675
+    },
+    {
+     "texto": "cartas,",
+     "inicioMs": 2725,
+     "finMs": 3150
+    },
+    {
+     "texto": "una",
+     "inicioMs": 3200,
+     "finMs": 3375
+    },
+    {
+     "texto": "por",
+     "inicioMs": 3425,
+     "finMs": 3550
+    },
+    {
+     "texto": "una!",
+     "inicioMs": 3575,
+     "finMs": 3850
+    },
+    {
+     "texto": "Puedo",
+     "inicioMs": 3950,
+     "finMs": 4175
+    },
+    {
+     "texto": "recordarlas.",
+     "inicioMs": 4225,
+     "finMs": 5000
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-06.mp3",
+   "duracionMs": 8005,
+   "palabras": [
+    {
+     "texto": "Y",
+     "inicioMs": 250,
+     "finMs": 300
+    },
+    {
+     "texto": "así",
+     "inicioMs": 350,
+     "finMs": 625
+    },
+    {
+     "texto": "lo",
+     "inicioMs": 675,
+     "finMs": 775
+    },
+    {
+     "texto": "hizo.",
+     "inicioMs": 800,
+     "finMs": 1350
+    },
+    {
+     "texto": "Durante",
+     "inicioMs": 1475,
+     "finMs": 1875
+    },
+    {
+     "texto": "tres",
+     "inicioMs": 1925,
+     "finMs": 2150
+    },
+    {
+     "texto": "días",
+     "inicioMs": 2200,
+     "finMs": 2525
+    },
+    {
+     "texto": "con",
+     "inicioMs": 2575,
+     "finMs": 2725
+    },
+    {
+     "texto": "sus",
+     "inicioMs": 2775,
+     "finMs": 2950
+    },
+    {
+     "texto": "noches,",
+     "inicioMs": 3000,
+     "finMs": 3525
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 3600,
+     "finMs": 3950
+    },
+    {
+     "texto": "fue",
+     "inicioMs": 4000,
+     "finMs": 4125
+    },
+    {
+     "texto": "diciendo",
+     "inicioMs": 4175,
+     "finMs": 4600
+    },
+    {
+     "texto": "los",
+     "inicioMs": 4625,
+     "finMs": 4775
+    },
+    {
+     "texto": "nombres,",
+     "inicioMs": 4825,
+     "finMs": 5450
+    },
+    {
+     "texto": "y",
+     "inicioMs": 5550,
+     "finMs": 5600
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 5675,
+     "finMs": 5925
+    },
+    {
+     "texto": "los",
+     "inicioMs": 5950,
+     "finMs": 6075
+    },
+    {
+     "texto": "escribía",
+     "inicioMs": 6100,
+     "finMs": 6650
+    },
+    {
+     "texto": "con",
+     "inicioMs": 6700,
+     "finMs": 6850
+    },
+    {
+     "texto": "su",
+     "inicioMs": 6900,
+     "finMs": 7000
+    },
+    {
+     "texto": "mejor",
+     "inicioMs": 7050,
+     "finMs": 7350
+    },
+    {
+     "texto": "letra.",
+     "inicioMs": 7400,
+     "finMs": 7775
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-07.mp3",
+   "duracionMs": 5430,
+   "palabras": [
+    {
+     "texto": "Cuando",
+     "inicioMs": 225,
+     "finMs": 475
+    },
+    {
+     "texto": "terminó,",
+     "inicioMs": 525,
+     "finMs": 1000
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 1075,
+     "finMs": 1400
+    },
+    {
+     "texto": "estaba",
+     "inicioMs": 1425,
+     "finMs": 1800
+    },
+    {
+     "texto": "tan",
+     "inicioMs": 1850,
+     "finMs": 2025
+    },
+    {
+     "texto": "cansada,",
+     "inicioMs": 2075,
+     "finMs": 2825
+    },
+    {
+     "texto": "que",
+     "inicioMs": 2925,
+     "finMs": 3025
+    },
+    {
+     "texto": "se",
+     "inicioMs": 3075,
+     "finMs": 3175
+    },
+    {
+     "texto": "quedó",
+     "inicioMs": 3225,
+     "finMs": 3475
+    },
+    {
+     "texto": "dormida",
+     "inicioMs": 3500,
+     "finMs": 3925
+    },
+    {
+     "texto": "encima",
+     "inicioMs": 3975,
+     "finMs": 4375
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4400,
+     "finMs": 4450
+    },
+    {
+     "texto": "las",
+     "inicioMs": 4475,
+     "finMs": 4625
+    },
+    {
+     "texto": "cartas.",
+     "inicioMs": 4675,
+     "finMs": 5200
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-08.mp3",
+   "duracionMs": 6780,
+   "palabras": [
+    {
+     "texto": "La",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "nueva",
+     "inicioMs": 325,
+     "finMs": 625
+    },
+    {
+     "texto": "lista",
+     "inicioMs": 675,
+     "finMs": 1000
+    },
+    {
+     "texto": "quedó",
+     "inicioMs": 1050,
+     "finMs": 1325
+    },
+    {
+     "texto": "perfecta.",
+     "inicioMs": 1375,
+     "finMs": 2275
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 2425,
+     "finMs": 2475
+    },
+    {
+     "texto": "todo,",
+     "inicioMs": 2550,
+     "finMs": 2975
+    },
+    {
+     "texto": "gracias",
+     "inicioMs": 3075,
+     "finMs": 3500
+    },
+    {
+     "texto": "a",
+     "inicioMs": 3550,
+     "finMs": 3575
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3625,
+     "finMs": 3725
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 3775,
+     "finMs": 4125
+    },
+    {
+     "texto": "había",
+     "inicioMs": 4175,
+     "finMs": 4450
+    },
+    {
+     "texto": "hecho",
+     "inicioMs": 4500,
+     "finMs": 4800
+    },
+    {
+     "texto": "su",
+     "inicioMs": 4850,
+     "finMs": 4950
+    },
+    {
+     "texto": "trabajo",
+     "inicioMs": 5000,
+     "finMs": 5450
+    },
+    {
+     "texto": "con",
+     "inicioMs": 5500,
+     "finMs": 5625
+    },
+    {
+     "texto": "mucho",
+     "inicioMs": 5675,
+     "finMs": 5975
+    },
+    {
+     "texto": "cuidado.",
+     "inicioMs": 6025,
+     "finMs": 6550
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-07-la-lista-mojada/escena-09.mp3",
+   "duracionMs": 7980,
+   "palabras": [
+    {
+     "texto": "Ah,",
+     "inicioMs": 250,
+     "finMs": 375
+    },
+    {
+     "texto": "y",
+     "inicioMs": 450,
+     "finMs": 475
+    },
+    {
+     "texto": "desde",
+     "inicioMs": 500,
+     "finMs": 725
+    },
+    {
+     "texto": "ese",
+     "inicioMs": 750,
+     "finMs": 950
+    },
+    {
+     "texto": "día,",
+     "inicioMs": 1000,
+     "finMs": 1325
+    },
+    {
+     "texto": "tomo",
+     "inicioMs": 1425,
+     "finMs": 1625
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 1650,
+     "finMs": 1750
+    },
+    {
+     "texto": "chocolate",
+     "inicioMs": 1800,
+     "finMs": 2350
+    },
+    {
+     "texto": "lejos",
+     "inicioMs": 2400,
+     "finMs": 2700
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2725,
+     "finMs": 2775
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2800,
+     "finMs": 2875
+    },
+    {
+     "texto": "lista.",
+     "inicioMs": 2900,
+     "finMs": 3450
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 3550,
+     "finMs": 3900
+    },
+    {
+     "texto": "les",
+     "inicioMs": 3925,
+     "finMs": 4075
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 4125,
+     "finMs": 4450
+    },
+    {
+     "texto": "por",
+     "inicioMs": 4500,
+     "finMs": 4650
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 4700,
+     "finMs": 4800
+    },
+    {
+     "texto": "Copito",
+     "inicioMs": 4850,
+     "finMs": 5250
+    },
+    {
+     "texto": "no",
+     "inicioMs": 5300,
+     "finMs": 5400
+    },
+    {
+     "texto": "quería",
+     "inicioMs": 5450,
+     "finMs": 5750
+    },
+    {
+     "texto": "tomarse",
+     "inicioMs": 5800,
+     "finMs": 6250
+    },
+    {
+     "texto": "la",
+     "inicioMs": 6275,
+     "finMs": 6375
+    },
+    {
+     "texto": "sopa.",
+     "inicioMs": 6425,
+     "finMs": 6950
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 7050,
+     "finMs": 7200
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 7275,
+     "finMs": 7400
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 7475,
+     "finMs": 7750
+    }
+   ]
+  }
+ ]
+}

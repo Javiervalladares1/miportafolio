@@ -1,8 +1,11 @@
 import { CalculateMetadataFunction, Composition, staticFile } from "remotion";
 import { FactVideo } from "./FactVideo";
 import { ALTO, ANCHO, FPS } from "./tema";
-import { EscenaTiempo, Palabra, Props, Video } from "./types";
+import { Palabra, Props, Video } from "./types";
+import { CuentoVideo } from "./cuento/Cuento";
+import { PropsCuento } from "./cuento/tipos";
 import bono14 from "../videos/bono14-aguinaldo.json";
+import { cuentos } from "../videos/navidad";
 
 // Para agregar un video nuevo: creá el JSON en /videos y sumalo a esta lista.
 const videos: Video[] = [bono14 as Video];
@@ -29,8 +32,11 @@ const estimar = (texto: string): { duracionMs: number; palabras: Palabra[] } => 
   return { duracionMs, palabras };
 };
 
-const calcular: CalculateMetadataFunction<Props> = async ({ props }) => {
+type Generico = { video: { id: string; escenas: { texto: string }[] }; escenas: unknown[] };
+
+const calcular = async <P extends Generico>({ props }: { props: P }) => {
   const { video } = props;
+  const pausa = (video as { formato?: string }).formato === "cuento" ? 600 : PAUSA_MS;
   let tiempos: Tiempos | null = null;
   try {
     const res = await fetch(staticFile(`voz/${video.id}/tiempos.json`));
@@ -43,21 +49,24 @@ const calcular: CalculateMetadataFunction<Props> = async ({ props }) => {
     tiempos = null;
   }
 
-  const escenas: EscenaTiempo[] = video.escenas.map((e, i) => {
+  const escenas = video.escenas.map((e, i) => {
     const t = tiempos?.escenas[i] ?? estimar(e.texto);
     return {
       ...e,
       audio: tiempos?.escenas[i]?.audio,
       palabras: t.palabras,
-      duracionFrames: Math.ceil(((t.duracionMs + PAUSA_MS) / 1000) * FPS),
+      duracionFrames: Math.ceil(((t.duracionMs + pausa) / 1000) * FPS),
     };
   });
 
   return {
     durationInFrames: escenas.reduce((a, e) => a + e.duracionFrames, 0),
-    props: { video, escenas },
+    props: { ...props, video, escenas } as P,
   };
 };
+
+const calcularFinanzas: CalculateMetadataFunction<Props> = (o) => calcular(o);
+const calcularCuento: CalculateMetadataFunction<PropsCuento> = (o) => calcular(o);
 
 export const RemotionRoot = () => (
   <>
@@ -71,7 +80,20 @@ export const RemotionRoot = () => (
         height={ALTO}
         durationInFrames={1}
         defaultProps={{ video, escenas: [] }}
-        calculateMetadata={calcular}
+        calculateMetadata={calcularFinanzas}
+      />
+    ))}
+    {cuentos.map((video) => (
+      <Composition
+        key={video.id}
+        id={video.id}
+        component={CuentoVideo}
+        fps={FPS}
+        width={ANCHO}
+        height={ALTO}
+        durationInFrames={1}
+        defaultProps={{ video, escenas: [] }}
+        calculateMetadata={calcularCuento}
       />
     ))}
   </>

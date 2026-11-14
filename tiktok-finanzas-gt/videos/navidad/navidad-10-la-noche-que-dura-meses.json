@@ -1,0 +1,161 @@
+{
+  "formato": "cuento",
+  "id": "navidad-10-la-noche-que-dura-meses",
+  "numero": 10,
+  "serie": "Don Plumas",
+  "titulo": "La noche que dura meses",
+  "proximo": "Una tarjeta para el cartero",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. Hoy tengo un invitado muy sabio: Don Plumas, el búho del bosque. Él sabe muchos secretos.",
+      "escenario": "bosque",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "plumas",
+          "pos": "medio-der",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Botón le preguntó: Don Plumas, ¿por qué aquí casi siempre es de noche? Hace muchísimo que no veo el sol.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq"
+        },
+        {
+          "p": "plumas",
+          "pos": "medio-der"
+        }
+      ]
+    },
+    {
+      "texto": "Ju, ju, dijo Don Plumas. Es que en el Polo Norte, el sol se esconde a finales de septiembre, ¡y no vuelve a salir hasta marzo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "plumas",
+          "pos": "medio-centro",
+          "accion": "gira"
+        }
+      ],
+      "rotulo": "¡Casi seis meses de noche!"
+    },
+    {
+      "texto": "Eso pasa porque la Tierra está inclinadita, como un trompo. En esta época, nuestra parte del mundo queda de espaldas al sol.",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "🌍",
+          "pos": "medio-centro",
+          "accion": "gira",
+          "tam": 1.8
+        },
+        {
+          "p": "plumas",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Y en verano pasa al revés: el sol no se esconde nunca, ¡ni siquiera a medianoche!",
+      "escenario": "aldea",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "☀️",
+          "pos": "arriba-der",
+          "accion": "brilla",
+          "tam": 1.3
+        },
+        {
+          "p": "plumas",
+          "pos": "medio-der"
+        }
+      ]
+    },
+    {
+      "texto": "¿Y esas luces de colores que bailan en el cielo?, preguntó Botón. Se llaman auroras boreales, dijo Don Plumas.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "boton",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "plumas",
+          "pos": "medio-der"
+        }
+      ]
+    },
+    {
+      "texto": "Son chispitas que vienen del sol. Cuando chocan con el aire, ¡se encienden de verde, azul y morado!",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "plumas",
+          "pos": "medio-centro",
+          "accion": "gira"
+        },
+        {
+          "p": "✨",
+          "pos": "arriba-izq",
+          "accion": "brilla"
+        },
+        {
+          "p": "✨",
+          "pos": "arriba-der",
+          "accion": "brilla"
+        }
+      ]
+    },
+    {
+      "texto": "Por eso, aunque haya mucha noche, el cielo del Polo Norte es uno de los más bonitos del mundo.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "boton",
+          "pos": "der",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "Qué bonito es aprender, ¿verdad? Mañana les cuento por qué los duendes le hicieron una tarjeta al cartero. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

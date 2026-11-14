@@ -1,0 +1,934 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-01.mp3",
+   "duracionMs": 7655,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 450,
+     "finMs": 575
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 650,
+     "finMs": 850
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 950,
+     "finMs": 1225
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1300,
+     "finMs": 2025
+    },
+    {
+     "texto": "Copito",
+     "inicioMs": 2125,
+     "finMs": 2500
+    },
+    {
+     "texto": "seguía",
+     "inicioMs": 2550,
+     "finMs": 2850
+    },
+    {
+     "texto": "practicando",
+     "inicioMs": 2875,
+     "finMs": 3475
+    },
+    {
+     "texto": "para",
+     "inicioMs": 3525,
+     "finMs": 3675
+    },
+    {
+     "texto": "volar.",
+     "inicioMs": 3700,
+     "finMs": 4225
+    },
+    {
+     "texto": "Pero",
+     "inicioMs": 4325,
+     "finMs": 4500
+    },
+    {
+     "texto": "tenía",
+     "inicioMs": 4550,
+     "finMs": 4825
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4850,
+     "finMs": 5000
+    },
+    {
+     "texto": "costumbre:",
+     "inicioMs": 5050,
+     "finMs": 5650
+    },
+    {
+     "texto": "solo",
+     "inicioMs": 5775,
+     "finMs": 6025
+    },
+    {
+     "texto": "quería",
+     "inicioMs": 6075,
+     "finMs": 6375
+    },
+    {
+     "texto": "comer",
+     "inicioMs": 6425,
+     "finMs": 6725
+    },
+    {
+     "texto": "zanahorias.",
+     "inicioMs": 6775,
+     "finMs": 7425
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-02.mp3",
+   "duracionMs": 5230,
+   "palabras": [
+    {
+     "texto": "Zanahorias",
+     "inicioMs": 225,
+     "finMs": 825
+    },
+    {
+     "texto": "en",
+     "inicioMs": 875,
+     "finMs": 950
+    },
+    {
+     "texto": "el",
+     "inicioMs": 975,
+     "finMs": 1050
+    },
+    {
+     "texto": "desayuno,",
+     "inicioMs": 1075,
+     "finMs": 1750
+    },
+    {
+     "texto": "zanahorias",
+     "inicioMs": 1850,
+     "finMs": 2475
+    },
+    {
+     "texto": "en",
+     "inicioMs": 2525,
+     "finMs": 2600
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2625,
+     "finMs": 2700
+    },
+    {
+     "texto": "almuerzo,",
+     "inicioMs": 2750,
+     "finMs": 3450
+    },
+    {
+     "texto": "¡y",
+     "inicioMs": 3575,
+     "finMs": 3625
+    },
+    {
+     "texto": "zanahorias",
+     "inicioMs": 3675,
+     "finMs": 4325
+    },
+    {
+     "texto": "en",
+     "inicioMs": 4375,
+     "finMs": 4450
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4475,
+     "finMs": 4575
+    },
+    {
+     "texto": "cena!",
+     "inicioMs": 4625,
+     "finMs": 5000
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-03.mp3",
+   "duracionMs": 6830,
+   "palabras": [
+    {
+     "texto": "Un",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "día,",
+     "inicioMs": 400,
+     "finMs": 650
+    },
+    {
+     "texto": "Mamá",
+     "inicioMs": 725,
+     "finMs": 975
+    },
+    {
+     "texto": "Noela",
+     "inicioMs": 1025,
+     "finMs": 1350
+    },
+    {
+     "texto": "preparó",
+     "inicioMs": 1400,
+     "finMs": 1725
+    },
+    {
+     "texto": "una",
+     "inicioMs": 1750,
+     "finMs": 1900
+    },
+    {
+     "texto": "sopa",
+     "inicioMs": 1950,
+     "finMs": 2225
+    },
+    {
+     "texto": "calientita",
+     "inicioMs": 2275,
+     "finMs": 2825
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2850,
+     "finMs": 2900
+    },
+    {
+     "texto": "verduras.",
+     "inicioMs": 2925,
+     "finMs": 3675
+    },
+    {
+     "texto": "Copito,",
+     "inicioMs": 3775,
+     "finMs": 4200
+    },
+    {
+     "texto": "pruébala.",
+     "inicioMs": 4275,
+     "finMs": 4900
+    },
+    {
+     "texto": "Te",
+     "inicioMs": 5000,
+     "finMs": 5100
+    },
+    {
+     "texto": "va",
+     "inicioMs": 5125,
+     "finMs": 5225
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5275,
+     "finMs": 5300
+    },
+    {
+     "texto": "dar",
+     "inicioMs": 5325,
+     "finMs": 5500
+    },
+    {
+     "texto": "fuerza",
+     "inicioMs": 5575,
+     "finMs": 5950
+    },
+    {
+     "texto": "para",
+     "inicioMs": 6000,
+     "finMs": 6175
+    },
+    {
+     "texto": "volar.",
+     "inicioMs": 6200,
+     "finMs": 6600
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-04.mp3",
+   "duracionMs": 5430,
+   "palabras": [
+    {
+     "texto": "¡No,",
+     "inicioMs": 250,
+     "finMs": 400
+    },
+    {
+     "texto": "no",
+     "inicioMs": 475,
+     "finMs": 600
+    },
+    {
+     "texto": "y",
+     "inicioMs": 650,
+     "finMs": 675
+    },
+    {
+     "texto": "no!,",
+     "inicioMs": 725,
+     "finMs": 925
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 1025,
+     "finMs": 1250
+    },
+    {
+     "texto": "Copito,",
+     "inicioMs": 1300,
+     "finMs": 1675
+    },
+    {
+     "texto": "moviendo",
+     "inicioMs": 1725,
+     "finMs": 2075
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2100,
+     "finMs": 2175
+    },
+    {
+     "texto": "cabeza.",
+     "inicioMs": 2225,
+     "finMs": 2775
+    },
+    {
+     "texto": "Esa",
+     "inicioMs": 2875,
+     "finMs": 3100
+    },
+    {
+     "texto": "sopa",
+     "inicioMs": 3150,
+     "finMs": 3400
+    },
+    {
+     "texto": "es",
+     "inicioMs": 3425,
+     "finMs": 3550
+    },
+    {
+     "texto": "verde.",
+     "inicioMs": 3600,
+     "finMs": 4000
+    },
+    {
+     "texto": "¡Seguro",
+     "inicioMs": 4125,
+     "finMs": 4475
+    },
+    {
+     "texto": "sabe",
+     "inicioMs": 4525,
+     "finMs": 4775
+    },
+    {
+     "texto": "feo!",
+     "inicioMs": 4850,
+     "finMs": 5200
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-05.mp3",
+   "duracionMs": 6705,
+   "palabras": [
+    {
+     "texto": "Esa",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "tarde,",
+     "inicioMs": 475,
+     "finMs": 775
+    },
+    {
+     "texto": "en",
+     "inicioMs": 825,
+     "finMs": 875
+    },
+    {
+     "texto": "la",
+     "inicioMs": 900,
+     "finMs": 1000
+    },
+    {
+     "texto": "práctica,",
+     "inicioMs": 1050,
+     "finMs": 1625
+    },
+    {
+     "texto": "Copito",
+     "inicioMs": 1725,
+     "finMs": 2125
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2175,
+     "finMs": 2275
+    },
+    {
+     "texto": "cansó",
+     "inicioMs": 2325,
+     "finMs": 2700
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 2750,
+     "finMs": 2925
+    },
+    {
+     "texto": "rápido.",
+     "inicioMs": 2975,
+     "finMs": 3725
+    },
+    {
+     "texto": "Las",
+     "inicioMs": 3825,
+     "finMs": 3975
+    },
+    {
+     "texto": "patitas",
+     "inicioMs": 4025,
+     "finMs": 4475
+    },
+    {
+     "texto": "le",
+     "inicioMs": 4525,
+     "finMs": 4625
+    },
+    {
+     "texto": "temblaban,",
+     "inicioMs": 4675,
+     "finMs": 5300
+    },
+    {
+     "texto": "y",
+     "inicioMs": 5375,
+     "finMs": 5425
+    },
+    {
+     "texto": "no",
+     "inicioMs": 5475,
+     "finMs": 5600
+    },
+    {
+     "texto": "pudo",
+     "inicioMs": 5650,
+     "finMs": 5850
+    },
+    {
+     "texto": "despegar.",
+     "inicioMs": 5875,
+     "finMs": 6475
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-06.mp3",
+   "duracionMs": 7755,
+   "palabras": [
+    {
+     "texto": "Mamá",
+     "inicioMs": 225,
+     "finMs": 475
+    },
+    {
+     "texto": "Noela",
+     "inicioMs": 525,
+     "finMs": 800
+    },
+    {
+     "texto": "le",
+     "inicioMs": 825,
+     "finMs": 925
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 950,
+     "finMs": 1225
+    },
+    {
+     "texto": "con",
+     "inicioMs": 1275,
+     "finMs": 1425
+    },
+    {
+     "texto": "cariño:",
+     "inicioMs": 1475,
+     "finMs": 2050
+    },
+    {
+     "texto": "No",
+     "inicioMs": 2150,
+     "finMs": 2275
+    },
+    {
+     "texto": "tienes",
+     "inicioMs": 2325,
+     "finMs": 2650
+    },
+    {
+     "texto": "que",
+     "inicioMs": 2700,
+     "finMs": 2750
+    },
+    {
+     "texto": "comerte",
+     "inicioMs": 2800,
+     "finMs": 3225
+    },
+    {
+     "texto": "toda",
+     "inicioMs": 3275,
+     "finMs": 3475
+    },
+    {
+     "texto": "la",
+     "inicioMs": 3500,
+     "finMs": 3600
+    },
+    {
+     "texto": "sopa.",
+     "inicioMs": 3650,
+     "finMs": 4075
+    },
+    {
+     "texto": "Solo",
+     "inicioMs": 4200,
+     "finMs": 4450
+    },
+    {
+     "texto": "prueba",
+     "inicioMs": 4500,
+     "finMs": 4825
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4850,
+     "finMs": 5000
+    },
+    {
+     "texto": "cucharada.",
+     "inicioMs": 5050,
+     "finMs": 5825
+    },
+    {
+     "texto": "Si",
+     "inicioMs": 5950,
+     "finMs": 6050
+    },
+    {
+     "texto": "no",
+     "inicioMs": 6100,
+     "finMs": 6225
+    },
+    {
+     "texto": "te",
+     "inicioMs": 6275,
+     "finMs": 6375
+    },
+    {
+     "texto": "gusta,",
+     "inicioMs": 6425,
+     "finMs": 6800
+    },
+    {
+     "texto": "está",
+     "inicioMs": 6850,
+     "finMs": 7100
+    },
+    {
+     "texto": "bien.",
+     "inicioMs": 7150,
+     "finMs": 7525
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-07.mp3",
+   "duracionMs": 7605,
+   "palabras": [
+    {
+     "texto": "Copito",
+     "inicioMs": 225,
+     "finMs": 600
+    },
+    {
+     "texto": "cerró",
+     "inicioMs": 650,
+     "finMs": 875
+    },
+    {
+     "texto": "los",
+     "inicioMs": 900,
+     "finMs": 1050
+    },
+    {
+     "texto": "ojos,",
+     "inicioMs": 1100,
+     "finMs": 1525
+    },
+    {
+     "texto": "probó",
+     "inicioMs": 1600,
+     "finMs": 1825
+    },
+    {
+     "texto": "una",
+     "inicioMs": 1850,
+     "finMs": 2000
+    },
+    {
+     "texto": "cucharada,",
+     "inicioMs": 2050,
+     "finMs": 2650
+    },
+    {
+     "texto": "y",
+     "inicioMs": 2725,
+     "finMs": 2750
+    },
+    {
+     "texto": "abrió",
+     "inicioMs": 2775,
+     "finMs": 3075
+    },
+    {
+     "texto": "los",
+     "inicioMs": 3100,
+     "finMs": 3250
+    },
+    {
+     "texto": "ojos",
+     "inicioMs": 3275,
+     "finMs": 3575
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 3625,
+     "finMs": 3750
+    },
+    {
+     "texto": "grandes.",
+     "inicioMs": 3800,
+     "finMs": 4525
+    },
+    {
+     "texto": "¡Está",
+     "inicioMs": 4625,
+     "finMs": 4850
+    },
+    {
+     "texto": "deliciosa!",
+     "inicioMs": 4900,
+     "finMs": 5725
+    },
+    {
+     "texto": "¡Sabe",
+     "inicioMs": 5875,
+     "finMs": 6100
+    },
+    {
+     "texto": "a",
+     "inicioMs": 6150,
+     "finMs": 6175
+    },
+    {
+     "texto": "bosque",
+     "inicioMs": 6225,
+     "finMs": 6650
+    },
+    {
+     "texto": "y",
+     "inicioMs": 6700,
+     "finMs": 6725
+    },
+    {
+     "texto": "a",
+     "inicioMs": 6775,
+     "finMs": 6800
+    },
+    {
+     "texto": "abrazo!",
+     "inicioMs": 6850,
+     "finMs": 7375
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-08.mp3",
+   "duracionMs": 5855,
+   "palabras": [
+    {
+     "texto": "Al",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "día",
+     "inicioMs": 350,
+     "finMs": 525
+    },
+    {
+     "texto": "siguiente,",
+     "inicioMs": 575,
+     "finMs": 1125
+    },
+    {
+     "texto": "con",
+     "inicioMs": 1175,
+     "finMs": 1300
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1325,
+     "finMs": 1400
+    },
+    {
+     "texto": "pancita",
+     "inicioMs": 1425,
+     "finMs": 1875
+    },
+    {
+     "texto": "llena",
+     "inicioMs": 1925,
+     "finMs": 2150
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2175,
+     "finMs": 2275
+    },
+    {
+     "texto": "sopa,",
+     "inicioMs": 2350,
+     "finMs": 2925
+    },
+    {
+     "texto": "Copito",
+     "inicioMs": 3050,
+     "finMs": 3450
+    },
+    {
+     "texto": "voló",
+     "inicioMs": 3500,
+     "finMs": 3775
+    },
+    {
+     "texto": "un",
+     "inicioMs": 3800,
+     "finMs": 3925
+    },
+    {
+     "texto": "poquito",
+     "inicioMs": 3975,
+     "finMs": 4400
+    },
+    {
+     "texto": "más",
+     "inicioMs": 4450,
+     "finMs": 4675
+    },
+    {
+     "texto": "alto",
+     "inicioMs": 4725,
+     "finMs": 5000
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5050,
+     "finMs": 5150
+    },
+    {
+     "texto": "nunca.",
+     "inicioMs": 5200,
+     "finMs": 5625
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-08-copito-no-quiere-sopa/escena-09.mp3",
+   "duracionMs": 9355,
+   "palabras": [
+    {
+     "texto": "Probar",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "cosas",
+     "inicioMs": 625,
+     "finMs": 975
+    },
+    {
+     "texto": "nuevas",
+     "inicioMs": 1025,
+     "finMs": 1375
+    },
+    {
+     "texto": "da",
+     "inicioMs": 1400,
+     "finMs": 1475
+    },
+    {
+     "texto": "un",
+     "inicioMs": 1500,
+     "finMs": 1575
+    },
+    {
+     "texto": "poco",
+     "inicioMs": 1625,
+     "finMs": 1875
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1900,
+     "finMs": 1950
+    },
+    {
+     "texto": "miedo,",
+     "inicioMs": 2000,
+     "finMs": 2400
+    },
+    {
+     "texto": "pero",
+     "inicioMs": 2500,
+     "finMs": 2675
+    },
+    {
+     "texto": "puede",
+     "inicioMs": 2725,
+     "finMs": 2975
+    },
+    {
+     "texto": "ser",
+     "inicioMs": 3025,
+     "finMs": 3175
+    },
+    {
+     "texto": "una",
+     "inicioMs": 3200,
+     "finMs": 3350
+    },
+    {
+     "texto": "sorpresa",
+     "inicioMs": 3400,
+     "finMs": 3875
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 3925,
+     "finMs": 4100
+    },
+    {
+     "texto": "rica.",
+     "inicioMs": 4150,
+     "finMs": 4700
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 4800,
+     "finMs": 5150
+    },
+    {
+     "texto": "les",
+     "inicioMs": 5175,
+     "finMs": 5325
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 5375,
+     "finMs": 5700
+    },
+    {
+     "texto": "por",
+     "inicioMs": 5750,
+     "finMs": 5900
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 5950,
+     "finMs": 6075
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 6100,
+     "finMs": 6200
+    },
+    {
+     "texto": "trineo",
+     "inicioMs": 6250,
+     "finMs": 6625
+    },
+    {
+     "texto": "hacía",
+     "inicioMs": 6675,
+     "finMs": 6975
+    },
+    {
+     "texto": "un",
+     "inicioMs": 7000,
+     "finMs": 7100
+    },
+    {
+     "texto": "ruido",
+     "inicioMs": 7150,
+     "finMs": 7450
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 7500,
+     "finMs": 7675
+    },
+    {
+     "texto": "raro.",
+     "inicioMs": 7725,
+     "finMs": 8250
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 8375,
+     "finMs": 8525
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 8600,
+     "finMs": 8750
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 8850,
+     "finMs": 9125
+    }
+   ]
+  }
+ ]
+}

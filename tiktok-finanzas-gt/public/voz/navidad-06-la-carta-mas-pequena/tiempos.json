@@ -1,0 +1,944 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-01.mp3",
+   "duracionMs": 7680,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 450,
+     "finMs": 575
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 650,
+     "finMs": 850
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 950,
+     "finMs": 1150
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1225,
+     "finMs": 2025
+    },
+    {
+     "texto": "Cada",
+     "inicioMs": 2125,
+     "finMs": 2350
+    },
+    {
+     "texto": "año",
+     "inicioMs": 2375,
+     "finMs": 2550
+    },
+    {
+     "texto": "llegan",
+     "inicioMs": 2600,
+     "finMs": 2900
+    },
+    {
+     "texto": "al",
+     "inicioMs": 2925,
+     "finMs": 3025
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 3075,
+     "finMs": 3300
+    },
+    {
+     "texto": "Norte",
+     "inicioMs": 3350,
+     "finMs": 3650
+    },
+    {
+     "texto": "millones",
+     "inicioMs": 3700,
+     "finMs": 4125
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4150,
+     "finMs": 4225
+    },
+    {
+     "texto": "cartas.",
+     "inicioMs": 4275,
+     "finMs": 4925
+    },
+    {
+     "texto": "Grandes,",
+     "inicioMs": 5050,
+     "finMs": 5525
+    },
+    {
+     "texto": "pequeñas,",
+     "inicioMs": 5600,
+     "finMs": 6150
+    },
+    {
+     "texto": "y",
+     "inicioMs": 6225,
+     "finMs": 6250
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6275,
+     "finMs": 6375
+    },
+    {
+     "texto": "todos",
+     "inicioMs": 6425,
+     "finMs": 6675
+    },
+    {
+     "texto": "los",
+     "inicioMs": 6725,
+     "finMs": 6875
+    },
+    {
+     "texto": "colores.",
+     "inicioMs": 6925,
+     "finMs": 7450
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-02.mp3",
+   "duracionMs": 6430,
+   "palabras": [
+    {
+     "texto": "Canela",
+     "inicioMs": 225,
+     "finMs": 600
+    },
+    {
+     "texto": "las",
+     "inicioMs": 625,
+     "finMs": 775
+    },
+    {
+     "texto": "ordena",
+     "inicioMs": 825,
+     "finMs": 1200
+    },
+    {
+     "texto": "todas.",
+     "inicioMs": 1250,
+     "finMs": 1925
+    },
+    {
+     "texto": "Pero",
+     "inicioMs": 2025,
+     "finMs": 2200
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2225,
+     "finMs": 2350
+    },
+    {
+     "texto": "día,",
+     "inicioMs": 2400,
+     "finMs": 2650
+    },
+    {
+     "texto": "encontró",
+     "inicioMs": 2700,
+     "finMs": 3125
+    },
+    {
+     "texto": "una",
+     "inicioMs": 3150,
+     "finMs": 3300
+    },
+    {
+     "texto": "carta",
+     "inicioMs": 3350,
+     "finMs": 3650
+    },
+    {
+     "texto": "tan",
+     "inicioMs": 3700,
+     "finMs": 3875
+    },
+    {
+     "texto": "pequeña,",
+     "inicioMs": 3925,
+     "finMs": 4475
+    },
+    {
+     "texto": "que",
+     "inicioMs": 4575,
+     "finMs": 4675
+    },
+    {
+     "texto": "era",
+     "inicioMs": 4725,
+     "finMs": 4925
+    },
+    {
+     "texto": "del",
+     "inicioMs": 4950,
+     "finMs": 5100
+    },
+    {
+     "texto": "tamaño",
+     "inicioMs": 5150,
+     "finMs": 5575
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5600,
+     "finMs": 5650
+    },
+    {
+     "texto": "una",
+     "inicioMs": 5675,
+     "finMs": 5850
+    },
+    {
+     "texto": "uña.",
+     "inicioMs": 5875,
+     "finMs": 6200
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-03.mp3",
+   "duracionMs": 6580,
+   "palabras": [
+    {
+     "texto": "¡No",
+     "inicioMs": 250,
+     "finMs": 375
+    },
+    {
+     "texto": "puedo",
+     "inicioMs": 425,
+     "finMs": 675
+    },
+    {
+     "texto": "leerla!,",
+     "inicioMs": 725,
+     "finMs": 1200
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 1300,
+     "finMs": 1575
+    },
+    {
+     "texto": "Canela.",
+     "inicioMs": 1625,
+     "finMs": 2275
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 2375,
+     "finMs": 2600
+    },
+    {
+     "texto": "trajo",
+     "inicioMs": 2650,
+     "finMs": 2950
+    },
+    {
+     "texto": "su",
+     "inicioMs": 3000,
+     "finMs": 3100
+    },
+    {
+     "texto": "lupa",
+     "inicioMs": 3125,
+     "finMs": 3375
+    },
+    {
+     "texto": "más",
+     "inicioMs": 3400,
+     "finMs": 3575
+    },
+    {
+     "texto": "grande,",
+     "inicioMs": 3625,
+     "finMs": 4100
+    },
+    {
+     "texto": "y",
+     "inicioMs": 4200,
+     "finMs": 4250
+    },
+    {
+     "texto": "juntos",
+     "inicioMs": 4300,
+     "finMs": 4675
+    },
+    {
+     "texto": "leyeron",
+     "inicioMs": 4725,
+     "finMs": 5125
+    },
+    {
+     "texto": "las",
+     "inicioMs": 5175,
+     "finMs": 5325
+    },
+    {
+     "texto": "letras",
+     "inicioMs": 5375,
+     "finMs": 5675
+    },
+    {
+     "texto": "diminutas.",
+     "inicioMs": 5700,
+     "finMs": 6350
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-04.mp3",
+   "duracionMs": 9555,
+   "palabras": [
+    {
+     "texto": "Decía:",
+     "inicioMs": 225,
+     "finMs": 625
+    },
+    {
+     "texto": "Querido",
+     "inicioMs": 700,
+     "finMs": 1025
+    },
+    {
+     "texto": "Santa,",
+     "inicioMs": 1075,
+     "finMs": 1450
+    },
+    {
+     "texto": "soy",
+     "inicioMs": 1525,
+     "finMs": 1650
+    },
+    {
+     "texto": "un",
+     "inicioMs": 1675,
+     "finMs": 1750
+    },
+    {
+     "texto": "ratoncito.",
+     "inicioMs": 1800,
+     "finMs": 2775
+    },
+    {
+     "texto": "Vivo",
+     "inicioMs": 2900,
+     "finMs": 3150
+    },
+    {
+     "texto": "con",
+     "inicioMs": 3200,
+     "finMs": 3325
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 3350,
+     "finMs": 3450
+    },
+    {
+     "texto": "familia",
+     "inicioMs": 3500,
+     "finMs": 3875
+    },
+    {
+     "texto": "debajo",
+     "inicioMs": 3900,
+     "finMs": 4300
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4325,
+     "finMs": 4375
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4400,
+     "finMs": 4500
+    },
+    {
+     "texto": "árbol.",
+     "inicioMs": 4550,
+     "finMs": 5075
+    },
+    {
+     "texto": "Este",
+     "inicioMs": 5175,
+     "finMs": 5375
+    },
+    {
+     "texto": "invierno",
+     "inicioMs": 5400,
+     "finMs": 5850
+    },
+    {
+     "texto": "es",
+     "inicioMs": 5875,
+     "finMs": 6000
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 6050,
+     "finMs": 6225
+    },
+    {
+     "texto": "frío.",
+     "inicioMs": 6300,
+     "finMs": 6800
+    },
+    {
+     "texto": "¿Podrías",
+     "inicioMs": 6900,
+     "finMs": 7300
+    },
+    {
+     "texto": "traernos",
+     "inicioMs": 7350,
+     "finMs": 7825
+    },
+    {
+     "texto": "una",
+     "inicioMs": 7850,
+     "finMs": 8000
+    },
+    {
+     "texto": "cobijita?",
+     "inicioMs": 8050,
+     "finMs": 8675
+    },
+    {
+     "texto": "Gracias.",
+     "inicioMs": 8775,
+     "finMs": 9325
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-05.mp3",
+   "duracionMs": 7480,
+   "palabras": [
+    {
+     "texto": "Pino",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "se",
+     "inicioMs": 500,
+     "finMs": 600
+    },
+    {
+     "texto": "rió:",
+     "inicioMs": 625,
+     "finMs": 875
+    },
+    {
+     "texto": "Una",
+     "inicioMs": 925,
+     "finMs": 1075
+    },
+    {
+     "texto": "cobija",
+     "inicioMs": 1125,
+     "finMs": 1525
+    },
+    {
+     "texto": "para",
+     "inicioMs": 1550,
+     "finMs": 1700
+    },
+    {
+     "texto": "ratones",
+     "inicioMs": 1725,
+     "finMs": 2150
+    },
+    {
+     "texto": "es",
+     "inicioMs": 2175,
+     "finMs": 2300
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 2350,
+     "finMs": 2500
+    },
+    {
+     "texto": "fácil.",
+     "inicioMs": 2575,
+     "finMs": 3200
+    },
+    {
+     "texto": "¡Es",
+     "inicioMs": 3300,
+     "finMs": 3425
+    },
+    {
+     "texto": "pequeñísima!",
+     "inicioMs": 3475,
+     "finMs": 4375
+    },
+    {
+     "texto": "Pero",
+     "inicioMs": 4475,
+     "finMs": 4625
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 4675,
+     "finMs": 5000
+    },
+    {
+     "texto": "le",
+     "inicioMs": 5025,
+     "finMs": 5125
+    },
+    {
+     "texto": "dijo:",
+     "inicioMs": 5150,
+     "finMs": 5500
+    },
+    {
+     "texto": "Pequeña,",
+     "inicioMs": 5575,
+     "finMs": 6050
+    },
+    {
+     "texto": "pero",
+     "inicioMs": 6125,
+     "finMs": 6325
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 6375,
+     "finMs": 6500
+    },
+    {
+     "texto": "importante.",
+     "inicioMs": 6525,
+     "finMs": 7250
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-06.mp3",
+   "duracionMs": 6130,
+   "palabras": [
+    {
+     "texto": "Canela",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "buscó",
+     "inicioMs": 600,
+     "finMs": 950
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1000,
+     "finMs": 1075
+    },
+    {
+     "texto": "lana",
+     "inicioMs": 1100,
+     "finMs": 1350
+    },
+    {
+     "texto": "más",
+     "inicioMs": 1400,
+     "finMs": 1575
+    },
+    {
+     "texto": "suave",
+     "inicioMs": 1625,
+     "finMs": 1900
+    },
+    {
+     "texto": "del",
+     "inicioMs": 1925,
+     "finMs": 2050
+    },
+    {
+     "texto": "taller,",
+     "inicioMs": 2100,
+     "finMs": 2750
+    },
+    {
+     "texto": "y",
+     "inicioMs": 2850,
+     "finMs": 2900
+    },
+    {
+     "texto": "tejió",
+     "inicioMs": 2950,
+     "finMs": 3225
+    },
+    {
+     "texto": "una",
+     "inicioMs": 3250,
+     "finMs": 3400
+    },
+    {
+     "texto": "cobija",
+     "inicioMs": 3450,
+     "finMs": 3850
+    },
+    {
+     "texto": "roja,",
+     "inicioMs": 3900,
+     "finMs": 4350
+    },
+    {
+     "texto": "con",
+     "inicioMs": 4450,
+     "finMs": 4575
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4600,
+     "finMs": 4700
+    },
+    {
+     "texto": "botoncito",
+     "inicioMs": 4750,
+     "finMs": 5400
+    },
+    {
+     "texto": "dorado.",
+     "inicioMs": 5425,
+     "finMs": 5900
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-07.mp3",
+   "duracionMs": 6005,
+   "palabras": [
+    {
+     "texto": "Cuando",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "la",
+     "inicioMs": 475,
+     "finMs": 575
+    },
+    {
+     "texto": "vi,",
+     "inicioMs": 600,
+     "finMs": 750
+    },
+    {
+     "texto": "le",
+     "inicioMs": 800,
+     "finMs": 900
+    },
+    {
+     "texto": "dije:",
+     "inicioMs": 950,
+     "finMs": 1450
+    },
+    {
+     "texto": "Este",
+     "inicioMs": 1550,
+     "finMs": 1775
+    },
+    {
+     "texto": "regalo",
+     "inicioMs": 1825,
+     "finMs": 2175
+    },
+    {
+     "texto": "irá",
+     "inicioMs": 2225,
+     "finMs": 2400
+    },
+    {
+     "texto": "en",
+     "inicioMs": 2425,
+     "finMs": 2475
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 2500,
+     "finMs": 2600
+    },
+    {
+     "texto": "trineo,",
+     "inicioMs": 2650,
+     "finMs": 3175
+    },
+    {
+     "texto": "junto",
+     "inicioMs": 3275,
+     "finMs": 3550
+    },
+    {
+     "texto": "a",
+     "inicioMs": 3575,
+     "finMs": 3625
+    },
+    {
+     "texto": "todos",
+     "inicioMs": 3675,
+     "finMs": 3925
+    },
+    {
+     "texto": "los",
+     "inicioMs": 3975,
+     "finMs": 4100
+    },
+    {
+     "texto": "demás,",
+     "inicioMs": 4125,
+     "finMs": 4575
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4650,
+     "finMs": 4750
+    },
+    {
+     "texto": "noche",
+     "inicioMs": 4800,
+     "finMs": 5150
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5175,
+     "finMs": 5225
+    },
+    {
+     "texto": "Navidad.",
+     "inicioMs": 5250,
+     "finMs": 5775
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-08.mp3",
+   "duracionMs": 5930,
+   "palabras": [
+    {
+     "texto": "Porque",
+     "inicioMs": 225,
+     "finMs": 475
+    },
+    {
+     "texto": "para",
+     "inicioMs": 525,
+     "finMs": 700
+    },
+    {
+     "texto": "mí,",
+     "inicioMs": 750,
+     "finMs": 900
+    },
+    {
+     "texto": "pequeños,",
+     "inicioMs": 975,
+     "finMs": 1600
+    },
+    {
+     "texto": "ningún",
+     "inicioMs": 1675,
+     "finMs": 2000
+    },
+    {
+     "texto": "deseo",
+     "inicioMs": 2050,
+     "finMs": 2375
+    },
+    {
+     "texto": "es",
+     "inicioMs": 2400,
+     "finMs": 2475
+    },
+    {
+     "texto": "demasiado",
+     "inicioMs": 2500,
+     "finMs": 3050
+    },
+    {
+     "texto": "chiquito,",
+     "inicioMs": 3100,
+     "finMs": 3800
+    },
+    {
+     "texto": "y",
+     "inicioMs": 3950,
+     "finMs": 4000
+    },
+    {
+     "texto": "nadie",
+     "inicioMs": 4050,
+     "finMs": 4375
+    },
+    {
+     "texto": "es",
+     "inicioMs": 4400,
+     "finMs": 4500
+    },
+    {
+     "texto": "demasiado",
+     "inicioMs": 4525,
+     "finMs": 5100
+    },
+    {
+     "texto": "pequeño.",
+     "inicioMs": 5150,
+     "finMs": 5700
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-06-la-carta-mas-pequena/escena-09.mp3",
+   "duracionMs": 8130,
+   "palabras": [
+    {
+     "texto": "En",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "Nochebuena",
+     "inicioMs": 325,
+     "finMs": 875
+    },
+    {
+     "texto": "les",
+     "inicioMs": 900,
+     "finMs": 1050
+    },
+    {
+     "texto": "contaré",
+     "inicioMs": 1075,
+     "finMs": 1575
+    },
+    {
+     "texto": "si",
+     "inicioMs": 1650,
+     "finMs": 1725
+    },
+    {
+     "texto": "el",
+     "inicioMs": 1750,
+     "finMs": 1800
+    },
+    {
+     "texto": "ratoncito",
+     "inicioMs": 1850,
+     "finMs": 2400
+    },
+    {
+     "texto": "recibió",
+     "inicioMs": 2450,
+     "finMs": 2850
+    },
+    {
+     "texto": "su",
+     "inicioMs": 2900,
+     "finMs": 3000
+    },
+    {
+     "texto": "cobija.",
+     "inicioMs": 3050,
+     "finMs": 3750
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 3875,
+     "finMs": 3925
+    },
+    {
+     "texto": "mañana,",
+     "inicioMs": 3975,
+     "finMs": 4450
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4525,
+     "finMs": 4600
+    },
+    {
+     "texto": "historia",
+     "inicioMs": 4625,
+     "finMs": 5025
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5050,
+     "finMs": 5100
+    },
+    {
+     "texto": "la",
+     "inicioMs": 5125,
+     "finMs": 5200
+    },
+    {
+     "texto": "lista",
+     "inicioMs": 5225,
+     "finMs": 5550
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5600,
+     "finMs": 5700
+    },
+    {
+     "texto": "cayó",
+     "inicioMs": 5750,
+     "finMs": 6025
+    },
+    {
+     "texto": "en",
+     "inicioMs": 6050,
+     "finMs": 6100
+    },
+    {
+     "texto": "el",
+     "inicioMs": 6125,
+     "finMs": 6200
+    },
+    {
+     "texto": "chocolate.",
+     "inicioMs": 6250,
+     "finMs": 7025
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 7175,
+     "finMs": 7325
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 7400,
+     "finMs": 7550
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 7625,
+     "finMs": 7900
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,969 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-01.mp3",
+   "duracionMs": 7130,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 425,
+     "finMs": 550
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 625,
+     "finMs": 775
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 850,
+     "finMs": 1025
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1100,
+     "finMs": 1825
+    },
+    {
+     "texto": "Hoy",
+     "inicioMs": 1925,
+     "finMs": 2075
+    },
+    {
+     "texto": "tengo",
+     "inicioMs": 2125,
+     "finMs": 2350
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2375,
+     "finMs": 2450
+    },
+    {
+     "texto": "invitado",
+     "inicioMs": 2475,
+     "finMs": 2950
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 3000,
+     "finMs": 3150
+    },
+    {
+     "texto": "sabio:",
+     "inicioMs": 3225,
+     "finMs": 3550
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 3625,
+     "finMs": 3800
+    },
+    {
+     "texto": "Plumas,",
+     "inicioMs": 3850,
+     "finMs": 4225
+    },
+    {
+     "texto": "el",
+     "inicioMs": 4275,
+     "finMs": 4350
+    },
+    {
+     "texto": "búho",
+     "inicioMs": 4400,
+     "finMs": 4575
+    },
+    {
+     "texto": "del",
+     "inicioMs": 4600,
+     "finMs": 4700
+    },
+    {
+     "texto": "bosque.",
+     "inicioMs": 4750,
+     "finMs": 5300
+    },
+    {
+     "texto": "Él",
+     "inicioMs": 5400,
+     "finMs": 5525
+    },
+    {
+     "texto": "sabe",
+     "inicioMs": 5600,
+     "finMs": 5850
+    },
+    {
+     "texto": "muchos",
+     "inicioMs": 5900,
+     "finMs": 6250
+    },
+    {
+     "texto": "secretos.",
+     "inicioMs": 6300,
+     "finMs": 6900
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-02.mp3",
+   "duracionMs": 6455,
+   "palabras": [
+    {
+     "texto": "Botón",
+     "inicioMs": 225,
+     "finMs": 525
+    },
+    {
+     "texto": "le",
+     "inicioMs": 550,
+     "finMs": 600
+    },
+    {
+     "texto": "preguntó:",
+     "inicioMs": 650,
+     "finMs": 1300
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 1400,
+     "finMs": 1575
+    },
+    {
+     "texto": "Plumas,",
+     "inicioMs": 1625,
+     "finMs": 2000
+    },
+    {
+     "texto": "¿por",
+     "inicioMs": 2075,
+     "finMs": 2225
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 2275,
+     "finMs": 2350
+    },
+    {
+     "texto": "aquí",
+     "inicioMs": 2375,
+     "finMs": 2550
+    },
+    {
+     "texto": "casi",
+     "inicioMs": 2600,
+     "finMs": 2875
+    },
+    {
+     "texto": "siempre",
+     "inicioMs": 2925,
+     "finMs": 3250
+    },
+    {
+     "texto": "es",
+     "inicioMs": 3275,
+     "finMs": 3350
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3375,
+     "finMs": 3450
+    },
+    {
+     "texto": "noche?",
+     "inicioMs": 3500,
+     "finMs": 4100
+    },
+    {
+     "texto": "Hace",
+     "inicioMs": 4225,
+     "finMs": 4450
+    },
+    {
+     "texto": "muchísimo",
+     "inicioMs": 4500,
+     "finMs": 5125
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5175,
+     "finMs": 5275
+    },
+    {
+     "texto": "no",
+     "inicioMs": 5325,
+     "finMs": 5450
+    },
+    {
+     "texto": "veo",
+     "inicioMs": 5475,
+     "finMs": 5650
+    },
+    {
+     "texto": "el",
+     "inicioMs": 5675,
+     "finMs": 5775
+    },
+    {
+     "texto": "sol.",
+     "inicioMs": 5875,
+     "finMs": 6225
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-03.mp3",
+   "duracionMs": 7755,
+   "palabras": [
+    {
+     "texto": "Ju,",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "ju,",
+     "inicioMs": 425,
+     "finMs": 575
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 650,
+     "finMs": 925
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 975,
+     "finMs": 1175
+    },
+    {
+     "texto": "Plumas.",
+     "inicioMs": 1250,
+     "finMs": 1950
+    },
+    {
+     "texto": "Es",
+     "inicioMs": 2050,
+     "finMs": 2200
+    },
+    {
+     "texto": "que",
+     "inicioMs": 2225,
+     "finMs": 2275
+    },
+    {
+     "texto": "en",
+     "inicioMs": 2300,
+     "finMs": 2350
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2375,
+     "finMs": 2450
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 2500,
+     "finMs": 2725
+    },
+    {
+     "texto": "Norte,",
+     "inicioMs": 2775,
+     "finMs": 3200
+    },
+    {
+     "texto": "el",
+     "inicioMs": 3275,
+     "finMs": 3375
+    },
+    {
+     "texto": "sol",
+     "inicioMs": 3450,
+     "finMs": 3675
+    },
+    {
+     "texto": "se",
+     "inicioMs": 3725,
+     "finMs": 3800
+    },
+    {
+     "texto": "esconde",
+     "inicioMs": 3825,
+     "finMs": 4200
+    },
+    {
+     "texto": "a",
+     "inicioMs": 4225,
+     "finMs": 4250
+    },
+    {
+     "texto": "finales",
+     "inicioMs": 4300,
+     "finMs": 4675
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4700,
+     "finMs": 4775
+    },
+    {
+     "texto": "septiembre,",
+     "inicioMs": 4825,
+     "finMs": 5575
+    },
+    {
+     "texto": "¡y",
+     "inicioMs": 5675,
+     "finMs": 5725
+    },
+    {
+     "texto": "no",
+     "inicioMs": 5775,
+     "finMs": 5900
+    },
+    {
+     "texto": "vuelve",
+     "inicioMs": 5950,
+     "finMs": 6275
+    },
+    {
+     "texto": "a",
+     "inicioMs": 6300,
+     "finMs": 6350
+    },
+    {
+     "texto": "salir",
+     "inicioMs": 6400,
+     "finMs": 6725
+    },
+    {
+     "texto": "hasta",
+     "inicioMs": 6750,
+     "finMs": 7000
+    },
+    {
+     "texto": "marzo!",
+     "inicioMs": 7050,
+     "finMs": 7525
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-04.mp3",
+   "duracionMs": 7630,
+   "palabras": [
+    {
+     "texto": "Eso",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "pasa",
+     "inicioMs": 475,
+     "finMs": 750
+    },
+    {
+     "texto": "porque",
+     "inicioMs": 800,
+     "finMs": 1025
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1050,
+     "finMs": 1150
+    },
+    {
+     "texto": "Tierra",
+     "inicioMs": 1200,
+     "finMs": 1525
+    },
+    {
+     "texto": "está",
+     "inicioMs": 1550,
+     "finMs": 1775
+    },
+    {
+     "texto": "inclinadita,",
+     "inicioMs": 1800,
+     "finMs": 2575
+    },
+    {
+     "texto": "como",
+     "inicioMs": 2650,
+     "finMs": 2825
+    },
+    {
+     "texto": "un",
+     "inicioMs": 2850,
+     "finMs": 2975
+    },
+    {
+     "texto": "trompo.",
+     "inicioMs": 3025,
+     "finMs": 3775
+    },
+    {
+     "texto": "En",
+     "inicioMs": 3925,
+     "finMs": 4000
+    },
+    {
+     "texto": "esta",
+     "inicioMs": 4025,
+     "finMs": 4275
+    },
+    {
+     "texto": "época,",
+     "inicioMs": 4300,
+     "finMs": 4725
+    },
+    {
+     "texto": "nuestra",
+     "inicioMs": 4775,
+     "finMs": 5100
+    },
+    {
+     "texto": "parte",
+     "inicioMs": 5150,
+     "finMs": 5425
+    },
+    {
+     "texto": "del",
+     "inicioMs": 5450,
+     "finMs": 5550
+    },
+    {
+     "texto": "mundo",
+     "inicioMs": 5600,
+     "finMs": 5900
+    },
+    {
+     "texto": "queda",
+     "inicioMs": 5950,
+     "finMs": 6175
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6200,
+     "finMs": 6250
+    },
+    {
+     "texto": "espaldas",
+     "inicioMs": 6275,
+     "finMs": 6800
+    },
+    {
+     "texto": "al",
+     "inicioMs": 6850,
+     "finMs": 6950
+    },
+    {
+     "texto": "sol.",
+     "inicioMs": 7050,
+     "finMs": 7400
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-05.mp3",
+   "duracionMs": 5205,
+   "palabras": [
+    {
+     "texto": "Y",
+     "inicioMs": 250,
+     "finMs": 300
+    },
+    {
+     "texto": "en",
+     "inicioMs": 350,
+     "finMs": 425
+    },
+    {
+     "texto": "verano",
+     "inicioMs": 475,
+     "finMs": 825
+    },
+    {
+     "texto": "pasa",
+     "inicioMs": 900,
+     "finMs": 1175
+    },
+    {
+     "texto": "al",
+     "inicioMs": 1200,
+     "finMs": 1275
+    },
+    {
+     "texto": "revés:",
+     "inicioMs": 1325,
+     "finMs": 1875
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2025,
+     "finMs": 2125
+    },
+    {
+     "texto": "sol",
+     "inicioMs": 2200,
+     "finMs": 2400
+    },
+    {
+     "texto": "no",
+     "inicioMs": 2450,
+     "finMs": 2575
+    },
+    {
+     "texto": "se",
+     "inicioMs": 2625,
+     "finMs": 2700
+    },
+    {
+     "texto": "esconde",
+     "inicioMs": 2725,
+     "finMs": 3150
+    },
+    {
+     "texto": "nunca,",
+     "inicioMs": 3200,
+     "finMs": 3600
+    },
+    {
+     "texto": "¡ni",
+     "inicioMs": 3675,
+     "finMs": 3775
+    },
+    {
+     "texto": "siquiera",
+     "inicioMs": 3825,
+     "finMs": 4175
+    },
+    {
+     "texto": "a",
+     "inicioMs": 4200,
+     "finMs": 4225
+    },
+    {
+     "texto": "medianoche!",
+     "inicioMs": 4250,
+     "finMs": 4975
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-06.mp3",
+   "duracionMs": 6930,
+   "palabras": [
+    {
+     "texto": "¿Y",
+     "inicioMs": 250,
+     "finMs": 300
+    },
+    {
+     "texto": "esas",
+     "inicioMs": 325,
+     "finMs": 625
+    },
+    {
+     "texto": "luces",
+     "inicioMs": 675,
+     "finMs": 950
+    },
+    {
+     "texto": "de",
+     "inicioMs": 975,
+     "finMs": 1025
+    },
+    {
+     "texto": "colores",
+     "inicioMs": 1075,
+     "finMs": 1475
+    },
+    {
+     "texto": "que",
+     "inicioMs": 1525,
+     "finMs": 1625
+    },
+    {
+     "texto": "bailan",
+     "inicioMs": 1675,
+     "finMs": 2025
+    },
+    {
+     "texto": "en",
+     "inicioMs": 2050,
+     "finMs": 2125
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2175,
+     "finMs": 2275
+    },
+    {
+     "texto": "cielo?,",
+     "inicioMs": 2350,
+     "finMs": 2800
+    },
+    {
+     "texto": "preguntó",
+     "inicioMs": 2925,
+     "finMs": 3400
+    },
+    {
+     "texto": "Botón.",
+     "inicioMs": 3425,
+     "finMs": 4050
+    },
+    {
+     "texto": "Se",
+     "inicioMs": 4200,
+     "finMs": 4300
+    },
+    {
+     "texto": "llaman",
+     "inicioMs": 4350,
+     "finMs": 4625
+    },
+    {
+     "texto": "auroras",
+     "inicioMs": 4675,
+     "finMs": 5025
+    },
+    {
+     "texto": "boreales,",
+     "inicioMs": 5075,
+     "finMs": 5625
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 5700,
+     "finMs": 5975
+    },
+    {
+     "texto": "Don",
+     "inicioMs": 6000,
+     "finMs": 6175
+    },
+    {
+     "texto": "Plumas.",
+     "inicioMs": 6250,
+     "finMs": 6700
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-07.mp3",
+   "duracionMs": 6355,
+   "palabras": [
+    {
+     "texto": "Son",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "chispitas",
+     "inicioMs": 475,
+     "finMs": 1075
+    },
+    {
+     "texto": "que",
+     "inicioMs": 1125,
+     "finMs": 1200
+    },
+    {
+     "texto": "vienen",
+     "inicioMs": 1250,
+     "finMs": 1550
+    },
+    {
+     "texto": "del",
+     "inicioMs": 1575,
+     "finMs": 1725
+    },
+    {
+     "texto": "sol.",
+     "inicioMs": 1800,
+     "finMs": 2325
+    },
+    {
+     "texto": "Cuando",
+     "inicioMs": 2425,
+     "finMs": 2650
+    },
+    {
+     "texto": "chocan",
+     "inicioMs": 2700,
+     "finMs": 3025
+    },
+    {
+     "texto": "con",
+     "inicioMs": 3075,
+     "finMs": 3200
+    },
+    {
+     "texto": "el",
+     "inicioMs": 3250,
+     "finMs": 3325
+    },
+    {
+     "texto": "aire,",
+     "inicioMs": 3375,
+     "finMs": 3800
+    },
+    {
+     "texto": "¡se",
+     "inicioMs": 3900,
+     "finMs": 3975
+    },
+    {
+     "texto": "encienden",
+     "inicioMs": 4000,
+     "finMs": 4500
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4525,
+     "finMs": 4625
+    },
+    {
+     "texto": "verde,",
+     "inicioMs": 4675,
+     "finMs": 5075
+    },
+    {
+     "texto": "azul",
+     "inicioMs": 5150,
+     "finMs": 5525
+    },
+    {
+     "texto": "y",
+     "inicioMs": 5575,
+     "finMs": 5600
+    },
+    {
+     "texto": "morado!",
+     "inicioMs": 5650,
+     "finMs": 6125
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-08.mp3",
+   "duracionMs": 5830,
+   "palabras": [
+    {
+     "texto": "Por",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "eso,",
+     "inicioMs": 375,
+     "finMs": 675
+    },
+    {
+     "texto": "aunque",
+     "inicioMs": 725,
+     "finMs": 975
+    },
+    {
+     "texto": "haya",
+     "inicioMs": 1000,
+     "finMs": 1225
+    },
+    {
+     "texto": "mucha",
+     "inicioMs": 1275,
+     "finMs": 1600
+    },
+    {
+     "texto": "noche,",
+     "inicioMs": 1650,
+     "finMs": 2275
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2400,
+     "finMs": 2500
+    },
+    {
+     "texto": "cielo",
+     "inicioMs": 2575,
+     "finMs": 2825
+    },
+    {
+     "texto": "del",
+     "inicioMs": 2850,
+     "finMs": 2975
+    },
+    {
+     "texto": "Polo",
+     "inicioMs": 3025,
+     "finMs": 3250
+    },
+    {
+     "texto": "Norte",
+     "inicioMs": 3300,
+     "finMs": 3675
+    },
+    {
+     "texto": "es",
+     "inicioMs": 3700,
+     "finMs": 3825
+    },
+    {
+     "texto": "uno",
+     "inicioMs": 3850,
+     "finMs": 4050
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4075,
+     "finMs": 4125
+    },
+    {
+     "texto": "los",
+     "inicioMs": 4150,
+     "finMs": 4300
+    },
+    {
+     "texto": "más",
+     "inicioMs": 4350,
+     "finMs": 4550
+    },
+    {
+     "texto": "bonitos",
+     "inicioMs": 4600,
+     "finMs": 5025
+    },
+    {
+     "texto": "del",
+     "inicioMs": 5050,
+     "finMs": 5175
+    },
+    {
+     "texto": "mundo.",
+     "inicioMs": 5225,
+     "finMs": 5600
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-10-la-noche-que-dura-meses/escena-09.mp3",
+   "duracionMs": 7055,
+   "palabras": [
+    {
+     "texto": "Qué",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "bonito",
+     "inicioMs": 325,
+     "finMs": 675
+    },
+    {
+     "texto": "es",
+     "inicioMs": 700,
+     "finMs": 825
+    },
+    {
+     "texto": "aprender,",
+     "inicioMs": 850,
+     "finMs": 1375
+    },
+    {
+     "texto": "¿verdad?",
+     "inicioMs": 1450,
+     "finMs": 2025
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 2150,
+     "finMs": 2500
+    },
+    {
+     "texto": "les",
+     "inicioMs": 2525,
+     "finMs": 2675
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 2725,
+     "finMs": 3050
+    },
+    {
+     "texto": "por",
+     "inicioMs": 3100,
+     "finMs": 3250
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 3300,
+     "finMs": 3375
+    },
+    {
+     "texto": "los",
+     "inicioMs": 3400,
+     "finMs": 3525
+    },
+    {
+     "texto": "duendes",
+     "inicioMs": 3575,
+     "finMs": 3950
+    },
+    {
+     "texto": "le",
+     "inicioMs": 4000,
+     "finMs": 4050
+    },
+    {
+     "texto": "hicieron",
+     "inicioMs": 4100,
+     "finMs": 4475
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4500,
+     "finMs": 4650
+    },
+    {
+     "texto": "tarjeta",
+     "inicioMs": 4700,
+     "finMs": 5100
+    },
+    {
+     "texto": "al",
+     "inicioMs": 5125,
+     "finMs": 5225
+    },
+    {
+     "texto": "cartero.",
+     "inicioMs": 5275,
+     "finMs": 5975
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 6100,
+     "finMs": 6250
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 6325,
+     "finMs": 6475
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 6550,
+     "finMs": 6825
+    }
+   ]
+  }
+ ]
+}

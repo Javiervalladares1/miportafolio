@@ -1,0 +1,974 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-01.mp3",
+   "duracionMs": 6655,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 450,
+     "finMs": 575
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 650,
+     "finMs": 825
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 900,
+     "finMs": 1100
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1175,
+     "finMs": 1950
+    },
+    {
+     "texto": "¿Se",
+     "inicioMs": 2050,
+     "finMs": 2125
+    },
+    {
+     "texto": "acuerdan",
+     "inicioMs": 2150,
+     "finMs": 2525
+    },
+    {
+     "texto": "de",
+     "inicioMs": 2550,
+     "finMs": 2600
+    },
+    {
+     "texto": "Botón,",
+     "inicioMs": 2625,
+     "finMs": 3000
+    },
+    {
+     "texto": "el",
+     "inicioMs": 3050,
+     "finMs": 3125
+    },
+    {
+     "texto": "muñeco",
+     "inicioMs": 3175,
+     "finMs": 3575
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3600,
+     "finMs": 3650
+    },
+    {
+     "texto": "nieve",
+     "inicioMs": 3675,
+     "finMs": 3900
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3925,
+     "finMs": 3975
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4000,
+     "finMs": 4100
+    },
+    {
+     "texto": "plaza?",
+     "inicioMs": 4150,
+     "finMs": 4700
+    },
+    {
+     "texto": "Hoy",
+     "inicioMs": 4825,
+     "finMs": 4950
+    },
+    {
+     "texto": "les",
+     "inicioMs": 4975,
+     "finMs": 5125
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 5175,
+     "finMs": 5500
+    },
+    {
+     "texto": "su",
+     "inicioMs": 5550,
+     "finMs": 5650
+    },
+    {
+     "texto": "gran",
+     "inicioMs": 5700,
+     "finMs": 5925
+    },
+    {
+     "texto": "deseo.",
+     "inicioMs": 5950,
+     "finMs": 6425
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-02.mp3",
+   "duracionMs": 7205,
+   "palabras": [
+    {
+     "texto": "Botón",
+     "inicioMs": 225,
+     "finMs": 550
+    },
+    {
+     "texto": "había",
+     "inicioMs": 600,
+     "finMs": 825
+    },
+    {
+     "texto": "escuchado",
+     "inicioMs": 850,
+     "finMs": 1425
+    },
+    {
+     "texto": "que,",
+     "inicioMs": 1475,
+     "finMs": 1550
+    },
+    {
+     "texto": "lejos",
+     "inicioMs": 1625,
+     "finMs": 1925
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1950,
+     "finMs": 2000
+    },
+    {
+     "texto": "aquí,",
+     "inicioMs": 2050,
+     "finMs": 2350
+    },
+    {
+     "texto": "existe",
+     "inicioMs": 2425,
+     "finMs": 2850
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2875,
+     "finMs": 2950
+    },
+    {
+     "texto": "verano:",
+     "inicioMs": 3000,
+     "finMs": 3600
+    },
+    {
+     "texto": "días",
+     "inicioMs": 3725,
+     "finMs": 4000
+    },
+    {
+     "texto": "largos",
+     "inicioMs": 4050,
+     "finMs": 4450
+    },
+    {
+     "texto": "y",
+     "inicioMs": 4500,
+     "finMs": 4550
+    },
+    {
+     "texto": "calientes,",
+     "inicioMs": 4600,
+     "finMs": 5250
+    },
+    {
+     "texto": "con",
+     "inicioMs": 5325,
+     "finMs": 5450
+    },
+    {
+     "texto": "un",
+     "inicioMs": 5475,
+     "finMs": 5600
+    },
+    {
+     "texto": "sol",
+     "inicioMs": 5675,
+     "finMs": 5900
+    },
+    {
+     "texto": "enorme",
+     "inicioMs": 5950,
+     "finMs": 6300
+    },
+    {
+     "texto": "en",
+     "inicioMs": 6325,
+     "finMs": 6375
+    },
+    {
+     "texto": "el",
+     "inicioMs": 6400,
+     "finMs": 6500
+    },
+    {
+     "texto": "cielo.",
+     "inicioMs": 6575,
+     "finMs": 6975
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-03.mp3",
+   "duracionMs": 4930,
+   "palabras": [
+    {
+     "texto": "Una",
+     "inicioMs": 225,
+     "finMs": 400
+    },
+    {
+     "texto": "noche",
+     "inicioMs": 425,
+     "finMs": 675
+    },
+    {
+     "texto": "le",
+     "inicioMs": 700,
+     "finMs": 750
+    },
+    {
+     "texto": "preguntó",
+     "inicioMs": 800,
+     "finMs": 1250
+    },
+    {
+     "texto": "a",
+     "inicioMs": 1275,
+     "finMs": 1300
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1325,
+     "finMs": 1400
+    },
+    {
+     "texto": "Luna:",
+     "inicioMs": 1450,
+     "finMs": 1900
+    },
+    {
+     "texto": "Luna,",
+     "inicioMs": 2025,
+     "finMs": 2325
+    },
+    {
+     "texto": "¿cómo",
+     "inicioMs": 2400,
+     "finMs": 2575
+    },
+    {
+     "texto": "es",
+     "inicioMs": 2600,
+     "finMs": 2725
+    },
+    {
+     "texto": "el",
+     "inicioMs": 2775,
+     "finMs": 2875
+    },
+    {
+     "texto": "sol?",
+     "inicioMs": 2975,
+     "finMs": 3350
+    },
+    {
+     "texto": "Yo",
+     "inicioMs": 3475,
+     "finMs": 3625
+    },
+    {
+     "texto": "quiero",
+     "inicioMs": 3675,
+     "finMs": 3950
+    },
+    {
+     "texto": "conocerlo.",
+     "inicioMs": 4000,
+     "finMs": 4700
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-04.mp3",
+   "duracionMs": 7330,
+   "palabras": [
+    {
+     "texto": "La",
+     "inicioMs": 225,
+     "finMs": 300
+    },
+    {
+     "texto": "Luna",
+     "inicioMs": 350,
+     "finMs": 575
+    },
+    {
+     "texto": "sonrió:",
+     "inicioMs": 625,
+     "finMs": 1150
+    },
+    {
+     "texto": "El",
+     "inicioMs": 1275,
+     "finMs": 1375
+    },
+    {
+     "texto": "sol",
+     "inicioMs": 1450,
+     "finMs": 1625
+    },
+    {
+     "texto": "es",
+     "inicioMs": 1650,
+     "finMs": 1775
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 1825,
+     "finMs": 1975
+    },
+    {
+     "texto": "bonito,",
+     "inicioMs": 2025,
+     "finMs": 2450
+    },
+    {
+     "texto": "Botón.",
+     "inicioMs": 2525,
+     "finMs": 3200
+    },
+    {
+     "texto": "Pero",
+     "inicioMs": 3325,
+     "finMs": 3450
+    },
+    {
+     "texto": "es",
+     "inicioMs": 3475,
+     "finMs": 3600
+    },
+    {
+     "texto": "tan",
+     "inicioMs": 3650,
+     "finMs": 3825
+    },
+    {
+     "texto": "caliente,",
+     "inicioMs": 3875,
+     "finMs": 4400
+    },
+    {
+     "texto": "que",
+     "inicioMs": 4450,
+     "finMs": 4500
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4525,
+     "finMs": 4600
+    },
+    {
+     "texto": "muñeco",
+     "inicioMs": 4625,
+     "finMs": 5050
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5075,
+     "finMs": 5175
+    },
+    {
+     "texto": "nieve",
+     "inicioMs": 5225,
+     "finMs": 5525
+    },
+    {
+     "texto": "se",
+     "inicioMs": 5575,
+     "finMs": 5650
+    },
+    {
+     "texto": "derretiría",
+     "inicioMs": 5675,
+     "finMs": 6275
+    },
+    {
+     "texto": "como",
+     "inicioMs": 6325,
+     "finMs": 6500
+    },
+    {
+     "texto": "un",
+     "inicioMs": 6525,
+     "finMs": 6625
+    },
+    {
+     "texto": "helado.",
+     "inicioMs": 6675,
+     "finMs": 7100
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-05.mp3",
+   "duracionMs": 4730,
+   "palabras": [
+    {
+     "texto": "Botón",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "se",
+     "inicioMs": 625,
+     "finMs": 725
+    },
+    {
+     "texto": "puso",
+     "inicioMs": 775,
+     "finMs": 1025
+    },
+    {
+     "texto": "triste.",
+     "inicioMs": 1075,
+     "finMs": 1700
+    },
+    {
+     "texto": "Entonces,",
+     "inicioMs": 1825,
+     "finMs": 2400
+    },
+    {
+     "texto": "¿yo",
+     "inicioMs": 2475,
+     "finMs": 2600
+    },
+    {
+     "texto": "nunca",
+     "inicioMs": 2650,
+     "finMs": 2950
+    },
+    {
+     "texto": "voy",
+     "inicioMs": 3000,
+     "finMs": 3175
+    },
+    {
+     "texto": "a",
+     "inicioMs": 3200,
+     "finMs": 3225
+    },
+    {
+     "texto": "tener",
+     "inicioMs": 3275,
+     "finMs": 3575
+    },
+    {
+     "texto": "nada",
+     "inicioMs": 3625,
+     "finMs": 3800
+    },
+    {
+     "texto": "especial?",
+     "inicioMs": 3825,
+     "finMs": 4500
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-06.mp3",
+   "duracionMs": 8230,
+   "palabras": [
+    {
+     "texto": "¡Claro",
+     "inicioMs": 225,
+     "finMs": 500
+    },
+    {
+     "texto": "que",
+     "inicioMs": 550,
+     "finMs": 650
+    },
+    {
+     "texto": "sí!,",
+     "inicioMs": 725,
+     "finMs": 925
+    },
+    {
+     "texto": "dijo",
+     "inicioMs": 1025,
+     "finMs": 1275
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1300,
+     "finMs": 1400
+    },
+    {
+     "texto": "Luna.",
+     "inicioMs": 1450,
+     "finMs": 1975
+    },
+    {
+     "texto": "Mira",
+     "inicioMs": 2100,
+     "finMs": 2325
+    },
+    {
+     "texto": "a",
+     "inicioMs": 2350,
+     "finMs": 2400
+    },
+    {
+     "texto": "tu",
+     "inicioMs": 2450,
+     "finMs": 2525
+    },
+    {
+     "texto": "alrededor:",
+     "inicioMs": 2550,
+     "finMs": 3225
+    },
+    {
+     "texto": "tú",
+     "inicioMs": 3325,
+     "finMs": 3425
+    },
+    {
+     "texto": "puedes",
+     "inicioMs": 3475,
+     "finMs": 3750
+    },
+    {
+     "texto": "ver",
+     "inicioMs": 3800,
+     "finMs": 3950
+    },
+    {
+     "texto": "las",
+     "inicioMs": 3975,
+     "finMs": 4125
+    },
+    {
+     "texto": "estrellas,",
+     "inicioMs": 4175,
+     "finMs": 4800
+    },
+    {
+     "texto": "la",
+     "inicioMs": 4875,
+     "finMs": 4950
+    },
+    {
+     "texto": "nieve",
+     "inicioMs": 4975,
+     "finMs": 5225
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5275,
+     "finMs": 5375
+    },
+    {
+     "texto": "brilla,",
+     "inicioMs": 5425,
+     "finMs": 6000
+    },
+    {
+     "texto": "y",
+     "inicioMs": 6100,
+     "finMs": 6125
+    },
+    {
+     "texto": "las",
+     "inicioMs": 6150,
+     "finMs": 6300
+    },
+    {
+     "texto": "luces",
+     "inicioMs": 6350,
+     "finMs": 6675
+    },
+    {
+     "texto": "de",
+     "inicioMs": 6700,
+     "finMs": 6775
+    },
+    {
+     "texto": "colores",
+     "inicioMs": 6825,
+     "finMs": 7275
+    },
+    {
+     "texto": "en",
+     "inicioMs": 7325,
+     "finMs": 7400
+    },
+    {
+     "texto": "el",
+     "inicioMs": 7450,
+     "finMs": 7550
+    },
+    {
+     "texto": "cielo.",
+     "inicioMs": 7625,
+     "finMs": 8000
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-07.mp3",
+   "duracionMs": 7055,
+   "palabras": [
+    {
+     "texto": "Esa",
+     "inicioMs": 225,
+     "finMs": 425
+    },
+    {
+     "texto": "noche,",
+     "inicioMs": 450,
+     "finMs": 850
+    },
+    {
+     "texto": "el",
+     "inicioMs": 925,
+     "finMs": 1025
+    },
+    {
+     "texto": "cielo",
+     "inicioMs": 1075,
+     "finMs": 1350
+    },
+    {
+     "texto": "se",
+     "inicioMs": 1400,
+     "finMs": 1500
+    },
+    {
+     "texto": "llenó",
+     "inicioMs": 1550,
+     "finMs": 1775
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1800,
+     "finMs": 1850
+    },
+    {
+     "texto": "luces",
+     "inicioMs": 1875,
+     "finMs": 2200
+    },
+    {
+     "texto": "verdes",
+     "inicioMs": 2250,
+     "finMs": 2650
+    },
+    {
+     "texto": "y",
+     "inicioMs": 2700,
+     "finMs": 2725
+    },
+    {
+     "texto": "moradas",
+     "inicioMs": 2775,
+     "finMs": 3200
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3250,
+     "finMs": 3325
+    },
+    {
+     "texto": "bailaban.",
+     "inicioMs": 3375,
+     "finMs": 4200
+    },
+    {
+     "texto": "Botón",
+     "inicioMs": 4350,
+     "finMs": 4675
+    },
+    {
+     "texto": "nunca",
+     "inicioMs": 4725,
+     "finMs": 5025
+    },
+    {
+     "texto": "había",
+     "inicioMs": 5075,
+     "finMs": 5350
+    },
+    {
+     "texto": "visto",
+     "inicioMs": 5375,
+     "finMs": 5675
+    },
+    {
+     "texto": "algo",
+     "inicioMs": 5700,
+     "finMs": 5975
+    },
+    {
+     "texto": "tan",
+     "inicioMs": 6050,
+     "finMs": 6225
+    },
+    {
+     "texto": "hermoso.",
+     "inicioMs": 6275,
+     "finMs": 6825
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-08.mp3",
+   "duracionMs": 7655,
+   "palabras": [
+    {
+     "texto": "Desde",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "entonces,",
+     "inicioMs": 475,
+     "finMs": 1100
+    },
+    {
+     "texto": "Botón",
+     "inicioMs": 1175,
+     "finMs": 1500
+    },
+    {
+     "texto": "disfruta",
+     "inicioMs": 1550,
+     "finMs": 2075
+    },
+    {
+     "texto": "su",
+     "inicioMs": 2125,
+     "finMs": 2225
+    },
+    {
+     "texto": "invierno.",
+     "inicioMs": 2275,
+     "finMs": 3100
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 3250,
+     "finMs": 3300
+    },
+    {
+     "texto": "cuando",
+     "inicioMs": 3350,
+     "finMs": 3575
+    },
+    {
+     "texto": "los",
+     "inicioMs": 3600,
+     "finMs": 3725
+    },
+    {
+     "texto": "niños",
+     "inicioMs": 3775,
+     "finMs": 4075
+    },
+    {
+     "texto": "juegan",
+     "inicioMs": 4125,
+     "finMs": 4450
+    },
+    {
+     "texto": "con",
+     "inicioMs": 4500,
+     "finMs": 4675
+    },
+    {
+     "texto": "él,",
+     "inicioMs": 4725,
+     "finMs": 5075
+    },
+    {
+     "texto": "dice",
+     "inicioMs": 5175,
+     "finMs": 5450
+    },
+    {
+     "texto": "que",
+     "inicioMs": 5500,
+     "finMs": 5550
+    },
+    {
+     "texto": "es",
+     "inicioMs": 5575,
+     "finMs": 5700
+    },
+    {
+     "texto": "el",
+     "inicioMs": 5750,
+     "finMs": 5825
+    },
+    {
+     "texto": "muñeco",
+     "inicioMs": 5875,
+     "finMs": 6300
+    },
+    {
+     "texto": "más",
+     "inicioMs": 6350,
+     "finMs": 6525
+    },
+    {
+     "texto": "feliz",
+     "inicioMs": 6575,
+     "finMs": 6850
+    },
+    {
+     "texto": "del",
+     "inicioMs": 6875,
+     "finMs": 7000
+    },
+    {
+     "texto": "mundo.",
+     "inicioMs": 7050,
+     "finMs": 7425
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-04-boton-quiere-ver-el-sol/escena-09.mp3",
+   "duracionMs": 7005,
+   "palabras": [
+    {
+     "texto": "Cada",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "uno",
+     "inicioMs": 475,
+     "finMs": 625
+    },
+    {
+     "texto": "es",
+     "inicioMs": 650,
+     "finMs": 750
+    },
+    {
+     "texto": "especial",
+     "inicioMs": 775,
+     "finMs": 1350
+    },
+    {
+     "texto": "tal",
+     "inicioMs": 1425,
+     "finMs": 1625
+    },
+    {
+     "texto": "como",
+     "inicioMs": 1675,
+     "finMs": 1875
+    },
+    {
+     "texto": "es,",
+     "inicioMs": 1900,
+     "finMs": 2075
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 2150,
+     "finMs": 2925
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 3025,
+     "finMs": 3375
+    },
+    {
+     "texto": "les",
+     "inicioMs": 3400,
+     "finMs": 3550
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 3600,
+     "finMs": 3825
+    },
+    {
+     "texto": "la",
+     "inicioMs": 3850,
+     "finMs": 3900
+    },
+    {
+     "texto": "historia",
+     "inicioMs": 3925,
+     "finMs": 4325
+    },
+    {
+     "texto": "de",
+     "inicioMs": 4350,
+     "finMs": 4400
+    },
+    {
+     "texto": "una",
+     "inicioMs": 4425,
+     "finMs": 4525
+    },
+    {
+     "texto": "estrellita",
+     "inicioMs": 4550,
+     "finMs": 5050
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 5100,
+     "finMs": 5250
+    },
+    {
+     "texto": "tímida.",
+     "inicioMs": 5325,
+     "finMs": 5925
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 6050,
+     "finMs": 6200
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 6275,
+     "finMs": 6425
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 6500,
+     "finMs": 6775
+    }
+   ]
+  }
+ ]
+}

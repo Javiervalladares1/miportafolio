@@ -1,0 +1,969 @@
+{
+ "voz": "kokoro/em_santa",
+ "escenas": [
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-01.mp3",
+   "duracionMs": 6705,
+   "palabras": [
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 450,
+     "finMs": 575
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 650,
+     "finMs": 850
+    },
+    {
+     "texto": "Hola,",
+     "inicioMs": 950,
+     "finMs": 1150
+    },
+    {
+     "texto": "pequeños.",
+     "inicioMs": 1225,
+     "finMs": 2125
+    },
+    {
+     "texto": "En",
+     "inicioMs": 2225,
+     "finMs": 2300
+    },
+    {
+     "texto": "mi",
+     "inicioMs": 2325,
+     "finMs": 2425
+    },
+    {
+     "texto": "taller",
+     "inicioMs": 2475,
+     "finMs": 2825
+    },
+    {
+     "texto": "hay",
+     "inicioMs": 2850,
+     "finMs": 3000
+    },
+    {
+     "texto": "que",
+     "inicioMs": 3025,
+     "finMs": 3075
+    },
+    {
+     "texto": "envolver",
+     "inicioMs": 3100,
+     "finMs": 3550
+    },
+    {
+     "texto": "miles",
+     "inicioMs": 3600,
+     "finMs": 3850
+    },
+    {
+     "texto": "de",
+     "inicioMs": 3875,
+     "finMs": 3925
+    },
+    {
+     "texto": "regalos,",
+     "inicioMs": 3975,
+     "finMs": 4525
+    },
+    {
+     "texto": "y",
+     "inicioMs": 4600,
+     "finMs": 4625
+    },
+    {
+     "texto": "eso",
+     "inicioMs": 4650,
+     "finMs": 4850
+    },
+    {
+     "texto": "toma",
+     "inicioMs": 4900,
+     "finMs": 5125
+    },
+    {
+     "texto": "mucho,",
+     "inicioMs": 5175,
+     "finMs": 5575
+    },
+    {
+     "texto": "mucho",
+     "inicioMs": 5650,
+     "finMs": 5950
+    },
+    {
+     "texto": "tiempo.",
+     "inicioMs": 6000,
+     "finMs": 6475
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-02.mp3",
+   "duracionMs": 5980,
+   "palabras": [
+    {
+     "texto": "Una",
+     "inicioMs": 225,
+     "finMs": 350
+    },
+    {
+     "texto": "mañana,",
+     "inicioMs": 375,
+     "finMs": 825
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 900,
+     "finMs": 1125
+    },
+    {
+     "texto": "dijo:",
+     "inicioMs": 1175,
+     "finMs": 1575
+    },
+    {
+     "texto": "¡Tengo",
+     "inicioMs": 1700,
+     "finMs": 1975
+    },
+    {
+     "texto": "una",
+     "inicioMs": 2000,
+     "finMs": 2125
+    },
+    {
+     "texto": "idea!",
+     "inicioMs": 2175,
+     "finMs": 2700
+    },
+    {
+     "texto": "Voy",
+     "inicioMs": 2850,
+     "finMs": 3025
+    },
+    {
+     "texto": "a",
+     "inicioMs": 3050,
+     "finMs": 3075
+    },
+    {
+     "texto": "inventar",
+     "inicioMs": 3100,
+     "finMs": 3525
+    },
+    {
+     "texto": "una",
+     "inicioMs": 3550,
+     "finMs": 3700
+    },
+    {
+     "texto": "máquina",
+     "inicioMs": 3750,
+     "finMs": 4150
+    },
+    {
+     "texto": "que",
+     "inicioMs": 4200,
+     "finMs": 4250
+    },
+    {
+     "texto": "envuelva",
+     "inicioMs": 4275,
+     "finMs": 4700
+    },
+    {
+     "texto": "los",
+     "inicioMs": 4725,
+     "finMs": 4850
+    },
+    {
+     "texto": "regalos",
+     "inicioMs": 4900,
+     "finMs": 5275
+    },
+    {
+     "texto": "sola.",
+     "inicioMs": 5350,
+     "finMs": 5750
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-03.mp3",
+   "duracionMs": 6755,
+   "palabras": [
+    {
+     "texto": "Trabajó",
+     "inicioMs": 225,
+     "finMs": 675
+    },
+    {
+     "texto": "toda",
+     "inicioMs": 750,
+     "finMs": 950
+    },
+    {
+     "texto": "la",
+     "inicioMs": 975,
+     "finMs": 1075
+    },
+    {
+     "texto": "noche.",
+     "inicioMs": 1100,
+     "finMs": 1625
+    },
+    {
+     "texto": "Tornillos",
+     "inicioMs": 1725,
+     "finMs": 2250
+    },
+    {
+     "texto": "por",
+     "inicioMs": 2300,
+     "finMs": 2425
+    },
+    {
+     "texto": "aquí,",
+     "inicioMs": 2475,
+     "finMs": 2700
+    },
+    {
+     "texto": "resortes",
+     "inicioMs": 2775,
+     "finMs": 3275
+    },
+    {
+     "texto": "por",
+     "inicioMs": 3325,
+     "finMs": 3450
+    },
+    {
+     "texto": "allá.",
+     "inicioMs": 3500,
+     "finMs": 3975
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 4100,
+     "finMs": 4125
+    },
+    {
+     "texto": "al",
+     "inicioMs": 4175,
+     "finMs": 4250
+    },
+    {
+     "texto": "día",
+     "inicioMs": 4300,
+     "finMs": 4475
+    },
+    {
+     "texto": "siguiente,",
+     "inicioMs": 4525,
+     "finMs": 5075
+    },
+    {
+     "texto": "¡la",
+     "inicioMs": 5125,
+     "finMs": 5225
+    },
+    {
+     "texto": "máquina",
+     "inicioMs": 5275,
+     "finMs": 5650
+    },
+    {
+     "texto": "estaba",
+     "inicioMs": 5675,
+     "finMs": 6050
+    },
+    {
+     "texto": "lista!",
+     "inicioMs": 6100,
+     "finMs": 6525
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-04.mp3",
+   "duracionMs": 7805,
+   "palabras": [
+    {
+     "texto": "Pino",
+     "inicioMs": 225,
+     "finMs": 450
+    },
+    {
+     "texto": "apretó",
+     "inicioMs": 475,
+     "finMs": 825
+    },
+    {
+     "texto": "el",
+     "inicioMs": 850,
+     "finMs": 925
+    },
+    {
+     "texto": "botón",
+     "inicioMs": 975,
+     "finMs": 1300
+    },
+    {
+     "texto": "rojo.",
+     "inicioMs": 1350,
+     "finMs": 1900
+    },
+    {
+     "texto": "¡Prrr,",
+     "inicioMs": 2000,
+     "finMs": 2675
+    },
+    {
+     "texto": "prrr!",
+     "inicioMs": 2750,
+     "finMs": 3650
+    },
+    {
+     "texto": "La",
+     "inicioMs": 3750,
+     "finMs": 3825
+    },
+    {
+     "texto": "máquina",
+     "inicioMs": 3850,
+     "finMs": 4175
+    },
+    {
+     "texto": "envolvió",
+     "inicioMs": 4200,
+     "finMs": 4575
+    },
+    {
+     "texto": "un",
+     "inicioMs": 4600,
+     "finMs": 4675
+    },
+    {
+     "texto": "regalo,",
+     "inicioMs": 4725,
+     "finMs": 5150
+    },
+    {
+     "texto": "luego",
+     "inicioMs": 5225,
+     "finMs": 5550
+    },
+    {
+     "texto": "otro,",
+     "inicioMs": 5600,
+     "finMs": 5925
+    },
+    {
+     "texto": "y",
+     "inicioMs": 6000,
+     "finMs": 6025
+    },
+    {
+     "texto": "luego",
+     "inicioMs": 6075,
+     "finMs": 6375
+    },
+    {
+     "texto": "otro.",
+     "inicioMs": 6400,
+     "finMs": 6750
+    },
+    {
+     "texto": "¡Funcionaba!",
+     "inicioMs": 6850,
+     "finMs": 7575
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-05.mp3",
+   "duracionMs": 5930,
+   "palabras": [
+    {
+     "texto": "Pero",
+     "inicioMs": 225,
+     "finMs": 375
+    },
+    {
+     "texto": "después",
+     "inicioMs": 400,
+     "finMs": 750
+    },
+    {
+     "texto": "envolvió",
+     "inicioMs": 775,
+     "finMs": 1175
+    },
+    {
+     "texto": "la",
+     "inicioMs": 1200,
+     "finMs": 1300
+    },
+    {
+     "texto": "silla.",
+     "inicioMs": 1375,
+     "finMs": 1850
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 1950,
+     "finMs": 1975
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2025,
+     "finMs": 2125
+    },
+    {
+     "texto": "lámpara.",
+     "inicioMs": 2150,
+     "finMs": 2600
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 2675,
+     "finMs": 2700
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2725,
+     "finMs": 2800
+    },
+    {
+     "texto": "escoba.",
+     "inicioMs": 2825,
+     "finMs": 3500
+    },
+    {
+     "texto": "¡Y",
+     "inicioMs": 3625,
+     "finMs": 3650
+    },
+    {
+     "texto": "hasta",
+     "inicioMs": 3675,
+     "finMs": 3875
+    },
+    {
+     "texto": "al",
+     "inicioMs": 3900,
+     "finMs": 3975
+    },
+    {
+     "texto": "gato,",
+     "inicioMs": 4025,
+     "finMs": 4350
+    },
+    {
+     "texto": "que",
+     "inicioMs": 4425,
+     "finMs": 4500
+    },
+    {
+     "texto": "maulló",
+     "inicioMs": 4550,
+     "finMs": 4925
+    },
+    {
+     "texto": "muy",
+     "inicioMs": 4975,
+     "finMs": 5125
+    },
+    {
+     "texto": "enojado!",
+     "inicioMs": 5150,
+     "finMs": 5700
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-06.mp3",
+   "duracionMs": 8830,
+   "palabras": [
+    {
+     "texto": "Canela",
+     "inicioMs": 225,
+     "finMs": 575
+    },
+    {
+     "texto": "llegó",
+     "inicioMs": 625,
+     "finMs": 875
+    },
+    {
+     "texto": "corriendo",
+     "inicioMs": 925,
+     "finMs": 1450
+    },
+    {
+     "texto": "y",
+     "inicioMs": 1500,
+     "finMs": 1525
+    },
+    {
+     "texto": "desconectó",
+     "inicioMs": 1550,
+     "finMs": 2100
+    },
+    {
+     "texto": "la",
+     "inicioMs": 2125,
+     "finMs": 2225
+    },
+    {
+     "texto": "máquina.",
+     "inicioMs": 2275,
+     "finMs": 2875
+    },
+    {
+     "texto": "Pino,",
+     "inicioMs": 3000,
+     "finMs": 3300
+    },
+    {
+     "texto": "¿le",
+     "inicioMs": 3375,
+     "finMs": 3475
+    },
+    {
+     "texto": "pusiste",
+     "inicioMs": 3525,
+     "finMs": 3950
+    },
+    {
+     "texto": "un",
+     "inicioMs": 3975,
+     "finMs": 4050
+    },
+    {
+     "texto": "botón",
+     "inicioMs": 4100,
+     "finMs": 4450
+    },
+    {
+     "texto": "para",
+     "inicioMs": 4500,
+     "finMs": 4675
+    },
+    {
+     "texto": "parar?",
+     "inicioMs": 4725,
+     "finMs": 5125
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 5225,
+     "finMs": 5450
+    },
+    {
+     "texto": "se",
+     "inicioMs": 5500,
+     "finMs": 5600
+    },
+    {
+     "texto": "puso",
+     "inicioMs": 5650,
+     "finMs": 5925
+    },
+    {
+     "texto": "rojo",
+     "inicioMs": 5975,
+     "finMs": 6275
+    },
+    {
+     "texto": "como",
+     "inicioMs": 6325,
+     "finMs": 6475
+    },
+    {
+     "texto": "una",
+     "inicioMs": 6500,
+     "finMs": 6650
+    },
+    {
+     "texto": "fresa.",
+     "inicioMs": 6700,
+     "finMs": 7350
+    },
+    {
+     "texto": "¡Se",
+     "inicioMs": 7500,
+     "finMs": 7575
+    },
+    {
+     "texto": "le",
+     "inicioMs": 7600,
+     "finMs": 7675
+    },
+    {
+     "texto": "había",
+     "inicioMs": 7725,
+     "finMs": 7975
+    },
+    {
+     "texto": "olvidado!",
+     "inicioMs": 8000,
+     "finMs": 8600
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-07.mp3",
+   "duracionMs": 7080,
+   "palabras": [
+    {
+     "texto": "Entonces",
+     "inicioMs": 225,
+     "finMs": 750
+    },
+    {
+     "texto": "Canela",
+     "inicioMs": 800,
+     "finMs": 1175
+    },
+    {
+     "texto": "y",
+     "inicioMs": 1225,
+     "finMs": 1275
+    },
+    {
+     "texto": "Pino",
+     "inicioMs": 1325,
+     "finMs": 1575
+    },
+    {
+     "texto": "se",
+     "inicioMs": 1625,
+     "finMs": 1725
+    },
+    {
+     "texto": "sentaron",
+     "inicioMs": 1775,
+     "finMs": 2250
+    },
+    {
+     "texto": "juntos",
+     "inicioMs": 2325,
+     "finMs": 2850
+    },
+    {
+     "texto": "e",
+     "inicioMs": 2925,
+     "finMs": 2975
+    },
+    {
+     "texto": "hicieron",
+     "inicioMs": 3025,
+     "finMs": 3375
+    },
+    {
+     "texto": "un",
+     "inicioMs": 3400,
+     "finMs": 3525
+    },
+    {
+     "texto": "plan,",
+     "inicioMs": 3575,
+     "finMs": 3975
+    },
+    {
+     "texto": "paso",
+     "inicioMs": 4075,
+     "finMs": 4350
+    },
+    {
+     "texto": "por",
+     "inicioMs": 4400,
+     "finMs": 4550
+    },
+    {
+     "texto": "paso,",
+     "inicioMs": 4625,
+     "finMs": 5125
+    },
+    {
+     "texto": "antes",
+     "inicioMs": 5250,
+     "finMs": 5575
+    },
+    {
+     "texto": "de",
+     "inicioMs": 5600,
+     "finMs": 5650
+    },
+    {
+     "texto": "volver",
+     "inicioMs": 5675,
+     "finMs": 6050
+    },
+    {
+     "texto": "a",
+     "inicioMs": 6075,
+     "finMs": 6100
+    },
+    {
+     "texto": "encenderla.",
+     "inicioMs": 6125,
+     "finMs": 6850
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-08.mp3",
+   "duracionMs": 6430,
+   "palabras": [
+    {
+     "texto": "Esta",
+     "inicioMs": 200,
+     "finMs": 450
+    },
+    {
+     "texto": "vez,",
+     "inicioMs": 475,
+     "finMs": 725
+    },
+    {
+     "texto": "la",
+     "inicioMs": 800,
+     "finMs": 900
+    },
+    {
+     "texto": "máquina",
+     "inicioMs": 950,
+     "finMs": 1325
+    },
+    {
+     "texto": "envolvió",
+     "inicioMs": 1350,
+     "finMs": 1825
+    },
+    {
+     "texto": "solo",
+     "inicioMs": 1900,
+     "finMs": 2125
+    },
+    {
+     "texto": "los",
+     "inicioMs": 2150,
+     "finMs": 2275
+    },
+    {
+     "texto": "regalos.",
+     "inicioMs": 2325,
+     "finMs": 3100
+    },
+    {
+     "texto": "Y",
+     "inicioMs": 3250,
+     "finMs": 3275
+    },
+    {
+     "texto": "el",
+     "inicioMs": 3325,
+     "finMs": 3400
+    },
+    {
+     "texto": "gato…",
+     "inicioMs": 3450,
+     "finMs": 3675
+    },
+    {
+     "texto": "bueno,",
+     "inicioMs": 3750,
+     "finMs": 4175
+    },
+    {
+     "texto": "el",
+     "inicioMs": 4275,
+     "finMs": 4350
+    },
+    {
+     "texto": "gato",
+     "inicioMs": 4400,
+     "finMs": 4675
+    },
+    {
+     "texto": "ya",
+     "inicioMs": 4725,
+     "finMs": 4875
+    },
+    {
+     "texto": "no",
+     "inicioMs": 4925,
+     "finMs": 5050
+    },
+    {
+     "texto": "se",
+     "inicioMs": 5100,
+     "finMs": 5175
+    },
+    {
+     "texto": "acerca",
+     "inicioMs": 5200,
+     "finMs": 5575
+    },
+    {
+     "texto": "a",
+     "inicioMs": 5600,
+     "finMs": 5625
+    },
+    {
+     "texto": "la",
+     "inicioMs": 5650,
+     "finMs": 5725
+    },
+    {
+     "texto": "máquina.",
+     "inicioMs": 5750,
+     "finMs": 6200
+    }
+   ]
+  },
+  {
+   "audio": "voz/navidad-03-maquina-envuelve-todo/escena-09.mp3",
+   "duracionMs": 7805,
+   "palabras": [
+    {
+     "texto": "Recuerden:",
+     "inicioMs": 225,
+     "finMs": 775
+    },
+    {
+     "texto": "antes",
+     "inicioMs": 825,
+     "finMs": 1100
+    },
+    {
+     "texto": "de",
+     "inicioMs": 1125,
+     "finMs": 1175
+    },
+    {
+     "texto": "hacer",
+     "inicioMs": 1200,
+     "finMs": 1425
+    },
+    {
+     "texto": "algo",
+     "inicioMs": 1450,
+     "finMs": 1675
+    },
+    {
+     "texto": "grande,",
+     "inicioMs": 1725,
+     "finMs": 2175
+    },
+    {
+     "texto": "hay",
+     "inicioMs": 2250,
+     "finMs": 2350
+    },
+    {
+     "texto": "que",
+     "inicioMs": 2400,
+     "finMs": 2450
+    },
+    {
+     "texto": "pensar",
+     "inicioMs": 2500,
+     "finMs": 2850
+    },
+    {
+     "texto": "bien",
+     "inicioMs": 2900,
+     "finMs": 3075
+    },
+    {
+     "texto": "el",
+     "inicioMs": 3100,
+     "finMs": 3200
+    },
+    {
+     "texto": "plan.",
+     "inicioMs": 3275,
+     "finMs": 3725
+    },
+    {
+     "texto": "Mañana",
+     "inicioMs": 3875,
+     "finMs": 4200
+    },
+    {
+     "texto": "les",
+     "inicioMs": 4225,
+     "finMs": 4375
+    },
+    {
+     "texto": "cuento",
+     "inicioMs": 4425,
+     "finMs": 4750
+    },
+    {
+     "texto": "por",
+     "inicioMs": 4800,
+     "finMs": 4950
+    },
+    {
+     "texto": "qué",
+     "inicioMs": 5000,
+     "finMs": 5075
+    },
+    {
+     "texto": "Botón",
+     "inicioMs": 5100,
+     "finMs": 5425
+    },
+    {
+     "texto": "quería",
+     "inicioMs": 5475,
+     "finMs": 5800
+    },
+    {
+     "texto": "ver",
+     "inicioMs": 5825,
+     "finMs": 5975
+    },
+    {
+     "texto": "el",
+     "inicioMs": 6000,
+     "finMs": 6100
+    },
+    {
+     "texto": "sol.",
+     "inicioMs": 6200,
+     "finMs": 6675
+    },
+    {
+     "texto": "¡Jo,",
+     "inicioMs": 6825,
+     "finMs": 6975
+    },
+    {
+     "texto": "jo,",
+     "inicioMs": 7050,
+     "finMs": 7225
+    },
+    {
+     "texto": "jo!",
+     "inicioMs": 7300,
+     "finMs": 7575
+    }
+   ]
+  }
+ ]
+}

@@ -85,3 +85,26 @@ O pedíselo a Claude Code, por ejemplo:
 - Agregá música desde la biblioteca de TikTok a bajo volumen: así no tenés problemas de derechos.
 - Marcá el video como contenido generado con IA si TikTok lo pide.
 - **Verificá cada dato antes de publicar.** Son temas de dinero y la gente va a confiar en vos.
+
+---
+
+# Cuentos de Navidad con Santa 🎅
+
+Plan de la temporada: `planes/navidad-50-videos.md`. Textos para publicar: `planes/publicacion-*.md`.
+
+```bash
+# 1. Voz de Santa para todos los cuentos (Kokoro, sin internet)
+python3 scripts/voz_kokoro.py videos/navidad/*.json
+
+# 2. Música de fondo original (solo una vez)
+python3 scripts/musica.py
+
+# 3. Renderizar en lote -> out/
+bash scripts/renderizar.sh navidad-
+```
+
+Cada cuento es un JSON en `videos/navidad/` y se registra en `videos/navidad/index.ts`.
+Cada escena tiene: `texto` (lo que dice Santa), `escenario` (`aldea`, `taller`, `cocina`, `cielo`, `bosque` o `noche`),
+`elementos` (personajes o emojis con `pos` y `accion`) y un `rotulo` opcional para la moraleja.
+Los personajes están en `src/cuento/personajes.ts`. Las acciones disponibles son `quieto`, `entra`, `sale`, `salta`, `vuela`,
+`cae`, `tiembla`, `gira`, `duerme`, `saluda`, `brilla`, `crece` y `camina`.

@@ -1,0 +1,189 @@
+{
+  "formato": "cuento",
+  "id": "navidad-09-el-trineo-que-chillaba",
+  "numero": 9,
+  "serie": "El Taller",
+  "titulo": "El trineo que chillaba",
+  "proximo": "La noche que dura meses",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. Un día, mientras revisaba mi trineo, escuché un ruido muy raro: ¡pío, pío, pío!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "🛷",
+          "pos": "der",
+          "accion": "tiembla",
+          "tam": 1.6
+        }
+      ]
+    },
+    {
+      "texto": "¡El trineo está roto!, gritó Pino. ¡Hay que desarmarlo!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "🛷",
+          "pos": "der",
+          "accion": "tiembla",
+          "tam": 1.6
+        },
+        {
+          "p": "🔧",
+          "pos": "medio-izq",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Pino trajo su caja de herramientas. Pero Canela dijo: Espera. Ese ruido no suena a tornillo. Suena a pajaritos.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq"
+        },
+        {
+          "p": "🛷",
+          "pos": "centro",
+          "accion": "quieto",
+          "tam": 1.4
+        },
+        {
+          "p": "canela",
+          "pos": "der",
+          "accion": "entra"
+        }
+      ]
+    },
+    {
+      "texto": "Nos asomamos debajo del asiento, y ahí estaba: un nido con tres pajaritos recién nacidos, con la boca bien abierta.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pajaritos",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "pajaritos",
+          "pos": "centro",
+          "accion": "salta"
+        },
+        {
+          "p": "pajaritos",
+          "pos": "der",
+          "accion": "salta"
+        }
+      ]
+    },
+    {
+      "texto": "Su mamá había encontrado un lugar calientito, protegido del viento, para cuidarlos.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "🐦",
+          "pos": "arriba-centro",
+          "accion": "vuela",
+          "tam": 1.4
+        },
+        {
+          "p": "pajaritos",
+          "pos": "centro"
+        }
+      ]
+    },
+    {
+      "texto": "Pero Santa, dijo Pino, ¡necesitamos el trineo para Navidad! Tienes razón, le dije, pero ellos lo necesitan más ahora mismo.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq",
+          "accion": "tiembla"
+        },
+        {
+          "p": "santa",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Así que esperamos. Todos los días les llevábamos migajas de pan, y Pino les hizo un techito para el nido.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq"
+        },
+        {
+          "p": "pajaritos",
+          "pos": "centro",
+          "accion": "salta"
+        },
+        {
+          "p": "canela",
+          "pos": "der"
+        },
+        {
+          "p": "🍞",
+          "pos": "medio-centro",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    },
+    {
+      "texto": "Una semana después, los pajaritos aprendieron a volar, ¡igual que Copito! Y se despidieron dando vueltas sobre el taller.",
+      "escenario": "cielo",
+      "elementos": [
+        {
+          "p": "🐦",
+          "pos": "arriba-izq",
+          "accion": "vuela"
+        },
+        {
+          "p": "🐦",
+          "pos": "arriba-centro",
+          "accion": "vuela"
+        },
+        {
+          "p": "🐦",
+          "pos": "medio-der",
+          "accion": "vuela"
+        }
+      ],
+      "rotulo": "Cuidemos a los animales"
+    },
+    {
+      "texto": "Los animales también son parte de nuestro hogar, pequeños. Mañana, Don Plumas nos va a contar por qué en el Polo Norte la noche dura meses. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}

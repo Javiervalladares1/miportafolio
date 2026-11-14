@@ -1,0 +1,186 @@
+{
+  "formato": "cuento",
+  "id": "navidad-03-maquina-envuelve-todo",
+  "numero": 3,
+  "serie": "El Taller",
+  "titulo": "La máquina envuelve-todo",
+  "proximo": "Botón quiere ver el sol",
+  "voz": "em_santa",
+  "velocidad": 0.95,
+  "musica": "cajita",
+  "escenas": [
+    {
+      "texto": "¡Jo, jo, jo! Hola, pequeños. En mi taller hay que envolver miles de regalos, y eso toma mucho, mucho tiempo.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "izq",
+          "accion": "saluda"
+        },
+        {
+          "p": "🎁",
+          "pos": "der",
+          "accion": "brilla",
+          "tam": 0.9
+        }
+      ]
+    },
+    {
+      "texto": "Una mañana, Pino dijo: ¡Tengo una idea! Voy a inventar una máquina que envuelva los regalos sola.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "centro",
+          "accion": "salta"
+        },
+        {
+          "p": "💡",
+          "pos": "arriba-centro",
+          "accion": "brilla"
+        }
+      ]
+    },
+    {
+      "texto": "Trabajó toda la noche. Tornillos por aquí, resortes por allá. Y al día siguiente, ¡la máquina estaba lista!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq"
+        },
+        {
+          "p": "⚙️",
+          "pos": "centro",
+          "accion": "gira",
+          "tam": 1.6
+        },
+        {
+          "p": "🔩",
+          "pos": "medio-der",
+          "accion": "gira"
+        }
+      ]
+    },
+    {
+      "texto": "Pino apretó el botón rojo. ¡Prrr, prrr! La máquina envolvió un regalo, luego otro, y luego otro. ¡Funcionaba!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "🎁",
+          "pos": "izq",
+          "accion": "crece"
+        },
+        {
+          "p": "⚙️",
+          "pos": "centro",
+          "accion": "gira",
+          "tam": 1.6
+        },
+        {
+          "p": "🎁",
+          "pos": "der",
+          "accion": "crece"
+        }
+      ]
+    },
+    {
+      "texto": "Pero después envolvió la silla. Y la lámpara. Y la escoba. ¡Y hasta al gato, que maulló muy enojado!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "🎁",
+          "pos": "izq",
+          "accion": "tiembla",
+          "tam": 1.3
+        },
+        {
+          "p": "⚙️",
+          "pos": "centro",
+          "accion": "gira",
+          "tam": 1.6
+        },
+        {
+          "p": "gato",
+          "pos": "der",
+          "accion": "tiembla"
+        }
+      ]
+    },
+    {
+      "texto": "Canela llegó corriendo y desconectó la máquina. Pino, ¿le pusiste un botón para parar? Pino se puso rojo como una fresa. ¡Se le había olvidado!",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq",
+          "accion": "tiembla"
+        },
+        {
+          "p": "canela",
+          "pos": "der",
+          "accion": "entra"
+        }
+      ]
+    },
+    {
+      "texto": "Entonces Canela y Pino se sentaron juntos e hicieron un plan, paso por paso, antes de volver a encenderla.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "pino",
+          "pos": "izq"
+        },
+        {
+          "p": "📝",
+          "pos": "medio-centro",
+          "accion": "brilla"
+        },
+        {
+          "p": "canela",
+          "pos": "der"
+        }
+      ]
+    },
+    {
+      "texto": "Esta vez, la máquina envolvió solo los regalos. Y el gato… bueno, el gato ya no se acerca a la máquina.",
+      "escenario": "taller",
+      "elementos": [
+        {
+          "p": "🎁",
+          "pos": "izq",
+          "accion": "salta"
+        },
+        {
+          "p": "⚙️",
+          "pos": "centro",
+          "accion": "gira",
+          "tam": 1.4
+        },
+        {
+          "p": "gato",
+          "pos": "der-lejos"
+        }
+      ],
+      "rotulo": "Primero se piensa, después se hace"
+    },
+    {
+      "texto": "Recuerden: antes de hacer algo grande, hay que pensar bien el plan. Mañana les cuento por qué Botón quería ver el sol. ¡Jo, jo, jo!",
+      "escenario": "noche",
+      "elementos": [
+        {
+          "p": "santa",
+          "pos": "centro",
+          "accion": "saluda"
+        },
+        {
+          "p": "estrella",
+          "pos": "arriba-izq",
+          "accion": "brilla",
+          "tam": 0.7
+        }
+      ]
+    }
+  ]
+}
