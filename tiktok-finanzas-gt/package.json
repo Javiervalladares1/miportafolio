@@ -1,0 +1,24 @@
+{
+  "name": "tiktok-finanzas-gt",
+  "version": "1.0.0",
+  "description": "Videos faceless de finanzas en Guatemala para TikTok, hechos con Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "voz": "python3 scripts/generar_voz.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "4.0.543",
+    "@remotion/fonts": "4.0.543",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.543"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.31",
+    "typescript": "5.9"
+  }
+}

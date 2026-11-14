@@ -1,0 +1,66 @@
+# Videos de finanzas en Guatemala para TikTok 🇬🇹
+
+Videos *faceless* (sin cara) y animados, hechos con código usando [Remotion](https://www.remotion.dev).
+Cada video sale de un archivo JSON con el guion. Claude puede escribir videos nuevos por vos.
+
+```
+guion (JSON)  →  voz + tiempos (edge-tts)  →  animación (Remotion)  →  MP4 vertical 1080×1920
+```
+
+## Requisitos (una sola vez)
+
+- [Node.js](https://nodejs.org) 18 o más reciente
+- Python 3 y `pip install edge-tts` (voz gratis de Microsoft, con acento guatemalteco)
+- `ffmpeg` (opcional, para medir el audio con precisión)
+
+```bash
+cd tiktok-finanzas-gt
+npm install
+```
+
+## Hacer un video
+
+```bash
+# 1. Generar la voz (necesita internet)
+python3 scripts/generar_voz.py videos/bono14-aguinaldo.json
+
+# 2. Ver y ajustar en el navegador (vista previa en vivo)
+npm run studio
+
+# 3. Exportar el MP4
+npx remotion render bono14-aguinaldo out/bono14-aguinaldo.mp4
+```
+
+Sin el paso 1 el video igual se genera, pero en silencio y con tiempos estimados (sirve para previsualizar).
+
+Voces: `es-GT-AndresNeural` (hombre) o `es-GT-MartaNeural` (mujer). Cambiala en el JSON (`"voz"`)
+o con `--voz`. El ritmo se ajusta con `--velocidad +12%`.
+
+## Crear un video nuevo
+
+1. Copiá `videos/bono14-aguinaldo.json` con otro nombre y cambiá `id`, `titulo`, `fuente` y `escenas`.
+2. Agregalo a la lista `videos` en `src/Root.tsx`.
+3. Generá la voz y renderizá.
+
+O pedíselo a Claude Code, por ejemplo:
+
+> Hacé un video nuevo sobre cómo funciona el IGSS, siguiendo CLAUDE.md.
+
+### Tipos de escena (`visual.tipo`)
+
+| tipo | campos | se ve como |
+|---|---|---|
+| `numero-grande` | `valor`, `etiqueta`, `prefijo?`, `emoji?` | número gigante que cuenta desde 0 |
+| `titulo` | `titulo`, `subtitulo?`, `emoji?` | título con etiqueta dorada |
+| `barras` | `items[{etiqueta, valor, destacado?}]` | barras que crecen |
+| `calendario` | `mes`, `detalle?`, `emoji?` | hoja de calendario |
+| `contador` | `desde`, `hasta`, `prefijo?`, `etiqueta` | cifra que sube (antes vs. después) |
+| `lista` | `items[{emoji, texto}]` | tarjetas que entran una por una |
+| `cta` | `texto`, `subtitulo?` | botón "Seguime" que late |
+
+## Al publicar en TikTok
+
+- Los textos importantes quedan dentro de la zona segura (TikTok tapa los bordes inferior y derecho).
+- Agregá música desde la biblioteca de TikTok a bajo volumen: así no tenés problemas de derechos.
+- Marcá el video como contenido generado con IA si TikTok lo pide.
+- **Verificá cada dato antes de publicar.** Son temas de dinero y la gente va a confiar en vos.

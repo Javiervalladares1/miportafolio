@@ -1,0 +1,54 @@
+{
+  "id": "bono14-aguinaldo",
+  "titulo": "En Guatemala te pagan 14 salarios",
+  "voz": "es-GT-AndresNeural",
+  "fuente": "Decreto 76-78 (aguinaldo) · Decreto 42-92 (Bono 14)",
+  "escenas": [
+    {
+      "texto": "¿Sabías que en Guatemala te pagan catorce salarios al año, y no doce?",
+      "visual": { "tipo": "numero-grande", "valor": 14, "etiqueta": "salarios al año", "emoji": "💸" }
+    },
+    {
+      "texto": "Además de tus doce sueldos, la ley te da dos pagos extra: el aguinaldo y el Bono Catorce.",
+      "visual": {
+        "tipo": "barras",
+        "items": [
+          { "etiqueta": "Sueldos", "valor": 12 },
+          { "etiqueta": "Aguinaldo", "valor": 1, "destacado": true },
+          { "etiqueta": "Bono 14", "valor": 1, "destacado": true }
+        ]
+      }
+    },
+    {
+      "texto": "El Bono Catorce es un salario completo, y te lo tienen que pagar en la primera quincena de julio.",
+      "visual": { "tipo": "calendario", "mes": "Julio", "detalle": "1.ª quincena", "emoji": "☀️" }
+    },
+    {
+      "texto": "El aguinaldo es otro salario completo. Se paga en diciembre, o la mitad en diciembre y la otra mitad en enero.",
+      "visual": { "tipo": "calendario", "mes": "Diciembre", "detalle": "o mitad en enero", "emoji": "🎄" }
+    },
+    {
+      "texto": "Si ganás cuatro mil quetzales al mes, al año no recibís cuarenta y ocho mil, sino cincuenta y seis mil.",
+      "visual": { "tipo": "contador", "desde": 48000, "hasta": 56000, "prefijo": "Q", "etiqueta": "al año con Q4,000 al mes" }
+    },
+    {
+      "texto": "Y si llevás menos de un año en tu trabajo, igual te toca la parte proporcional.",
+      "visual": { "tipo": "titulo", "titulo": "¿Menos de un año?", "subtitulo": "Te toca la parte proporcional", "emoji": "⏳" }
+    },
+    {
+      "texto": "El truco: antes de que te caigan, decidí a dónde va cada quetzal. Una parte al ahorro, otra a tus deudas, y otra para disfrutar.",
+      "visual": {
+        "tipo": "lista",
+        "items": [
+          { "emoji": "🐷", "texto": "Ahorro" },
+          { "emoji": "💳", "texto": "Deudas" },
+          { "emoji": "🎉", "texto": "Disfrutar" }
+        ]
+      }
+    },
+    {
+      "texto": "Seguime para más datos de finanzas en Guatemala.",
+      "visual": { "tipo": "cta", "texto": "Seguime para más", "subtitulo": "Finanzas en Guate 🇬🇹" }
+    }
+  ]
+}
